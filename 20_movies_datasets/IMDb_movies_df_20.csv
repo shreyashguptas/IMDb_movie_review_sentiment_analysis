@@ -1,51 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
-I Kill Giants,"Drama,Fantasy,Thriller",6.1,2017,0,106.0,32840,355996
-Whiskey Tango Foxtrot,"Biography,Comedy,Drama",6.6,2016,0,112.0,55860,356401
-Dunki,"Comedy,Drama",7.2,2023,0,160.0,62137,356747
-When We First Met,"Comedy,Fantasy,Romance",6.4,2018,0,97.0,53509,356779
-The Edge of Democracy,"Documentary,History",7.3,2019,0,121.0,15646,356810
-Fantastic Beasts and Where to Find Them,"Adventure,Family,Fantasy",7.2,2016,0,132.0,503496,356923
-Knives Out,"Comedy,Crime,Drama",7.9,2019,0,130.0,762189,357036
-Trapped,"Drama,Thriller",7.5,2016,0,105.0,13570,357928
-Newness,"Drama,Romance",6.3,2017,0,117.0,17855,358890
-No Sudden Move,"Crime,Drama,Mystery",6.4,2021,0,115.0,40531,358941
-Mortal Kombat Legends: Scorpion's Revenge,"Action,Adventure,Animation",7.4,2020,0,80.0,19355,359110
-Detroit,"Crime,Drama,History",7.3,2017,0,143.0,55639,359835
-The Bob's Burgers Movie,"Adventure,Animation,Comedy",7.0,2022,0,102.0,20969,360063
-Speak No Evil,"Drama,Horror,Thriller",6.6,2022,0,97.0,35497,360345
-Fifty Shades of Black,Comedy,3.5,2016,0,92.0,23048,360648
-Zola,"Comedy,Crime,Drama",6.5,2020,0,86.0,17029,360891
-Wonder,"Drama,Family",7.9,2017,0,113.0,176562,361182
-The Aeronauts,"Action,Adventure,Drama",6.6,2019,0,100.0,36956,361320
-Onward,"Action,Adventure,Animation",7.4,2020,0,102.0,167294,361443
-You Get Me,"Crime,Drama,Mystery",4.7,2017,0,89.0,14266,361684
-Goodnight Mommy,"Crime,Drama,Horror",5.7,2022,0,92.0,14215,362200
-No Time to Die,"Action,Adventure,Thriller",7.3,2021,0,163.0,439454,362226
-Purple Hearts,"Drama,Music,Romance",6.7,2022,0,122.0,49698,362543
-Close,Drama,7.8,2022,0,104.0,32563,363360
-Amanda Knox,"Crime,Documentary",6.9,2016,0,92.0,25947,363425
-Father Figures,"Comedy,Drama",5.5,2017,0,113.0,21106,363508
-La belle époque,"Comedy,Drama,Fantasy",7.4,2019,0,115.0,19236,363728
-Napoleon,"Action,Adventure,Biography",6.4,2023,0,158.0,104855,363912
-Mamma Mia! Here We Go Again,"Comedy,Musical,Romance",6.6,2018,0,114.0,107140,364311
-12th Fail,"Biography,Drama",9.2,2023,0,147.0,94207,364777
-Polar,"Action,Thriller",6.3,2019,0,118.0,97994,366129
-SAS: Red Notice,"Action,Thriller",5.3,2021,0,124.0,21018,366795
-Beast,"Action,Comedy,Thriller",5.2,2022,0,155.0,36150,367310
-Yes Day,"Comedy,Family",5.7,2021,0,86.0,29449,367624
-Ready or Not,"Action,Comedy,Horror",6.9,2019,0,95.0,178509,367825
-You Should Have Left,"Horror,Mystery,Thriller",5.4,2020,0,93.0,25280,369185
-Mother's Day,"Comedy,Drama,Romance",5.6,2016,0,118.0,39487,369208
-Orphan: First Kill,"Crime,Drama,Horror",5.9,2022,0,99.0,45079,369336
-Over the Moon,"Adventure,Animation,Comedy",6.3,2020,0,95.0,24713,369435
-The Take,"Action,Adventure,Crime",6.3,2016,0,92.0,50489,369627
-The Edge of Seventeen,"Comedy,Drama",7.3,2016,0,104.0,138865,369909
-The Bad Batch,"Action,Horror,Mystery",5.2,2016,0,118.0,35128,370222
-The Angry Birds Movie 2,"Action,Adventure,Animation",6.4,2019,0,97.0,34445,370521
-Deadpool 2,"Action,Adventure,Comedy",7.6,2018,0,119.0,634386,370588
-The Salesman,"Drama,Thriller",7.7,2016,0,124.0,64151,370633
-Roohi,"Comedy,Horror",4.3,2021,0,134.0,10804,370978
-Captain America: Civil War,"Action,Sci-Fi",7.8,2016,0,147.0,841490,371010
-Jungle,"Action,Adventure,Biography",6.7,2017,0,115.0,62644,371257
-Haunt,"Horror,Thriller",6.3,2019,0,92.0,35996,371693
-Ratchet & Clank,"Action,Adventure,Animation",5.5,2016,0,94.0,11713,371788
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+I Kill Giants,"Drama,Fantasy,Thriller",6.1,2017,0,106.0,32840
+Whiskey Tango Foxtrot,"Biography,Comedy,Drama",6.6,2016,0,112.0,55860
+Dunki,"Comedy,Drama",7.2,2023,0,160.0,62137
+When We First Met,"Comedy,Fantasy,Romance",6.4,2018,0,97.0,53509
+The Edge of Democracy,"Documentary,History",7.3,2019,0,121.0,15646
+Fantastic Beasts and Where to Find Them,"Adventure,Family,Fantasy",7.2,2016,0,132.0,503496
+Knives Out,"Comedy,Crime,Drama",7.9,2019,0,130.0,762189
+Trapped,"Drama,Thriller",7.5,2016,0,105.0,13570
+Newness,"Drama,Romance",6.3,2017,0,117.0,17855
+No Sudden Move,"Crime,Drama,Mystery",6.4,2021,0,115.0,40531
+Mortal Kombat Legends: Scorpion's Revenge,"Action,Adventure,Animation",7.4,2020,0,80.0,19355
+Detroit,"Crime,Drama,History",7.3,2017,0,143.0,55639
+The Bob's Burgers Movie,"Adventure,Animation,Comedy",7.0,2022,0,102.0,20969
+Speak No Evil,"Drama,Horror,Thriller",6.6,2022,0,97.0,35497
+Fifty Shades of Black,Comedy,3.5,2016,0,92.0,23048
+Zola,"Comedy,Crime,Drama",6.5,2020,0,86.0,17029
+Wonder,"Drama,Family",7.9,2017,0,113.0,176562
+The Aeronauts,"Action,Adventure,Drama",6.6,2019,0,100.0,36956
+Onward,"Action,Adventure,Animation",7.4,2020,0,102.0,167294
+You Get Me,"Crime,Drama,Mystery",4.7,2017,0,89.0,14266
+Goodnight Mommy,"Crime,Drama,Horror",5.7,2022,0,92.0,14215
+No Time to Die,"Action,Adventure,Thriller",7.3,2021,0,163.0,439454
+Purple Hearts,"Drama,Music,Romance",6.7,2022,0,122.0,49698
+Close,Drama,7.8,2022,0,104.0,32563
+Amanda Knox,"Crime,Documentary",6.9,2016,0,92.0,25947
+Father Figures,"Comedy,Drama",5.5,2017,0,113.0,21106
+La belle époque,"Comedy,Drama,Fantasy",7.4,2019,0,115.0,19236
+Napoleon,"Action,Adventure,Biography",6.4,2023,0,158.0,104855
+Mamma Mia! Here We Go Again,"Comedy,Musical,Romance",6.6,2018,0,114.0,107140
+12th Fail,"Biography,Drama",9.2,2023,0,147.0,94207
+Polar,"Action,Thriller",6.3,2019,0,118.0,97994
+SAS: Red Notice,"Action,Thriller",5.3,2021,0,124.0,21018
+Beast,"Action,Comedy,Thriller",5.2,2022,0,155.0,36150
+Yes Day,"Comedy,Family",5.7,2021,0,86.0,29449
+Ready or Not,"Action,Comedy,Horror",6.9,2019,0,95.0,178509
+You Should Have Left,"Horror,Mystery,Thriller",5.4,2020,0,93.0,25280
+Mother's Day,"Comedy,Drama,Romance",5.6,2016,0,118.0,39487
+Orphan: First Kill,"Crime,Drama,Horror",5.9,2022,0,99.0,45079
+Over the Moon,"Adventure,Animation,Comedy",6.3,2020,0,95.0,24713
+The Take,"Action,Adventure,Crime",6.3,2016,0,92.0,50489
+The Edge of Seventeen,"Comedy,Drama",7.3,2016,0,104.0,138865
+The Bad Batch,"Action,Horror,Mystery",5.2,2016,0,118.0,35128
+The Angry Birds Movie 2,"Action,Adventure,Animation",6.4,2019,0,97.0,34445
+Deadpool 2,"Action,Adventure,Comedy",7.6,2018,0,119.0,634386
+The Salesman,"Drama,Thriller",7.7,2016,0,124.0,64151
+Roohi,"Comedy,Horror",4.3,2021,0,134.0,10804
+Captain America: Civil War,"Action,Sci-Fi",7.8,2016,0,147.0,841490
+Jungle,"Action,Adventure,Biography",6.7,2017,0,115.0,62644
+Haunt,"Horror,Thriller",6.3,2019,0,92.0,35996
+Ratchet & Clank,"Action,Adventure,Animation",5.5,2016,0,94.0,11713

@@ -1,51 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
-Master,"Action,Crime,Thriller",7.4,2021,0,179.0,82872,156815
-Underwater,"Action,Horror,Sci-Fi",5.9,2020,0,95.0,95440,157361
-A Hidden Life,"Biography,Drama,Romance",7.4,2019,0,174.0,27669,158135
-Women Talking,Drama,6.9,2022,0,104.0,40428,158360
-The Big Sick,"Comedy,Drama,Romance",7.5,2017,0,120.0,142574,158562
-A Star Is Born,"Drama,Music,Romance",7.6,2018,0,136.0,414224,158686
-Overdrive,"Action,Adventure,Crime",5.4,2017,0,93.0,16274,158721
-The Batman,"Action,Crime,Drama",7.8,2022,0,176.0,767892,158727
-Joker,"Crime,Drama,Thriller",8.4,2019,0,122.0,1454198,160243
-Let Him Go,"Crime,Drama,Thriller",6.7,2020,0,113.0,34544,160399
-Secret Superstar,"Drama,Music",7.8,2017,0,150.0,29243,160491
-Peter Rabbit 2: The Runaway,"Adventure,Animation,Comedy",6.2,2021,0,93.0,14295,160592
-Don't Listen,"Adventure,Drama,Horror",6.1,2020,0,97.0,16633,160865
-Attraction,"Action,Drama,Romance",5.6,2017,0,132.0,14024,161267
-Pimp,"Crime,Drama,Romance",6.1,2018,0,86.0,17421,161354
-Fear Street: Part Three - 1666,"Horror,Mystery",6.6,2021,0,114.0,62327,161496
-We Summon the Darkness,"Horror,Music,Thriller",5.2,2019,0,91.0,11745,161766
-The Lost City,"Action,Adventure,Comedy",6.1,2022,0,112.0,153832,161943
-Father of the Year,Comedy,5.2,2018,0,94.0,12508,162738
-Pyewacket,"Drama,Horror,Mystery",5.8,2017,0,88.0,11085,162785
-The Coldest Game,"History,Sport,Thriller",6.2,2019,0,102.0,12402,162879
-Cha Cha Real Smooth,"Comedy,Drama",7.3,2022,0,107.0,25745,163226
-Selfiee,"Action,Comedy,Drama",5.7,2023,0,148.0,13166,163479
-Alien: Covenant,"Horror,Sci-Fi,Thriller",6.4,2017,0,122.0,300657,163743
-120 BPM,Drama,7.4,2017,0,143.0,16605,163753
-Berlin Syndrome,"Drama,Horror,Mystery",6.3,2017,0,116.0,27354,163810
-Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,"Action,Adventure,Animation",7.5,2023,0,110.0,10386,164001
-Flamin' Hot,"Biography,Drama,History",6.8,2023,0,99.0,15024,164481
-American Honey,"Adventure,Drama,Romance",7.0,2016,0,163.0,46052,164700
-The Post,"Biography,Drama,History",7.2,2017,0,116.0,160772,165048
-Den of Thieves,"Action,Crime,Drama",7.0,2018,0,140.0,122161,165347
-Jackass Forever,"Action,Comedy,Documentary",6.8,2022,0,96.0,51147,165894
-Leaving Neverland,Documentary,7.0,2019,0,240.0,30918,166011
-The Quake,"Action,Drama,Thriller",6.2,2018,0,106.0,14262,166217
-Dil Bechara,"Comedy,Drama,Romance",8.3,2020,0,101.0,134370,166698
-The Princess Switch,"Comedy,Drama,Family",6.1,2018,0,101.0,31162,166734
-The Devil All the Time,"Crime,Drama,Thriller",7.1,2020,0,138.0,150547,167133
-Whitney Houston: I Wanna Dance with Somebody,"Biography,Drama,Music",6.6,2022,0,144.0,22175,167856
-Stree,"Comedy,Horror",7.5,2018,0,128.0,38042,168358
-Norm of the North,"Adventure,Animation,Comedy",3.4,2016,0,88.0,10110,168496
-DC League of Super-Pets,"Action,Adventure,Animation",7.1,2022,0,105.0,74574,169219
-Choose or Die,"Drama,Horror,Thriller",4.8,2022,0,84.0,25425,169822
-Vakeel Saab,"Action,Crime,Drama",6.9,2021,0,153.0,12308,170018
-Chemical Hearts,"Drama,Romance",6.3,2020,0,93.0,16013,170168
-Life,"Horror,Sci-Fi,Thriller",6.6,2017,0,104.0,249551,170218
-Radius,"Drama,Horror,Mystery",6.3,2017,0,93.0,19285,170448
-Fifty Shades Freed,"Drama,Mystery,Romance",4.5,2018,0,105.0,72805,170769
-Velvet Buzzsaw,"Horror,Mystery,Thriller",5.7,2019,0,113.0,65507,170826
-Tesla,"Biography,Drama",5.1,2020,0,102.0,10261,170957
-A Street Cat Named Bob,"Biography,Drama,Family",7.3,2016,0,103.0,33417,171500
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+Master,"Action,Crime,Thriller",7.4,2021,0,179.0,82872
+Underwater,"Action,Horror,Sci-Fi",5.9,2020,0,95.0,95440
+A Hidden Life,"Biography,Drama,Romance",7.4,2019,0,174.0,27669
+Women Talking,Drama,6.9,2022,0,104.0,40428
+The Big Sick,"Comedy,Drama,Romance",7.5,2017,0,120.0,142574
+A Star Is Born,"Drama,Music,Romance",7.6,2018,0,136.0,414224
+Overdrive,"Action,Adventure,Crime",5.4,2017,0,93.0,16274
+The Batman,"Action,Crime,Drama",7.8,2022,0,176.0,767892
+Joker,"Crime,Drama,Thriller",8.4,2019,0,122.0,1454198
+Let Him Go,"Crime,Drama,Thriller",6.7,2020,0,113.0,34544
+Secret Superstar,"Drama,Music",7.8,2017,0,150.0,29243
+Peter Rabbit 2: The Runaway,"Adventure,Animation,Comedy",6.2,2021,0,93.0,14295
+Don't Listen,"Adventure,Drama,Horror",6.1,2020,0,97.0,16633
+Attraction,"Action,Drama,Romance",5.6,2017,0,132.0,14024
+Pimp,"Crime,Drama,Romance",6.1,2018,0,86.0,17421
+Fear Street: Part Three - 1666,"Horror,Mystery",6.6,2021,0,114.0,62327
+We Summon the Darkness,"Horror,Music,Thriller",5.2,2019,0,91.0,11745
+The Lost City,"Action,Adventure,Comedy",6.1,2022,0,112.0,153832
+Father of the Year,Comedy,5.2,2018,0,94.0,12508
+Pyewacket,"Drama,Horror,Mystery",5.8,2017,0,88.0,11085
+The Coldest Game,"History,Sport,Thriller",6.2,2019,0,102.0,12402
+Cha Cha Real Smooth,"Comedy,Drama",7.3,2022,0,107.0,25745
+Selfiee,"Action,Comedy,Drama",5.7,2023,0,148.0,13166
+Alien: Covenant,"Horror,Sci-Fi,Thriller",6.4,2017,0,122.0,300657
+120 BPM,Drama,7.4,2017,0,143.0,16605
+Berlin Syndrome,"Drama,Horror,Mystery",6.3,2017,0,116.0,27354
+Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,"Action,Adventure,Animation",7.5,2023,0,110.0,10386
+Flamin' Hot,"Biography,Drama,History",6.8,2023,0,99.0,15024
+American Honey,"Adventure,Drama,Romance",7.0,2016,0,163.0,46052
+The Post,"Biography,Drama,History",7.2,2017,0,116.0,160772
+Den of Thieves,"Action,Crime,Drama",7.0,2018,0,140.0,122161
+Jackass Forever,"Action,Comedy,Documentary",6.8,2022,0,96.0,51147
+Leaving Neverland,Documentary,7.0,2019,0,240.0,30918
+The Quake,"Action,Drama,Thriller",6.2,2018,0,106.0,14262
+Dil Bechara,"Comedy,Drama,Romance",8.3,2020,0,101.0,134370
+The Princess Switch,"Comedy,Drama,Family",6.1,2018,0,101.0,31162
+The Devil All the Time,"Crime,Drama,Thriller",7.1,2020,0,138.0,150547
+Whitney Houston: I Wanna Dance with Somebody,"Biography,Drama,Music",6.6,2022,0,144.0,22175
+Stree,"Comedy,Horror",7.5,2018,0,128.0,38042
+Norm of the North,"Adventure,Animation,Comedy",3.4,2016,0,88.0,10110
+DC League of Super-Pets,"Action,Adventure,Animation",7.1,2022,0,105.0,74574
+Choose or Die,"Drama,Horror,Thriller",4.8,2022,0,84.0,25425
+Vakeel Saab,"Action,Crime,Drama",6.9,2021,0,153.0,12308
+Chemical Hearts,"Drama,Romance",6.3,2020,0,93.0,16013
+Life,"Horror,Sci-Fi,Thriller",6.6,2017,0,104.0,249551
+Radius,"Drama,Horror,Mystery",6.3,2017,0,93.0,19285
+Fifty Shades Freed,"Drama,Mystery,Romance",4.5,2018,0,105.0,72805
+Velvet Buzzsaw,"Horror,Mystery,Thriller",5.7,2019,0,113.0,65507
+Tesla,"Biography,Drama",5.1,2020,0,102.0,10261
+A Street Cat Named Bob,"Biography,Drama,Family",7.3,2016,0,103.0,33417

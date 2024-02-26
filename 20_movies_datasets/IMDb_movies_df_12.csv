@@ -1,51 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
-Supernova,"Drama,Romance",6.9,2020,0,95.0,14054,193958
-The Wild Pear Tree,Drama,8.0,2018,0,188.0,27400,194136
-David Brent: Life on the Road,"Comedy,Music",6.3,2016,0,96.0,21976,194386
-Inferno,"Action,Adventure,Crime",6.2,2016,0,121.0,188169,194468
-Ma Rainey's Black Bottom,"Drama,Music",6.9,2020,0,94.0,57406,195801
-The Wall,"Action,Drama,Thriller",6.2,2017,0,88.0,30343,195828
-Florence Foster Jenkins,"Biography,Comedy,Drama",6.8,2016,0,111.0,59118,195900
-The Beatles: Eight Days a Week - The Touring Years,"Documentary,History,Music",7.8,2016,0,106.0,13724,196076
-Code 8,"Action,Crime,Drama",6.1,2019,0,98.0,44133,196771
-Like Crazy,"Comedy,Drama",7.2,2016,0,116.0,10241,196907
-Chandigarh Kare Aashiqui,"Comedy,Crime,Drama",6.8,2021,0,117.0,15175,197134
-Revenge,"Action,Drama,Horror",6.4,2017,0,108.0,47650,197426
-Wrath of Man,"Action,Crime,Thriller",7.1,2021,0,119.0,203106,197679
-All of Us Strangers,"Drama,Fantasy,Romance",8.0,2023,0,105.0,12838,198315
-Summer of 85,"Drama,Romance",6.9,2020,0,101.0,12971,198592
-The Ballad of Buster Scruggs,"Comedy,Drama,Musical",7.2,2018,0,133.0,165505,199218
-Pinocchio,"Adventure,Comedy,Drama",5.1,2022,0,105.0,41436,199368
-The Matrix Resurrections,"Action,Sci-Fi",5.7,2021,0,148.0,275509,199627
-A California Christmas,"Comedy,Drama,Romance",5.8,2020,0,106.0,11307,199712
-You Are So Not Invited to My Bat Mitzvah,Comedy,6.0,2023,0,103.0,23007,199731
-Brightburn,"Drama,Horror,Mystery",6.1,2019,0,90.0,106563,199747
-The Souvenir,"Drama,Romance",6.4,2019,0,120.0,14256,200041
-Your Name.,"Animation,Drama,Fantasy",8.4,2016,0,106.0,312156,200348
-The Power of the Dog,"Drama,Western",6.8,2021,0,126.0,191368,200349
-Manchester by the Sea,Drama,7.8,2016,0,137.0,308492,200493
-The Weekend Away,"Crime,Drama,Mystery",5.7,2022,0,89.0,29214,201269
-First Man,"Biography,Drama,History",7.3,2018,0,141.0,200364,201652
-The Girl with All the Gifts,"Action,Adventure,Drama",6.6,2016,0,111.0,63916,202217
-BlacKkKlansman,"Biography,Comedy,Crime",7.5,2018,0,135.0,288134,202257
-The Wandering Earth,"Action,Adventure,Sci-Fi",5.9,2019,0,125.0,35752,202735
-Knights of the Zodiac,"Action,Adventure,Drama",4.4,2023,0,112.0,12001,203958
-Pieces of a Woman,Drama,7.0,2020,0,126.0,55600,204044
-Our Father,"Crime,Documentary",6.6,2022,0,97.0,14267,204445
-Queenpins,"Comedy,Crime",6.4,2021,0,110.0,21153,205199
-Chip 'n Dale: Rescue Rangers,"Action,Adventure,Animation",7.0,2022,0,97.0,46337,205554
-Don't Breathe,"Crime,Horror,Thriller",7.1,2016,0,88.0,297022,205726
-The Quiet Girl,Drama,7.7,2022,0,95.0,20885,207587
-Nefarious,"Horror,Thriller",6.4,2023,0,97.0,24291,207661
-The Good Boss,"Comedy,Drama",7.1,2021,0,116.0,12788,208160
-Redeeming Love,"Drama,Romance",6.7,2022,0,134.0,12690,209040
-The Invisible Guest,"Crime,Drama,Mystery",8.0,2016,0,106.0,190439,210958
-El Angel,"Biography,Crime,Drama",6.9,2018,0,118.0,11456,211398
-Storks,"Adventure,Animation,Comedy",6.8,2016,0,87.0,66794,211416
-Meet Cute,"Comedy,Drama,Fantasy",5.7,2022,0,89.0,11523,211486
-Studio 666,"Comedy,Horror,Music",5.7,2022,0,106.0,13631,211804
-Arctic,"Adventure,Drama",6.8,2018,0,98.0,57825,212639
-Laxmii,"Action,Comedy,Horror",2.5,2020,0,141.0,58622,213073
-Totally Killer,"Comedy,Horror",6.5,2023,0,106.0,46579,213296
-IO,"Adventure,Drama,Sci-Fi",4.8,2019,0,96.0,36137,213532
-Hangman,"Crime,Drama,Horror",5.2,2017,0,98.0,18810,213900
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+Supernova,"Drama,Romance",6.9,2020,0,95.0,14054
+The Wild Pear Tree,Drama,8.0,2018,0,188.0,27400
+David Brent: Life on the Road,"Comedy,Music",6.3,2016,0,96.0,21976
+Inferno,"Action,Adventure,Crime",6.2,2016,0,121.0,188169
+Ma Rainey's Black Bottom,"Drama,Music",6.9,2020,0,94.0,57406
+The Wall,"Action,Drama,Thriller",6.2,2017,0,88.0,30343
+Florence Foster Jenkins,"Biography,Comedy,Drama",6.8,2016,0,111.0,59118
+The Beatles: Eight Days a Week - The Touring Years,"Documentary,History,Music",7.8,2016,0,106.0,13724
+Code 8,"Action,Crime,Drama",6.1,2019,0,98.0,44133
+Like Crazy,"Comedy,Drama",7.2,2016,0,116.0,10241
+Chandigarh Kare Aashiqui,"Comedy,Crime,Drama",6.8,2021,0,117.0,15175
+Revenge,"Action,Drama,Horror",6.4,2017,0,108.0,47650
+Wrath of Man,"Action,Crime,Thriller",7.1,2021,0,119.0,203106
+All of Us Strangers,"Drama,Fantasy,Romance",8.0,2023,0,105.0,12838
+Summer of 85,"Drama,Romance",6.9,2020,0,101.0,12971
+The Ballad of Buster Scruggs,"Comedy,Drama,Musical",7.2,2018,0,133.0,165505
+Pinocchio,"Adventure,Comedy,Drama",5.1,2022,0,105.0,41436
+The Matrix Resurrections,"Action,Sci-Fi",5.7,2021,0,148.0,275509
+A California Christmas,"Comedy,Drama,Romance",5.8,2020,0,106.0,11307
+You Are So Not Invited to My Bat Mitzvah,Comedy,6.0,2023,0,103.0,23007
+Brightburn,"Drama,Horror,Mystery",6.1,2019,0,90.0,106563
+The Souvenir,"Drama,Romance",6.4,2019,0,120.0,14256
+Your Name.,"Animation,Drama,Fantasy",8.4,2016,0,106.0,312156
+The Power of the Dog,"Drama,Western",6.8,2021,0,126.0,191368
+Manchester by the Sea,Drama,7.8,2016,0,137.0,308492
+The Weekend Away,"Crime,Drama,Mystery",5.7,2022,0,89.0,29214
+First Man,"Biography,Drama,History",7.3,2018,0,141.0,200364
+The Girl with All the Gifts,"Action,Adventure,Drama",6.6,2016,0,111.0,63916
+BlacKkKlansman,"Biography,Comedy,Crime",7.5,2018,0,135.0,288134
+The Wandering Earth,"Action,Adventure,Sci-Fi",5.9,2019,0,125.0,35752
+Knights of the Zodiac,"Action,Adventure,Drama",4.4,2023,0,112.0,12001
+Pieces of a Woman,Drama,7.0,2020,0,126.0,55600
+Our Father,"Crime,Documentary",6.6,2022,0,97.0,14267
+Queenpins,"Comedy,Crime",6.4,2021,0,110.0,21153
+Chip 'n Dale: Rescue Rangers,"Action,Adventure,Animation",7.0,2022,0,97.0,46337
+Don't Breathe,"Crime,Horror,Thriller",7.1,2016,0,88.0,297022
+The Quiet Girl,Drama,7.7,2022,0,95.0,20885
+Nefarious,"Horror,Thriller",6.4,2023,0,97.0,24291
+The Good Boss,"Comedy,Drama",7.1,2021,0,116.0,12788
+Redeeming Love,"Drama,Romance",6.7,2022,0,134.0,12690
+The Invisible Guest,"Crime,Drama,Mystery",8.0,2016,0,106.0,190439
+El Angel,"Biography,Crime,Drama",6.9,2018,0,118.0,11456
+Storks,"Adventure,Animation,Comedy",6.8,2016,0,87.0,66794
+Meet Cute,"Comedy,Drama,Fantasy",5.7,2022,0,89.0,11523
+Studio 666,"Comedy,Horror,Music",5.7,2022,0,106.0,13631
+Arctic,"Adventure,Drama",6.8,2018,0,98.0,57825
+Laxmii,"Action,Comedy,Horror",2.5,2020,0,141.0,58622
+Totally Killer,"Comedy,Horror",6.5,2023,0,106.0,46579
+IO,"Adventure,Drama,Sci-Fi",4.8,2019,0,96.0,36137
+Hangman,"Crime,Drama,Horror",5.2,2017,0,98.0,18810

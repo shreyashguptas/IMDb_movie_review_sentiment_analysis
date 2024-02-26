@@ -1,51 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
-Gantz: O,"Action,Animation,Drama",7.1,2016,0,95.0,16542,275196
-Nerve,"Action,Adventure,Crime",6.5,2016,0,96.0,139274,275238
-Mid90s,"Comedy,Drama",7.3,2018,0,85.0,76477,276553
-Mortal World,"Action,Comedy,Crime",7.6,2018,0,107.0,30742,276981
-Superintelligence,"Action,Comedy,Romance",5.4,2020,0,106.0,13092,278485
-The Suicide Squad,"Action,Adventure,Comedy",7.2,2021,0,132.0,401472,278669
-Shaft,"Action,Comedy,Crime",6.4,2019,0,111.0,58204,278788
-Lamb,"Drama,Fantasy,Horror",6.3,2021,0,106.0,37086,279634
-Playing with Fire,"Comedy,Family",5.1,2019,0,96.0,16031,282140
-Happening,Drama,7.4,2021,0,100.0,11131,282720
-The Laundromat,"Comedy,Crime,Drama",6.3,2019,0,96.0,54500,282948
-A Monster Calls,"Adventure,Drama,Family",7.4,2016,0,108.0,93125,283198
-Marauders,"Action,Crime,Thriller",5.5,2016,0,107.0,23690,283460
-Khaali Peeli,"Action,Comedy,Romance",2.5,2020,0,119.0,10070,284204
-Nitram,"Crime,Drama,Thriller",7.1,2021,0,112.0,10001,284556
-Truth or Dare,"Horror,Thriller",5.2,2018,0,100.0,62514,285059
-"Everything, Everything","Drama,Romance",6.3,2017,0,96.0,42097,285722
-Perfect Strangers,"Comedy,Drama",7.7,2016,0,96.0,70618,285786
-Vox Lux,"Drama,Music",5.8,2018,0,114.0,19471,286314
-Rust Creek,"Action,Crime,Drama",5.9,2018,0,108.0,12760,287806
-The Man Who Killed Don Quixote,"Adventure,Comedy,Drama",6.3,2018,0,132.0,21927,288059
-Mandy,"Action,Fantasy,Horror",6.5,2018,0,121.0,88126,288446
-Collective,"Crime,Documentary",8.1,2019,0,109.0,13283,288580
-Halloween Ends,"Drama,Horror,Mystery",5.0,2022,0,111.0,70060,289024
-The Farewell,"Comedy,Drama",7.5,2019,0,100.0,70107,289277
-"tick, tick... BOOM!","Biography,Comedy,Drama",7.5,2021,0,115.0,118073,289703
-Kickboxer: Vengeance,"Action,Crime,Drama",4.9,2016,0,90.0,12077,290425
-Vivegam,"Action,Thriller",5.2,2017,0,149.0,12836,291871
-Slumberland,"Adventure,Comedy,Drama",6.7,2022,0,117.0,32437,291934
-All the Old Knives,"Mystery,Thriller",6.1,2022,0,101.0,28108,292149
-The Clovehitch Killer,"Crime,Drama,Mystery",6.5,2018,0,109.0,33341,292246
-Time Trap,"Action,Adventure,Mystery",6.2,2017,0,87.0,42621,292549
-A Castle for Christmas,"Adventure,Comedy,Drama",5.6,2021,0,98.0,15343,293584
-Murder on the Orient Express,"Crime,Drama,Mystery",6.5,2017,0,114.0,291918,293694
-Prisoners of the Ghostland,"Fantasy,Horror,Thriller",4.2,2021,0,103.0,13782,294064
-Rurouni Kenshin: Final Chapter Part I - The Final,"Action,Adventure,Drama",7.2,2021,0,138.0,10454,294528
-Rim of the World,"Action,Adventure,Comedy",5.2,2019,0,98.0,25113,295255
-The Witches,"Adventure,Comedy,Family",5.4,2020,0,106.0,46054,295529
-Our Souls at Night,"Drama,Romance",6.9,2017,0,103.0,14791,295874
-Vacation Friends,"Adventure,Comedy",6.3,2021,0,103.0,28927,296483
-Race,"Biography,Drama,Sport",7.1,2016,0,134.0,40545,297163
-Vampires vs. the Bronx,"Comedy,Horror",5.7,2020,0,85.0,11030,297492
-Kubo and the Two Strings,"Action,Adventure,Animation",7.7,2016,0,101.0,137519,298241
-Till,"Biography,Crime,Drama",7.2,2022,0,130.0,14703,298380
-Vivo,"Adventure,Animation,Comedy",6.7,2021,0,95.0,21355,298806
-Hidden Figures,"Biography,Drama,History",7.8,2016,0,127.0,251864,299375
-Wildling,"Drama,Fantasy,Horror",5.5,2018,0,92.0,14253,300765
-Hypnotic,"Action,Drama,Mystery",5.5,2023,0,93.0,31130,301027
-Golmaal Again,"Action,Comedy,Fantasy",5.0,2017,0,140.0,10423,301034
-The Worst Person in the World,"Comedy,Drama,Romance",7.7,2021,0,128.0,93596,301631
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+Gantz: O,"Action,Animation,Drama",7.1,2016,0,95.0,16542
+Nerve,"Action,Adventure,Crime",6.5,2016,0,96.0,139274
+Mid90s,"Comedy,Drama",7.3,2018,0,85.0,76477
+Mortal World,"Action,Comedy,Crime",7.6,2018,0,107.0,30742
+Superintelligence,"Action,Comedy,Romance",5.4,2020,0,106.0,13092
+The Suicide Squad,"Action,Adventure,Comedy",7.2,2021,0,132.0,401472
+Shaft,"Action,Comedy,Crime",6.4,2019,0,111.0,58204
+Lamb,"Drama,Fantasy,Horror",6.3,2021,0,106.0,37086
+Playing with Fire,"Comedy,Family",5.1,2019,0,96.0,16031
+Happening,Drama,7.4,2021,0,100.0,11131
+The Laundromat,"Comedy,Crime,Drama",6.3,2019,0,96.0,54500
+A Monster Calls,"Adventure,Drama,Family",7.4,2016,0,108.0,93125
+Marauders,"Action,Crime,Thriller",5.5,2016,0,107.0,23690
+Khaali Peeli,"Action,Comedy,Romance",2.5,2020,0,119.0,10070
+Nitram,"Crime,Drama,Thriller",7.1,2021,0,112.0,10001
+Truth or Dare,"Horror,Thriller",5.2,2018,0,100.0,62514
+"Everything, Everything","Drama,Romance",6.3,2017,0,96.0,42097
+Perfect Strangers,"Comedy,Drama",7.7,2016,0,96.0,70618
+Vox Lux,"Drama,Music",5.8,2018,0,114.0,19471
+Rust Creek,"Action,Crime,Drama",5.9,2018,0,108.0,12760
+The Man Who Killed Don Quixote,"Adventure,Comedy,Drama",6.3,2018,0,132.0,21927
+Mandy,"Action,Fantasy,Horror",6.5,2018,0,121.0,88126
+Collective,"Crime,Documentary",8.1,2019,0,109.0,13283
+Halloween Ends,"Drama,Horror,Mystery",5.0,2022,0,111.0,70060
+The Farewell,"Comedy,Drama",7.5,2019,0,100.0,70107
+"tick, tick... BOOM!","Biography,Comedy,Drama",7.5,2021,0,115.0,118073
+Kickboxer: Vengeance,"Action,Crime,Drama",4.9,2016,0,90.0,12077
+Vivegam,"Action,Thriller",5.2,2017,0,149.0,12836
+Slumberland,"Adventure,Comedy,Drama",6.7,2022,0,117.0,32437
+All the Old Knives,"Mystery,Thriller",6.1,2022,0,101.0,28108
+The Clovehitch Killer,"Crime,Drama,Mystery",6.5,2018,0,109.0,33341
+Time Trap,"Action,Adventure,Mystery",6.2,2017,0,87.0,42621
+A Castle for Christmas,"Adventure,Comedy,Drama",5.6,2021,0,98.0,15343
+Murder on the Orient Express,"Crime,Drama,Mystery",6.5,2017,0,114.0,291918
+Prisoners of the Ghostland,"Fantasy,Horror,Thriller",4.2,2021,0,103.0,13782
+Rurouni Kenshin: Final Chapter Part I - The Final,"Action,Adventure,Drama",7.2,2021,0,138.0,10454
+Rim of the World,"Action,Adventure,Comedy",5.2,2019,0,98.0,25113
+The Witches,"Adventure,Comedy,Family",5.4,2020,0,106.0,46054
+Our Souls at Night,"Drama,Romance",6.9,2017,0,103.0,14791
+Vacation Friends,"Adventure,Comedy",6.3,2021,0,103.0,28927
+Race,"Biography,Drama,Sport",7.1,2016,0,134.0,40545
+Vampires vs. the Bronx,"Comedy,Horror",5.7,2020,0,85.0,11030
+Kubo and the Two Strings,"Action,Adventure,Animation",7.7,2016,0,101.0,137519
+Till,"Biography,Crime,Drama",7.2,2022,0,130.0,14703
+Vivo,"Adventure,Animation,Comedy",6.7,2021,0,95.0,21355
+Hidden Figures,"Biography,Drama,History",7.8,2016,0,127.0,251864
+Wildling,"Drama,Fantasy,Horror",5.5,2018,0,92.0,14253
+Hypnotic,"Action,Drama,Mystery",5.5,2023,0,93.0,31130
+Golmaal Again,"Action,Comedy,Fantasy",5.0,2017,0,140.0,10423
+The Worst Person in the World,"Comedy,Drama,Romance",7.7,2021,0,128.0,93596

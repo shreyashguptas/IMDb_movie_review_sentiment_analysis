@@ -1,51 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
-War,"Action,Adventure,Thriller",6.5,2019,0,151.0,32566,141429
-Manikarnika: The Queen of Jhansi,"Action,Biography,Drama",6.4,2019,0,148.0,16158,141915
-Dear Evan Hansen,"Drama,Musical",6.1,2021,0,137.0,18178,142141
-Annabelle: Creation,"Horror,Mystery,Thriller",6.5,2017,0,109.0,149254,142167
-The African Doctor,"Biography,Comedy,Drama",7.0,2016,0,96.0,11973,142450
-Dora and the Lost City of Gold,"Action,Adventure,Comedy",6.1,2019,0,102.0,34126,142721
-Ant-Man and the Wasp,"Action,Adventure,Comedy",7.0,2018,0,118.0,444366,143957
-Happy End,Drama,6.6,2017,0,107.0,16755,144121
-Power Rangers,"Action,Adventure,Fantasy",5.9,2017,0,124.0,113257,144508
-Lust Stories,"Drama,Romance",6.4,2018,0,120.0,13074,144527
-Girl,Drama,7.2,2018,0,105.0,16876,144702
-Mardaani 2,"Action,Crime,Drama",7.3,2019,0,103.0,10234,144942
-The Wonder,"Drama,Mystery,Thriller",6.6,2022,0,108.0,43073,145019
-Karthikeya 2,"Action,Adventure,Fantasy",7.9,2022,0,150.0,64171,145183
-Warcraft,"Action,Adventure,Fantasy",6.7,2016,0,123.0,276592,146040
-Gerald's Game,"Drama,Horror,Thriller",6.5,2017,0,103.0,125427,146312
-Pet Sematary,"Horror,Mystery,Thriller",5.7,2019,0,100.0,97773,146535
-Maze Runner: The Death Cure,"Action,Adventure,Sci-Fi",6.2,2018,0,143.0,159348,147228
-The Handmaiden,"Drama,Romance,Thriller",8.1,2016,0,145.0,169126,147514
-The Hole in the Ground,"Drama,Horror,Mystery",5.6,2019,0,90.0,22007,147597
-Hunter Killer,"Action,Thriller",6.6,2018,0,121.0,72202,147750
-7500,"Action,Drama,Thriller",6.3,2019,0,93.0,32420,148591
-Star Wars: Episode IX - The Rise of Skywalker,"Action,Adventure,Fantasy",6.4,2019,0,141.0,487234,148780
-"I, Tonya","Biography,Comedy,Drama",7.5,2017,0,119.0,239558,148956
-96,"Drama,Romance",8.5,2018,0,158.0,36342,149037
-Checkmate,"Action,Comedy",7.9,2023,0,112.0,24294,149196
-Amsterdam,"Comedy,Drama,History",6.1,2022,0,134.0,90769,149417
-Black '47,"Action,Drama,History",6.8,2018,0,100.0,13019,149493
-The Assistant,Drama,6.4,2019,0,87.0,25723,149625
-Big Time Adolescence,"Comedy,Drama",6.9,2019,0,91.0,15683,149749
-Gods of Egypt,"Action,Adventure,Drama",5.4,2016,0,127.0,124575,150252
-Ava,"Action,Drama,Thriller",5.5,2020,0,96.0,61902,151213
-Our Friend,"Drama,Romance",7.3,2019,0,124.0,14969,151604
-The Good Neighbor,"Crime,Drama,Horror",6.3,2016,0,98.0,18087,152768
-Mad God,"Animation,Fantasy,Horror",6.8,2021,0,83.0,14042,153464
-Old,"Drama,Horror,Mystery",5.8,2021,0,108.0,157451,153468
-Sonchiriya,"Action,Crime,Drama",7.9,2019,0,143.0,12924,154019
-Kill Command,"Action,Horror,Sci-Fi",5.7,2016,0,99.0,14935,154064
-Clean,"Action,Crime,Drama",5.6,2021,0,94.0,10928,154101
-Come True,"Horror,Sci-Fi",6.0,2020,0,105.0,10860,154654
-Fantastic Beasts: The Crimes of Grindelwald,"Adventure,Family,Fantasy",6.5,2018,0,134.0,305529,154666
-Rogue Agent,"Action,Adventure,Drama",6.4,2022,0,115.0,11782,154819
-Swallow,"Drama,Thriller",6.5,2019,0,94.0,27784,154870
-American Renegades,"Action,Adventure,Crime",5.5,2017,0,106.0,10806,155210
-Under the Silver Lake,"Crime,Drama,Mystery",6.5,2018,0,139.0,50089,155366
-Smile,"Horror,Mystery,Thriller",6.5,2022,0,115.0,152330,155574
-Emily the Criminal,"Crime,Drama,Mystery",6.7,2022,0,97.0,51440,155611
-The Archies,"Comedy,Drama,Musical",5.1,2023,0,141.0,50032,156049
-Pinocchio,"Drama,Family,Fantasy",6.3,2019,0,125.0,14545,156111
-Sanak,"Action,Thriller",6.7,2021,0,116.0,10855,156675
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+War,"Action,Adventure,Thriller",6.5,2019,0,151.0,32566
+Manikarnika: The Queen of Jhansi,"Action,Biography,Drama",6.4,2019,0,148.0,16158
+Dear Evan Hansen,"Drama,Musical",6.1,2021,0,137.0,18178
+Annabelle: Creation,"Horror,Mystery,Thriller",6.5,2017,0,109.0,149254
+The African Doctor,"Biography,Comedy,Drama",7.0,2016,0,96.0,11973
+Dora and the Lost City of Gold,"Action,Adventure,Comedy",6.1,2019,0,102.0,34126
+Ant-Man and the Wasp,"Action,Adventure,Comedy",7.0,2018,0,118.0,444366
+Happy End,Drama,6.6,2017,0,107.0,16755
+Power Rangers,"Action,Adventure,Fantasy",5.9,2017,0,124.0,113257
+Lust Stories,"Drama,Romance",6.4,2018,0,120.0,13074
+Girl,Drama,7.2,2018,0,105.0,16876
+Mardaani 2,"Action,Crime,Drama",7.3,2019,0,103.0,10234
+The Wonder,"Drama,Mystery,Thriller",6.6,2022,0,108.0,43073
+Karthikeya 2,"Action,Adventure,Fantasy",7.9,2022,0,150.0,64171
+Warcraft,"Action,Adventure,Fantasy",6.7,2016,0,123.0,276592
+Gerald's Game,"Drama,Horror,Thriller",6.5,2017,0,103.0,125427
+Pet Sematary,"Horror,Mystery,Thriller",5.7,2019,0,100.0,97773
+Maze Runner: The Death Cure,"Action,Adventure,Sci-Fi",6.2,2018,0,143.0,159348
+The Handmaiden,"Drama,Romance,Thriller",8.1,2016,0,145.0,169126
+The Hole in the Ground,"Drama,Horror,Mystery",5.6,2019,0,90.0,22007
+Hunter Killer,"Action,Thriller",6.6,2018,0,121.0,72202
+7500,"Action,Drama,Thriller",6.3,2019,0,93.0,32420
+Star Wars: Episode IX - The Rise of Skywalker,"Action,Adventure,Fantasy",6.4,2019,0,141.0,487234
+"I, Tonya","Biography,Comedy,Drama",7.5,2017,0,119.0,239558
+96,"Drama,Romance",8.5,2018,0,158.0,36342
+Checkmate,"Action,Comedy",7.9,2023,0,112.0,24294
+Amsterdam,"Comedy,Drama,History",6.1,2022,0,134.0,90769
+Black '47,"Action,Drama,History",6.8,2018,0,100.0,13019
+The Assistant,Drama,6.4,2019,0,87.0,25723
+Big Time Adolescence,"Comedy,Drama",6.9,2019,0,91.0,15683
+Gods of Egypt,"Action,Adventure,Drama",5.4,2016,0,127.0,124575
+Ava,"Action,Drama,Thriller",5.5,2020,0,96.0,61902
+Our Friend,"Drama,Romance",7.3,2019,0,124.0,14969
+The Good Neighbor,"Crime,Drama,Horror",6.3,2016,0,98.0,18087
+Mad God,"Animation,Fantasy,Horror",6.8,2021,0,83.0,14042
+Old,"Drama,Horror,Mystery",5.8,2021,0,108.0,157451
+Sonchiriya,"Action,Crime,Drama",7.9,2019,0,143.0,12924
+Kill Command,"Action,Horror,Sci-Fi",5.7,2016,0,99.0,14935
+Clean,"Action,Crime,Drama",5.6,2021,0,94.0,10928
+Come True,"Horror,Sci-Fi",6.0,2020,0,105.0,10860
+Fantastic Beasts: The Crimes of Grindelwald,"Adventure,Family,Fantasy",6.5,2018,0,134.0,305529
+Rogue Agent,"Action,Adventure,Drama",6.4,2022,0,115.0,11782
+Swallow,"Drama,Thriller",6.5,2019,0,94.0,27784
+American Renegades,"Action,Adventure,Crime",5.5,2017,0,106.0,10806
+Under the Silver Lake,"Crime,Drama,Mystery",6.5,2018,0,139.0,50089
+Smile,"Horror,Mystery,Thriller",6.5,2022,0,115.0,152330
+Emily the Criminal,"Crime,Drama,Mystery",6.7,2022,0,97.0,51440
+The Archies,"Comedy,Drama,Musical",5.1,2023,0,141.0,50032
+Pinocchio,"Drama,Family,Fantasy",6.3,2019,0,125.0,14545
+Sanak,"Action,Thriller",6.7,2021,0,116.0,10855

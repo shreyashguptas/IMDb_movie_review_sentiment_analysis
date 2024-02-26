@@ -1,51 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
-My Policeman,"Drama,Romance",6.5,2022,0,113.0,21693,85297
-Baby Driver,"Action,Crime,Drama",7.5,2017,0,113.0,599039,85326
-Bushwick,"Action,Thriller",5.2,2017,0,94.0,13795,85435
-Retribution,"Action,Thriller",5.3,2023,0,91.0,17057,85441
-Deepwater Horizon,"Action,Drama,History",7.1,2016,0,107.0,180171,85585
-Sherni,"Action,Adventure,Drama",6.8,2021,0,131.0,11510,86375
-The Wolf's Call,"Action,Thriller",6.9,2019,0,115.0,20538,86421
-Along With the Gods: The Two Worlds,"Action,Adventure,Drama",7.2,2017,0,139.0,18848,86822
-My Octopus Teacher,Documentary,8.1,2020,0,85.0,62338,87522
-Val,"Biography,Documentary",7.6,2021,0,109.0,14181,87728
-Finding Dory,"Adventure,Animation,Comedy",7.2,2016,0,97.0,299547,88114
-Ride Along 2,"Action,Comedy,Crime",5.9,2016,0,102.0,62552,88664
-Yashoda,"Action,Crime,Sci-Fi",6.6,2022,0,135.0,11766,88755
-Kung Fu Yoga,"Action,Adventure,Comedy",5.2,2017,0,107.0,11208,88770
-No One Will Save You,"Horror,Sci-Fi,Thriller",6.3,2023,0,93.0,61087,88783
-Mine 9,"Drama,Thriller",6.0,2019,0,83.0,11886,89401
-Hotel Transylvania 4: Transformania,"Adventure,Animation,Comedy",6.0,2022,0,87.0,38064,89525
-Personal Shopper,"Mystery,Thriller",6.1,2016,0,105.0,42840,89775
-Housefull 3,"Action,Comedy,Romance",4.9,2016,0,140.0,10508,89780
-Cruella,"Adventure,Comedy,Crime",7.3,2021,0,134.0,261403,90702
-The Good Nurse,"Biography,Crime,Drama",6.8,2022,0,121.0,77808,90838
-Through My Window,"Comedy,Drama,Romance",5.5,2022,0,116.0,16677,91145
-The Party,"Comedy,Drama",6.5,2017,0,71.0,20626,93973
-The Call,"Crime,Horror,Mystery",7.1,2020,0,112.0,42370,94188
-The 15:17 to Paris,"Biography,Drama,Thriller",5.3,2018,0,94.0,35341,95032
-Society of the Snow,"Adventure,Drama,History",7.9,2023,0,144.0,88844,95051
-The Jungle Book,"Action,Adventure,Animation",7.4,2016,0,106.0,290201,95480
-Fatman,"Action,Adventure,Comedy",5.9,2020,0,100.0,29852,95647
-Boiling Point,"Drama,Thriller",7.5,2021,0,92.0,40582,95979
-Jayeshbhai Jordaar,"Comedy,Drama",6.0,2022,0,121.0,43926,96084
-The Brothers Grimsby,"Action,Adventure,Comedy",6.2,2016,0,83.0,110109,97049
-The Boys in the Band,Drama,6.8,2020,0,121.0,17748,97803
-Dream Girl 2,"Comedy,Drama,Romance",5.2,2023,0,134.0,11057,98017
-The Whale,Drama,7.7,2022,0,117.0,201995,98260
-Jungle Cruise,"Action,Adventure,Comedy",6.6,2021,0,127.0,210126,99438
-Operation Fortune: Ruse de Guerre,"Action,Comedy,Thriller",6.3,2023,0,114.0,81428,100368
-The Mortuary Collection,"Fantasy,Horror",6.4,2019,0,108.0,14385,100984
-Happiest Season,"Comedy,Romance",6.6,2020,0,102.0,46936,101248
-Shadow in the Cloud,"Action,Horror,War",5.0,2020,0,83.0,30206,102460
-Paper Lives,Drama,6.6,2021,0,96.0,13587,102535
-Dragon Ball Super: Super Hero,"Action,Adventure,Animation",7.1,2022,0,100.0,14252,102841
-Jurassic World Dominion,"Action,Adventure,Sci-Fi",5.6,2022,0,147.0,199700,103270
-Klaus,"Adventure,Animation,Comedy",8.2,2019,0,96.0,186243,103527
-The Humans,Drama,6.1,2021,0,108.0,10562,103561
-Lady Bird,"Comedy,Drama",7.4,2017,0,94.0,322530,103705
-The 5th Wave,"Action,Adventure,Sci-Fi",5.2,2016,0,112.0,116304,104031
-A Good Person,Drama,7.1,2023,0,128.0,20211,104229
-The Lady of Heaven,"Action,Drama,History",5.8,2021,0,141.0,14598,105048
-Tenet,"Action,Sci-Fi,Thriller",7.3,2020,0,150.0,579444,105300
-The Heist of the Century,"Action,Biography,Comedy",7.1,2020,0,114.0,10114,105495
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+My Policeman,"Drama,Romance",6.5,2022,0,113.0,21693
+Baby Driver,"Action,Crime,Drama",7.5,2017,0,113.0,599039
+Bushwick,"Action,Thriller",5.2,2017,0,94.0,13795
+Retribution,"Action,Thriller",5.3,2023,0,91.0,17057
+Deepwater Horizon,"Action,Drama,History",7.1,2016,0,107.0,180171
+Sherni,"Action,Adventure,Drama",6.8,2021,0,131.0,11510
+The Wolf's Call,"Action,Thriller",6.9,2019,0,115.0,20538
+Along With the Gods: The Two Worlds,"Action,Adventure,Drama",7.2,2017,0,139.0,18848
+My Octopus Teacher,Documentary,8.1,2020,0,85.0,62338
+Val,"Biography,Documentary",7.6,2021,0,109.0,14181
+Finding Dory,"Adventure,Animation,Comedy",7.2,2016,0,97.0,299547
+Ride Along 2,"Action,Comedy,Crime",5.9,2016,0,102.0,62552
+Yashoda,"Action,Crime,Sci-Fi",6.6,2022,0,135.0,11766
+Kung Fu Yoga,"Action,Adventure,Comedy",5.2,2017,0,107.0,11208
+No One Will Save You,"Horror,Sci-Fi,Thriller",6.3,2023,0,93.0,61087
+Mine 9,"Drama,Thriller",6.0,2019,0,83.0,11886
+Hotel Transylvania 4: Transformania,"Adventure,Animation,Comedy",6.0,2022,0,87.0,38064
+Personal Shopper,"Mystery,Thriller",6.1,2016,0,105.0,42840
+Housefull 3,"Action,Comedy,Romance",4.9,2016,0,140.0,10508
+Cruella,"Adventure,Comedy,Crime",7.3,2021,0,134.0,261403
+The Good Nurse,"Biography,Crime,Drama",6.8,2022,0,121.0,77808
+Through My Window,"Comedy,Drama,Romance",5.5,2022,0,116.0,16677
+The Party,"Comedy,Drama",6.5,2017,0,71.0,20626
+The Call,"Crime,Horror,Mystery",7.1,2020,0,112.0,42370
+The 15:17 to Paris,"Biography,Drama,Thriller",5.3,2018,0,94.0,35341
+Society of the Snow,"Adventure,Drama,History",7.9,2023,0,144.0,88844
+The Jungle Book,"Action,Adventure,Animation",7.4,2016,0,106.0,290201
+Fatman,"Action,Adventure,Comedy",5.9,2020,0,100.0,29852
+Boiling Point,"Drama,Thriller",7.5,2021,0,92.0,40582
+Jayeshbhai Jordaar,"Comedy,Drama",6.0,2022,0,121.0,43926
+The Brothers Grimsby,"Action,Adventure,Comedy",6.2,2016,0,83.0,110109
+The Boys in the Band,Drama,6.8,2020,0,121.0,17748
+Dream Girl 2,"Comedy,Drama,Romance",5.2,2023,0,134.0,11057
+The Whale,Drama,7.7,2022,0,117.0,201995
+Jungle Cruise,"Action,Adventure,Comedy",6.6,2021,0,127.0,210126
+Operation Fortune: Ruse de Guerre,"Action,Comedy,Thriller",6.3,2023,0,114.0,81428
+The Mortuary Collection,"Fantasy,Horror",6.4,2019,0,108.0,14385
+Happiest Season,"Comedy,Romance",6.6,2020,0,102.0,46936
+Shadow in the Cloud,"Action,Horror,War",5.0,2020,0,83.0,30206
+Paper Lives,Drama,6.6,2021,0,96.0,13587
+Dragon Ball Super: Super Hero,"Action,Adventure,Animation",7.1,2022,0,100.0,14252
+Jurassic World Dominion,"Action,Adventure,Sci-Fi",5.6,2022,0,147.0,199700
+Klaus,"Adventure,Animation,Comedy",8.2,2019,0,96.0,186243
+The Humans,Drama,6.1,2021,0,108.0,10562
+Lady Bird,"Comedy,Drama",7.4,2017,0,94.0,322530
+The 5th Wave,"Action,Adventure,Sci-Fi",5.2,2016,0,112.0,116304
+A Good Person,Drama,7.1,2023,0,128.0,20211
+The Lady of Heaven,"Action,Drama,History",5.8,2021,0,141.0,14598
+Tenet,"Action,Sci-Fi,Thriller",7.3,2020,0,150.0,579444
+The Heist of the Century,"Action,Biography,Comedy",7.1,2020,0,114.0,10114

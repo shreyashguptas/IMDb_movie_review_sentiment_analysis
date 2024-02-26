@@ -1,51 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
-He's All That,"Comedy,Romance",4.4,2021,0,88.0,28204,46507
-Loving,"Biography,Drama,Romance",7.0,2016,0,123.0,36198,46665
-The Accountant,"Action,Crime,Drama",7.3,2016,0,128.0,315644,46810
-Ghost Stories,"Drama,Horror",6.4,2017,0,98.0,36593,47148
-C'mon C'mon,Drama,7.4,2021,0,109.0,38034,47432
-10 Cloverfield Lane,"Drama,Horror,Mystery",7.2,2016,0,103.0,351123,47917
-Bird Box,"Horror,Mystery,Sci-Fi",6.6,2018,0,124.0,380633,48503
-Breakthrough,"Biography,Drama",6.3,2019,0,116.0,10853,48983
-Run Rabbit Run,"Horror,Thriller",5.0,2023,0,100.0,10462,49053
-Incantation,"Horror,Mystery",6.2,2022,0,110.0,19940,49318
-Crawl,"Action,Adventure,Horror",6.1,2019,0,87.0,92954,49499
-It Comes at Night,"Drama,Horror,Mystery",6.2,2017,0,91.0,101898,49775
-14 Peaks: Nothing Is Impossible,"Adventure,Documentary,Sport",7.7,2021,0,101.0,29975,50601
-Freaks,"Drama,Mystery,Sci-Fi",6.7,2018,0,105.0,39676,51085
-Being the Ricardos,"Biography,Drama",6.5,2021,0,131.0,44327,52189
-Meet the Blacks,"Comedy,Horror",4.8,2016,0,94.0,37762,52213
-Luca,"Adventure,Animation,Comedy",7.4,2021,0,95.0,189023,52279
-Tiger Zinda Hai,"Action,Adventure,Thriller",5.9,2017,0,161.0,33456,53638
-Professor Marston & the Wonder Women,"Biography,Drama,History",7.0,2017,0,108.0,28346,53745
-Ma,"Horror,Mystery,Thriller",5.6,2019,0,99.0,59166,54237
-Boss Level,"Action,Adventure,Comedy",6.8,2020,0,100.0,78023,54769
-Cabin Fever,"Horror,Sci-Fi,Thriller",3.7,2016,0,99.0,11005,54952
-Paddington 2,"Adventure,Comedy,Family",7.8,2017,0,103.0,92288,55107
-Chhichhore,"Comedy,Drama,Romance",8.3,2019,0,143.0,62518,56524
-The Last Black Man in San Francisco,Drama,7.3,2019,0,121.0,21677,56561
-Devotion,"Action,Biography,Drama",6.6,2022,0,139.0,26964,56630
-The Informer,"Action,Crime,Drama",6.6,2019,0,113.0,41569,58225
-Beta Test,"Action,Sci-Fi,Thriller",4.7,2016,0,88.0,21819,59759
-Anna,"Action,Thriller",6.6,2019,0,118.0,91997,59942
-Little Evil,"Comedy,Fantasy,Horror",5.7,2017,0,94.0,23101,60668
-Run Hide Fight,"Action,Crime,Drama",6.3,2020,0,109.0,26826,60871
-Ideal Home,"Comedy,Drama",6.4,2018,0,91.0,11536,61010
-A Silent Voice: The Movie,"Animation,Drama",8.1,2016,0,130.0,98308,62056
-The Man Who Killed Hitler and Then the Bigfoot,"Adventure,Drama,Sci-Fi",5.7,2018,0,98.0,13607,62756
-Still: A Michael J. Fox Movie,"Biography,Documentary",8.1,2023,0,95.0,14252,63084
-The Kissing Booth,"Comedy,Romance",5.9,2018,0,105.0,92145,63148
-Shiddat,Romance,7.6,2021,0,146.0,23793,64008
-The Unforgivable,"Crime,Drama,Mystery",7.1,2021,0,112.0,117917,64053
-Kidnap,"Action,Crime,Thriller",5.9,2017,0,95.0,38883,64127
-Samaritan,"Action,Drama,Fantasy",5.7,2022,0,102.0,54322,64302
-Red Joan,"Biography,Drama,History",6.4,2018,0,101.0,14275,65053
-Titane,"Drama,Horror,Sci-Fi",6.5,2021,0,108.0,54788,65214
-The Vault,"Crime,Horror,Mystery",4.9,2017,0,91.0,13534,65284
-A Boy Called Christmas,"Adventure,Drama,Family",6.7,2021,0,106.0,27092,65305
-The Polka King,"Biography,Comedy,Drama",6.0,2017,0,95.0,11828,65438
-Sherlock Gnomes,"Adventure,Animation,Comedy",5.2,2018,0,86.0,13880,65980
-Another Round,Drama,7.7,2020,0,117.0,190260,66044
-Acts of Vengeance,"Action,Drama,Thriller",5.7,2017,0,87.0,13494,66362
-Why Him?,Comedy,6.2,2016,0,111.0,122568,66784
-Sisu,"Action,War",6.9,2022,0,91.0,70046,66960
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+He's All That,"Comedy,Romance",4.4,2021,0,88.0,28204
+Loving,"Biography,Drama,Romance",7.0,2016,0,123.0,36198
+The Accountant,"Action,Crime,Drama",7.3,2016,0,128.0,315644
+Ghost Stories,"Drama,Horror",6.4,2017,0,98.0,36593
+C'mon C'mon,Drama,7.4,2021,0,109.0,38034
+10 Cloverfield Lane,"Drama,Horror,Mystery",7.2,2016,0,103.0,351123
+Bird Box,"Horror,Mystery,Sci-Fi",6.6,2018,0,124.0,380633
+Breakthrough,"Biography,Drama",6.3,2019,0,116.0,10853
+Run Rabbit Run,"Horror,Thriller",5.0,2023,0,100.0,10462
+Incantation,"Horror,Mystery",6.2,2022,0,110.0,19940
+Crawl,"Action,Adventure,Horror",6.1,2019,0,87.0,92954
+It Comes at Night,"Drama,Horror,Mystery",6.2,2017,0,91.0,101898
+14 Peaks: Nothing Is Impossible,"Adventure,Documentary,Sport",7.7,2021,0,101.0,29975
+Freaks,"Drama,Mystery,Sci-Fi",6.7,2018,0,105.0,39676
+Being the Ricardos,"Biography,Drama",6.5,2021,0,131.0,44327
+Meet the Blacks,"Comedy,Horror",4.8,2016,0,94.0,37762
+Luca,"Adventure,Animation,Comedy",7.4,2021,0,95.0,189023
+Tiger Zinda Hai,"Action,Adventure,Thriller",5.9,2017,0,161.0,33456
+Professor Marston & the Wonder Women,"Biography,Drama,History",7.0,2017,0,108.0,28346
+Ma,"Horror,Mystery,Thriller",5.6,2019,0,99.0,59166
+Boss Level,"Action,Adventure,Comedy",6.8,2020,0,100.0,78023
+Cabin Fever,"Horror,Sci-Fi,Thriller",3.7,2016,0,99.0,11005
+Paddington 2,"Adventure,Comedy,Family",7.8,2017,0,103.0,92288
+Chhichhore,"Comedy,Drama,Romance",8.3,2019,0,143.0,62518
+The Last Black Man in San Francisco,Drama,7.3,2019,0,121.0,21677
+Devotion,"Action,Biography,Drama",6.6,2022,0,139.0,26964
+The Informer,"Action,Crime,Drama",6.6,2019,0,113.0,41569
+Beta Test,"Action,Sci-Fi,Thriller",4.7,2016,0,88.0,21819
+Anna,"Action,Thriller",6.6,2019,0,118.0,91997
+Little Evil,"Comedy,Fantasy,Horror",5.7,2017,0,94.0,23101
+Run Hide Fight,"Action,Crime,Drama",6.3,2020,0,109.0,26826
+Ideal Home,"Comedy,Drama",6.4,2018,0,91.0,11536
+A Silent Voice: The Movie,"Animation,Drama",8.1,2016,0,130.0,98308
+The Man Who Killed Hitler and Then the Bigfoot,"Adventure,Drama,Sci-Fi",5.7,2018,0,98.0,13607
+Still: A Michael J. Fox Movie,"Biography,Documentary",8.1,2023,0,95.0,14252
+The Kissing Booth,"Comedy,Romance",5.9,2018,0,105.0,92145
+Shiddat,Romance,7.6,2021,0,146.0,23793
+The Unforgivable,"Crime,Drama,Mystery",7.1,2021,0,112.0,117917
+Kidnap,"Action,Crime,Thriller",5.9,2017,0,95.0,38883
+Samaritan,"Action,Drama,Fantasy",5.7,2022,0,102.0,54322
+Red Joan,"Biography,Drama,History",6.4,2018,0,101.0,14275
+Titane,"Drama,Horror,Sci-Fi",6.5,2021,0,108.0,54788
+The Vault,"Crime,Horror,Mystery",4.9,2017,0,91.0,13534
+A Boy Called Christmas,"Adventure,Drama,Family",6.7,2021,0,106.0,27092
+The Polka King,"Biography,Comedy,Drama",6.0,2017,0,95.0,11828
+Sherlock Gnomes,"Adventure,Animation,Comedy",5.2,2018,0,86.0,13880
+Another Round,Drama,7.7,2020,0,117.0,190260
+Acts of Vengeance,"Action,Drama,Thriller",5.7,2017,0,87.0,13494
+Why Him?,Comedy,6.2,2016,0,111.0,122568
+Sisu,"Action,War",6.9,2022,0,91.0,70046

@@ -1,51 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
-Fighting with My Family,"Biography,Comedy,Drama",7.1,2019,0,108.0,86793,16455
-Bill & Ted Face the Music,"Adventure,Comedy,Music",5.9,2020,0,91.0,52517,16997
-Mission: Impossible - Fallout,"Action,Adventure,Thriller",7.7,2018,0,147.0,373530,17363
-Zero Days,Documentary,7.7,2016,0,116.0,10345,17802
-Do Revenge,"Comedy,Romance,Thriller",6.3,2022,0,118.0,48785,19477
-Dark Phoenix,"Action,Adventure,Sci-Fi",5.7,2019,0,113.0,202237,20072
-Sonu Ke Titu Ki Sweety,"Comedy,Romance",7.1,2018,0,138.0,24249,20134
-Chicken Run: Dawn of the Nugget,"Adventure,Animation,Comedy",6.4,2023,0,98.0,19535,20458
-Miss Peregrine's Home for Peculiar Children,"Adventure,Drama,Family",6.7,2016,0,127.0,186466,21211
-Genius,"Biography,Drama",6.5,2016,0,104.0,21155,21477
-T2 Trainspotting,"Comedy,Crime,Drama",7.2,2017,0,117.0,131841,21548
-Vada Chennai,"Action,Crime,Drama",8.4,2018,0,164.0,19400,21689
-Torbaaz,"Action,Drama,Sport",5.1,2020,0,133.0,18037,22374
-Allegiant,"Action,Adventure,Mystery",5.7,2016,0,120.0,132472,22670
-Creed III,"Drama,Sport",6.7,2023,0,116.0,90071,22688
-The Blackout,"Action,Sci-Fi,Thriller",6.0,2019,0,127.0,10516,22783
-Borat Subsequent Moviefilm,Comedy,6.6,2020,0,95.0,152028,22907
-The Killing of a Sacred Deer,"Drama,Horror,Mystery",7.0,2017,0,121.0,181406,23043
-7 Days in Entebbe,"Action,Drama,History",5.9,2018,0,107.0,17142,23056
-Project Power,"Action,Crime,Sci-Fi",6.0,2020,0,113.0,96711,23830
-Nobody Sleeps in the Woods Tonight,"Fantasy,Horror,Mystery",4.9,2020,0,102.0,13844,23890
-Kajillionaire,"Comedy,Crime,Drama",6.4,2020,0,104.0,21803,25007
-The Girl in the Fog,"Crime,Drama,Mystery",6.8,2017,0,128.0,12859,25482
-Border,"Crime,Drama,Fantasy",7.0,2018,0,110.0,33810,25758
-The Adam Project,"Action,Adventure,Comedy",6.7,2022,0,106.0,227346,25848
-The Nest,"Drama,Romance,Thriller",6.3,2020,0,107.0,17636,26389
-The Secret Life of Pets 2,"Adventure,Animation,Comedy",6.4,2019,0,86.0,68071,26515
-Shubh Mangal Savdhan,"Comedy,Romance",6.9,2017,0,119.0,10986,26623
-Infinity Chamber,"Sci-Fi,Thriller",6.2,2016,0,103.0,11590,26788
-Aquarius,Drama,7.4,2016,0,146.0,20656,27279
-We Have a Ghost,"Adventure,Comedy,Drama",6.1,2023,0,126.0,32016,27459
-Babyteeth,"Comedy,Drama,Music",7.2,2019,0,118.0,18720,27727
-Stutz,Documentary,7.8,2022,0,96.0,17301,27951
-Toofaan,"Action,Drama,Sport",6.2,2021,0,163.0,51996,27994
-Fatale,"Drama,Mystery,Romance",5.4,2020,0,102.0,14006,28098
-I Am Not Your Negro,"Documentary,History",7.9,2016,0,93.0,23320,28592
-15/07: Break of Dawn,"Action,Drama,War",1.2,2021,0,95.0,20614,28961
-The Lighthouse,"Drama,Fantasy,Horror",7.4,2019,0,109.0,249786,29147
-Pacific Rim: Uprising,"Action,Adventure,Sci-Fi",5.6,2018,0,111.0,125788,29294
-Aftermath,"Drama,Mystery,Thriller",5.7,2017,0,94.0,26633,30230
-The Huntsman: Winter's War,"Action,Adventure,Drama",6.1,2016,0,114.0,118283,30805
-To All the Boys: P.S. I Still Love You,"Comedy,Drama,Romance",6.1,2020,0,101.0,45552,31167
-The Mummy,"Action,Adventure,Fantasy",5.4,2017,0,111.0,204616,31599
-Nightmare Alley,"Crime,Drama,Thriller",7.0,2021,0,150.0,162922,32180
-My Life as a Zucchini,"Animation,Comedy,Drama",7.8,2016,0,66.0,28693,32193
-Stowaway,"Adventure,Sci-Fi,Thriller",5.7,2021,0,116.0,51782,32743
-Sonic the Hedgehog 2,"Action,Adventure,Comedy",6.5,2022,0,122.0,84813,33078
-Amityville: The Awakening,"Horror,Thriller",4.8,2017,0,87.0,15355,34043
-The Blue Elephant 2,"Crime,Drama,Horror",8.0,2019,0,130.0,10873,34575
-Words on Bathroom Walls,"Drama,Romance",7.2,2020,0,110.0,13206,34674
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+Fighting with My Family,"Biography,Comedy,Drama",7.1,2019,0,108.0,86793
+Bill & Ted Face the Music,"Adventure,Comedy,Music",5.9,2020,0,91.0,52517
+Mission: Impossible - Fallout,"Action,Adventure,Thriller",7.7,2018,0,147.0,373530
+Zero Days,Documentary,7.7,2016,0,116.0,10345
+Do Revenge,"Comedy,Romance,Thriller",6.3,2022,0,118.0,48785
+Dark Phoenix,"Action,Adventure,Sci-Fi",5.7,2019,0,113.0,202237
+Sonu Ke Titu Ki Sweety,"Comedy,Romance",7.1,2018,0,138.0,24249
+Chicken Run: Dawn of the Nugget,"Adventure,Animation,Comedy",6.4,2023,0,98.0,19535
+Miss Peregrine's Home for Peculiar Children,"Adventure,Drama,Family",6.7,2016,0,127.0,186466
+Genius,"Biography,Drama",6.5,2016,0,104.0,21155
+T2 Trainspotting,"Comedy,Crime,Drama",7.2,2017,0,117.0,131841
+Vada Chennai,"Action,Crime,Drama",8.4,2018,0,164.0,19400
+Torbaaz,"Action,Drama,Sport",5.1,2020,0,133.0,18037
+Allegiant,"Action,Adventure,Mystery",5.7,2016,0,120.0,132472
+Creed III,"Drama,Sport",6.7,2023,0,116.0,90071
+The Blackout,"Action,Sci-Fi,Thriller",6.0,2019,0,127.0,10516
+Borat Subsequent Moviefilm,Comedy,6.6,2020,0,95.0,152028
+The Killing of a Sacred Deer,"Drama,Horror,Mystery",7.0,2017,0,121.0,181406
+7 Days in Entebbe,"Action,Drama,History",5.9,2018,0,107.0,17142
+Project Power,"Action,Crime,Sci-Fi",6.0,2020,0,113.0,96711
+Nobody Sleeps in the Woods Tonight,"Fantasy,Horror,Mystery",4.9,2020,0,102.0,13844
+Kajillionaire,"Comedy,Crime,Drama",6.4,2020,0,104.0,21803
+The Girl in the Fog,"Crime,Drama,Mystery",6.8,2017,0,128.0,12859
+Border,"Crime,Drama,Fantasy",7.0,2018,0,110.0,33810
+The Adam Project,"Action,Adventure,Comedy",6.7,2022,0,106.0,227346
+The Nest,"Drama,Romance,Thriller",6.3,2020,0,107.0,17636
+The Secret Life of Pets 2,"Adventure,Animation,Comedy",6.4,2019,0,86.0,68071
+Shubh Mangal Savdhan,"Comedy,Romance",6.9,2017,0,119.0,10986
+Infinity Chamber,"Sci-Fi,Thriller",6.2,2016,0,103.0,11590
+Aquarius,Drama,7.4,2016,0,146.0,20656
+We Have a Ghost,"Adventure,Comedy,Drama",6.1,2023,0,126.0,32016
+Babyteeth,"Comedy,Drama,Music",7.2,2019,0,118.0,18720
+Stutz,Documentary,7.8,2022,0,96.0,17301
+Toofaan,"Action,Drama,Sport",6.2,2021,0,163.0,51996
+Fatale,"Drama,Mystery,Romance",5.4,2020,0,102.0,14006
+I Am Not Your Negro,"Documentary,History",7.9,2016,0,93.0,23320
+15/07: Break of Dawn,"Action,Drama,War",1.2,2021,0,95.0,20614
+The Lighthouse,"Drama,Fantasy,Horror",7.4,2019,0,109.0,249786
+Pacific Rim: Uprising,"Action,Adventure,Sci-Fi",5.6,2018,0,111.0,125788
+Aftermath,"Drama,Mystery,Thriller",5.7,2017,0,94.0,26633
+The Huntsman: Winter's War,"Action,Adventure,Drama",6.1,2016,0,114.0,118283
+To All the Boys: P.S. I Still Love You,"Comedy,Drama,Romance",6.1,2020,0,101.0,45552
+The Mummy,"Action,Adventure,Fantasy",5.4,2017,0,111.0,204616
+Nightmare Alley,"Crime,Drama,Thriller",7.0,2021,0,150.0,162922
+My Life as a Zucchini,"Animation,Comedy,Drama",7.8,2016,0,66.0,28693
+Stowaway,"Adventure,Sci-Fi,Thriller",5.7,2021,0,116.0,51782
+Sonic the Hedgehog 2,"Action,Adventure,Comedy",6.5,2022,0,122.0,84813
+Amityville: The Awakening,"Horror,Thriller",4.8,2017,0,87.0,15355
+The Blue Elephant 2,"Crime,Drama,Horror",8.0,2019,0,130.0,10873
+Words on Bathroom Walls,"Drama,Romance",7.2,2020,0,110.0,13206

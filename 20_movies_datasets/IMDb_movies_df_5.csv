@@ -1,51 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
-Sharper,"Crime,Drama,Thriller",6.7,2023,0,116.0,29167,66990
-Never Rarely Sometimes Always,Drama,7.4,2020,0,101.0,30830,67207
-Kabali,"Action,Crime,Drama",6.1,2016,0,153.0,14096,67935
-Happy as Lazzaro,"Drama,Fantasy,Mystery",7.5,2018,0,128.0,20192,68399
-Unlocked,"Action,Thriller",6.3,2017,0,98.0,38326,68809
-Thanksgiving,"Horror,Mystery,Thriller",6.4,2023,0,106.0,33803,69033
-The Last Kingdom: Seven Kings Must Die,"Action,Drama,History",6.9,2023,0,111.0,34391,69578
-Knock at the Cabin,"Horror,Mystery,Thriller",6.1,2023,0,100.0,111402,69583
-The Boss Baby,"Adventure,Animation,Comedy",6.3,2017,0,97.0,139371,69686
-The Meyerowitz Stories,"Comedy,Drama",6.9,2017,0,112.0,53677,69778
-In a Valley of Violence,"Action,Western",6.1,2016,0,104.0,20653,71401
-"Quo Vadis, Aida?","Drama,History,War",8.0,2020,0,101.0,37639,72371
-Nightbooks,"Family,Fantasy,Horror",5.8,2021,0,103.0,10385,72442
-Resident Evil: Welcome to Raccoon City,"Action,Horror,Sci-Fi",5.2,2021,0,107.0,62811,72744
-The Out-Laws,"Action,Comedy,Crime",5.4,2023,0,95.0,34387,73405
-Free Guy,"Action,Adventure,Comedy",7.1,2021,0,115.0,416972,73659
-Down a Dark Hall,"Drama,Fantasy,Horror",5.0,2018,0,96.0,14827,73746
-Moana,"Adventure,Animation,Comedy",7.6,2016,0,107.0,371670,73879
-Clifford the Big Red Dog,"Adventure,Comedy,Family",5.9,2021,0,96.0,16792,73944
-Table 19,"Comedy,Drama,Romance",5.8,2017,0,87.0,30797,74306
-The Lodge,"Drama,Horror,Mystery",6.0,2019,0,108.0,56903,75124
-Cadaver,"Drama,Horror,Thriller",5.2,2020,0,86.0,12116,75468
-Loving Pablo,"Biography,Crime,Drama",6.3,2017,0,123.0,22178,75852
-Hamilton,"Biography,Drama,History",8.3,2020,0,160.0,110831,76597
-Pete's Dragon,"Action,Adventure,Comedy",6.7,2016,0,102.0,61319,76768
-Countdown,"Horror,Thriller",5.4,2019,0,90.0,44562,77325
-Nocturne,"Drama,Horror,Music",5.7,2020,0,90.0,11329,77592
-Long Shot,"Comedy,Romance",6.8,2019,0,125.0,120540,79000
-El Camino: A Breaking Bad Movie,"Action,Crime,Drama",7.3,2019,0,122.0,286401,79869
-Tallulah,"Comedy,Drama,Romance",6.7,2016,0,111.0,21346,80068
-At the End of the Tunnel,"Crime,Drama,Thriller",7.0,2016,0,120.0,15508,80171
-Pitch Perfect 3,"Comedy,Music",5.8,2017,0,93.0,71007,80891
-Won't You Be My Neighbor?,"Biography,Documentary,History",8.3,2018,0,95.0,26935,81183
-Tall Girl,"Comedy,Drama,Family",5.2,2019,0,101.0,26487,81606
-Kaiva,"Action,Drama,Romance",7.3,2023,0,138.0,39088,81707
-The Spy Who Dumped Me,"Action,Adventure,Comedy",6.0,2018,0,117.0,82443,81710
-The Possession of Hannah Grace,"Horror,Mystery,Thriller",5.2,2018,0,86.0,25444,82302
-A Private War,"Biography,Drama,War",6.7,2018,0,110.0,20832,82354
-Jersey,"Drama,Sport",7.3,2022,0,170.0,14293,82599
-A Hero,Drama,7.5,2021,0,127.0,28991,82915
-Cats,"Comedy,Drama,Family",2.8,2019,0,110.0,55414,83517
-Munich: The Edge of War,"Biography,Drama,History",6.8,2021,0,130.0,35391,83873
-Come Play,"Drama,Horror,Mystery",5.8,2020,0,96.0,17829,83984
-Can You Ever Forgive Me?,"Biography,Comedy,Crime",7.1,2018,0,106.0,55770,84008
-Mank,"Biography,Comedy,Drama",6.8,2020,0,131.0,81914,84147
-Becky,"Action,Crime,Drama",6.0,2020,0,93.0,24024,84354
-Prospect,"Adventure,Drama,Sci-Fi",6.3,2018,0,100.0,33636,84359
-Rambo: Last Blood,"Action,Crime,Thriller",6.1,2019,0,89.0,108253,84645
-The Zone of Interest,"Drama,History,War",7.9,2023,0,105.0,11985,84651
-Ben-Hur,"Action,Adventure,Drama",5.7,2016,0,123.0,46432,84735
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+Sharper,"Crime,Drama,Thriller",6.7,2023,0,116.0,29167
+Never Rarely Sometimes Always,Drama,7.4,2020,0,101.0,30830
+Kabali,"Action,Crime,Drama",6.1,2016,0,153.0,14096
+Happy as Lazzaro,"Drama,Fantasy,Mystery",7.5,2018,0,128.0,20192
+Unlocked,"Action,Thriller",6.3,2017,0,98.0,38326
+Thanksgiving,"Horror,Mystery,Thriller",6.4,2023,0,106.0,33803
+The Last Kingdom: Seven Kings Must Die,"Action,Drama,History",6.9,2023,0,111.0,34391
+Knock at the Cabin,"Horror,Mystery,Thriller",6.1,2023,0,100.0,111402
+The Boss Baby,"Adventure,Animation,Comedy",6.3,2017,0,97.0,139371
+The Meyerowitz Stories,"Comedy,Drama",6.9,2017,0,112.0,53677
+In a Valley of Violence,"Action,Western",6.1,2016,0,104.0,20653
+"Quo Vadis, Aida?","Drama,History,War",8.0,2020,0,101.0,37639
+Nightbooks,"Family,Fantasy,Horror",5.8,2021,0,103.0,10385
+Resident Evil: Welcome to Raccoon City,"Action,Horror,Sci-Fi",5.2,2021,0,107.0,62811
+The Out-Laws,"Action,Comedy,Crime",5.4,2023,0,95.0,34387
+Free Guy,"Action,Adventure,Comedy",7.1,2021,0,115.0,416972
+Down a Dark Hall,"Drama,Fantasy,Horror",5.0,2018,0,96.0,14827
+Moana,"Adventure,Animation,Comedy",7.6,2016,0,107.0,371670
+Clifford the Big Red Dog,"Adventure,Comedy,Family",5.9,2021,0,96.0,16792
+Table 19,"Comedy,Drama,Romance",5.8,2017,0,87.0,30797
+The Lodge,"Drama,Horror,Mystery",6.0,2019,0,108.0,56903
+Cadaver,"Drama,Horror,Thriller",5.2,2020,0,86.0,12116
+Loving Pablo,"Biography,Crime,Drama",6.3,2017,0,123.0,22178
+Hamilton,"Biography,Drama,History",8.3,2020,0,160.0,110831
+Pete's Dragon,"Action,Adventure,Comedy",6.7,2016,0,102.0,61319
+Countdown,"Horror,Thriller",5.4,2019,0,90.0,44562
+Nocturne,"Drama,Horror,Music",5.7,2020,0,90.0,11329
+Long Shot,"Comedy,Romance",6.8,2019,0,125.0,120540
+El Camino: A Breaking Bad Movie,"Action,Crime,Drama",7.3,2019,0,122.0,286401
+Tallulah,"Comedy,Drama,Romance",6.7,2016,0,111.0,21346
+At the End of the Tunnel,"Crime,Drama,Thriller",7.0,2016,0,120.0,15508
+Pitch Perfect 3,"Comedy,Music",5.8,2017,0,93.0,71007
+Won't You Be My Neighbor?,"Biography,Documentary,History",8.3,2018,0,95.0,26935
+Tall Girl,"Comedy,Drama,Family",5.2,2019,0,101.0,26487
+Kaiva,"Action,Drama,Romance",7.3,2023,0,138.0,39088
+The Spy Who Dumped Me,"Action,Adventure,Comedy",6.0,2018,0,117.0,82443
+The Possession of Hannah Grace,"Horror,Mystery,Thriller",5.2,2018,0,86.0,25444
+A Private War,"Biography,Drama,War",6.7,2018,0,110.0,20832
+Jersey,"Drama,Sport",7.3,2022,0,170.0,14293
+A Hero,Drama,7.5,2021,0,127.0,28991
+Cats,"Comedy,Drama,Family",2.8,2019,0,110.0,55414
+Munich: The Edge of War,"Biography,Drama,History",6.8,2021,0,130.0,35391
+Come Play,"Drama,Horror,Mystery",5.8,2020,0,96.0,17829
+Can You Ever Forgive Me?,"Biography,Comedy,Crime",7.1,2018,0,106.0,55770
+Mank,"Biography,Comedy,Drama",6.8,2020,0,131.0,81914
+Becky,"Action,Crime,Drama",6.0,2020,0,93.0,24024
+Prospect,"Adventure,Drama,Sci-Fi",6.3,2018,0,100.0,33636
+Rambo: Last Blood,"Action,Crime,Thriller",6.1,2019,0,89.0,108253
+The Zone of Interest,"Drama,History,War",7.9,2023,0,105.0,11985
+Ben-Hur,"Action,Adventure,Drama",5.7,2016,0,123.0,46432

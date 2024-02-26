@@ -1,51 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
-The Platform,"Horror,Sci-Fi,Thriller",7.0,2019,0,94.0,265775,171570
-Pirates of the Caribbean: Dead Men Tell No Tales,"Action,Adventure,Fantasy",6.5,2017,0,129.0,340687,171752
-Downsizing,"Drama,Fantasy,Sci-Fi",5.8,2017,0,135.0,122084,171821
-Candyman,"Horror,Thriller",5.9,2021,0,91.0,74825,172461
-The Guilty,"Crime,Drama,Thriller",7.5,2018,0,85.0,63771,172477
-Holmes & Watson,"Comedy,Crime,Mystery",3.9,2018,0,90.0,38965,173723
-Three Thousand Years of Longing,"Drama,Fantasy,Romance",6.7,2022,0,108.0,58577,173810
-Empire of Light,"Drama,Romance",6.6,2022,0,115.0,23303,174647
-The Munsters,"Comedy,Family,Fantasy",4.5,2022,0,109.0,11310,174673
-Three Identical Strangers,"Biography,Documentary,Drama",7.6,2018,0,96.0,38656,176330
-The Nightingale,"Adventure,Drama,Thriller",7.3,2018,0,136.0,34910,176429
-Borg vs. McEnroe,"Biography,Drama,Sport",6.9,2017,0,107.0,34165,176491
-Escape Room: Tournament of Champions,"Action,Adventure,Horror",5.7,2021,0,88.0,58378,176829
-Cold Pursuit,"Action,Comedy,Crime",6.2,2019,0,119.0,77232,177046
-The High Note,"Drama,Music,Romance",6.4,2020,0,113.0,13241,177454
-Spree,"Comedy,Crime,Horror",5.9,2020,0,93.0,16334,177655
-Extraction,"Action,Thriller",6.8,2020,0,116.0,258872,177848
-Patti Cake$,"Drama,Music",6.8,2017,0,109.0,10502,178110
-Cuck,"Crime,Drama,Thriller",4.7,2019,0,115.0,13557,178276
-Angel Has Fallen,"Action,Thriller",6.4,2019,0,121.0,108830,178296
-Tell Me Who I Am,"Documentary,Drama,Mystery",7.6,2019,0,86.0,16381,178764
-Psycho Raman,"Crime,Drama,Thriller",7.3,2016,0,133.0,15816,179638
-Papillon,"Adventure,Biography,Crime",7.2,2017,0,133.0,84332,179708
-A Quiet Place Part II,"Drama,Horror,Sci-Fi",7.2,2020,0,97.0,267137,180316
-Graduation,"Crime,Drama",7.3,2016,0,128.0,14631,180960
-Miracles from Heaven,"Biography,Drama,Family",7.1,2016,0,109.0,28021,181796
-The Banker,"Biography,Drama",7.3,2020,0,120.0,34543,182278
-Reign of the Supermen,"Action,Adventure,Animation",6.8,2019,0,87.0,18027,182899
-The Tashkent Files,"Drama,Mystery,Thriller",8.1,2019,0,134.0,35819,183097
-iBoy,"Action,Crime,Sci-Fi",5.9,2017,0,90.0,24232,183226
-Dune: Part One,"Action,Adventure,Drama",8.0,2021,0,155.0,753681,183312
-Film Stars Don't Die in Liverpool,"Biography,Drama,Romance",6.7,2017,0,105.0,10636,184837
-The Bar,"Horror,Thriller",6.3,2017,0,102.0,28734,185352
-Dark Waters,"Biography,Drama,History",7.6,2019,0,126.0,99388,185491
-The Domestics,"Action,Horror,Sci-Fi",5.7,2018,0,95.0,10552,185531
-Ash Is Purest White,"Crime,Drama,Romance",7.0,2018,0,136.0,10486,185563
-Marighella,"Action,Drama,History",7.1,2019,0,155.0,55939,185690
-Malevolent,"Horror,Mystery,Thriller",4.8,2018,0,89.0,16805,186550
-Tom & Jerry,"Adventure,Animation,Comedy",5.3,2021,0,101.0,39269,186949
-Dasvi,"Comedy,Drama",7.4,2022,0,125.0,56453,188311
-The Black Phone,"Horror,Mystery,Thriller",6.9,2021,0,103.0,187130,188976
-Red Dot,"Drama,Horror,Thriller",5.5,2021,0,86.0,14614,189078
-How to Be a Latin Lover,"Comedy,Drama",6.0,2017,0,115.0,17365,189152
-Peranbu,"Drama,Family",8.7,2018,0,147.0,16558,189443
-Triple 9,"Action,Crime,Drama",6.3,2016,0,115.0,76415,190809
-I'm Your Man,"Comedy,Drama,Romance",7.0,2021,0,108.0,12246,191073
-No Exit,"Drama,Mystery,Thriller",6.1,2022,0,95.0,31701,191470
-Lost Bullet,"Action,Crime,Thriller",6.3,2020,0,92.0,13984,192801
-Game Night,"Action,Adventure,Comedy",6.9,2018,0,100.0,253189,192880
-Leatherface,"Crime,Horror,Thriller",5.0,2017,0,90.0,27459,192986
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+The Platform,"Horror,Sci-Fi,Thriller",7.0,2019,0,94.0,265775
+Pirates of the Caribbean: Dead Men Tell No Tales,"Action,Adventure,Fantasy",6.5,2017,0,129.0,340687
+Downsizing,"Drama,Fantasy,Sci-Fi",5.8,2017,0,135.0,122084
+Candyman,"Horror,Thriller",5.9,2021,0,91.0,74825
+The Guilty,"Crime,Drama,Thriller",7.5,2018,0,85.0,63771
+Holmes & Watson,"Comedy,Crime,Mystery",3.9,2018,0,90.0,38965
+Three Thousand Years of Longing,"Drama,Fantasy,Romance",6.7,2022,0,108.0,58577
+Empire of Light,"Drama,Romance",6.6,2022,0,115.0,23303
+The Munsters,"Comedy,Family,Fantasy",4.5,2022,0,109.0,11310
+Three Identical Strangers,"Biography,Documentary,Drama",7.6,2018,0,96.0,38656
+The Nightingale,"Adventure,Drama,Thriller",7.3,2018,0,136.0,34910
+Borg vs. McEnroe,"Biography,Drama,Sport",6.9,2017,0,107.0,34165
+Escape Room: Tournament of Champions,"Action,Adventure,Horror",5.7,2021,0,88.0,58378
+Cold Pursuit,"Action,Comedy,Crime",6.2,2019,0,119.0,77232
+The High Note,"Drama,Music,Romance",6.4,2020,0,113.0,13241
+Spree,"Comedy,Crime,Horror",5.9,2020,0,93.0,16334
+Extraction,"Action,Thriller",6.8,2020,0,116.0,258872
+Patti Cake$,"Drama,Music",6.8,2017,0,109.0,10502
+Cuck,"Crime,Drama,Thriller",4.7,2019,0,115.0,13557
+Angel Has Fallen,"Action,Thriller",6.4,2019,0,121.0,108830
+Tell Me Who I Am,"Documentary,Drama,Mystery",7.6,2019,0,86.0,16381
+Psycho Raman,"Crime,Drama,Thriller",7.3,2016,0,133.0,15816
+Papillon,"Adventure,Biography,Crime",7.2,2017,0,133.0,84332
+A Quiet Place Part II,"Drama,Horror,Sci-Fi",7.2,2020,0,97.0,267137
+Graduation,"Crime,Drama",7.3,2016,0,128.0,14631
+Miracles from Heaven,"Biography,Drama,Family",7.1,2016,0,109.0,28021
+The Banker,"Biography,Drama",7.3,2020,0,120.0,34543
+Reign of the Supermen,"Action,Adventure,Animation",6.8,2019,0,87.0,18027
+The Tashkent Files,"Drama,Mystery,Thriller",8.1,2019,0,134.0,35819
+iBoy,"Action,Crime,Sci-Fi",5.9,2017,0,90.0,24232
+Dune: Part One,"Action,Adventure,Drama",8.0,2021,0,155.0,753681
+Film Stars Don't Die in Liverpool,"Biography,Drama,Romance",6.7,2017,0,105.0,10636
+The Bar,"Horror,Thriller",6.3,2017,0,102.0,28734
+Dark Waters,"Biography,Drama,History",7.6,2019,0,126.0,99388
+The Domestics,"Action,Horror,Sci-Fi",5.7,2018,0,95.0,10552
+Ash Is Purest White,"Crime,Drama,Romance",7.0,2018,0,136.0,10486
+Marighella,"Action,Drama,History",7.1,2019,0,155.0,55939
+Malevolent,"Horror,Mystery,Thriller",4.8,2018,0,89.0,16805
+Tom & Jerry,"Adventure,Animation,Comedy",5.3,2021,0,101.0,39269
+Dasvi,"Comedy,Drama",7.4,2022,0,125.0,56453
+The Black Phone,"Horror,Mystery,Thriller",6.9,2021,0,103.0,187130
+Red Dot,"Drama,Horror,Thriller",5.5,2021,0,86.0,14614
+How to Be a Latin Lover,"Comedy,Drama",6.0,2017,0,115.0,17365
+Peranbu,"Drama,Family",8.7,2018,0,147.0,16558
+Triple 9,"Action,Crime,Drama",6.3,2016,0,115.0,76415
+I'm Your Man,"Comedy,Drama,Romance",7.0,2021,0,108.0,12246
+No Exit,"Drama,Mystery,Thriller",6.1,2022,0,95.0,31701
+Lost Bullet,"Action,Crime,Thriller",6.3,2020,0,92.0,13984
+Game Night,"Action,Adventure,Comedy",6.9,2018,0,100.0,253189
+Leatherface,"Crime,Horror,Thriller",5.0,2017,0,90.0,27459
