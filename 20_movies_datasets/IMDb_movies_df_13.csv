@@ -1,0 +1,51 @@
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random
+Otherhood,Comedy,6.1,2019,0,100.0,12328,214192
+Cinderella,"Comedy,Family,Fantasy",4.4,2021,0,112.0,45981,214411
+Atomic Blonde,"Action,Thriller",6.7,2017,0,115.0,204937,214739
+I Still Believe,"Biography,Drama,Music",6.5,2020,0,116.0,13422,214875
+"Good Luck to You, Leo Grande","Comedy,Drama",7.2,2022,0,97.0,35955,215730
+Fisherman's Friends,"Comedy,Drama,Music",7.0,2019,0,112.0,11193,216117
+The Dry,"Crime,Drama,Mystery",6.9,2020,0,117.0,31978,216536
+"Roman J. Israel, Esq.","Crime,Drama,Thriller",6.5,2017,0,122.0,42723,217158
+The Beasts,"Drama,Thriller",7.5,2022,0,137.0,16844,217299
+The Occupant,"Drama,Thriller",6.4,2020,0,103.0,19597,217542
+The Ice Age Adventures of Buck Wild,"Adventure,Animation,Comedy",4.3,2022,0,82.0,16175,217941
+The Magnificent Seven,"Action,Adventure,Drama",6.9,2016,0,132.0,226327,218081
+Boston Strangler,"Crime,Drama,History",6.5,2023,0,112.0,31791,218230
+The Bombardment,"Drama,History,War",7.3,2021,0,107.0,16285,218288
+Lean on Pete,"Adventure,Drama,Sport",7.1,2017,0,121.0,13742,218800
+White Girl,"Crime,Drama",5.7,2016,0,88.0,11641,219012
+Gold,"Action,Adventure,Thriller",5.4,2022,0,97.0,12183,219121
+The Guardians,"Action,Adventure,Comedy",4.0,2017,0,89.0,14443,219773
+Misconduct,"Crime,Drama,Mystery",5.3,2016,0,106.0,17636,220493
+The Duke,"Biography,Comedy,Crime",6.9,2020,0,95.0,12885,220806
+The Starling,"Comedy,Drama",6.4,2021,0,102.0,15064,223827
+War Machine,"Comedy,Drama,War",6.0,2017,0,122.0,49734,223836
+The Hustle,"Comedy,Crime",5.4,2019,0,93.0,64771,223897
+The Electrical Life of Louis Wain,"Biography,Drama,History",6.8,2021,0,111.0,19842,225655
+Better Watch Out,"Comedy,Horror,Thriller",6.5,2016,0,89.0,45800,225884
+Yoga Hosers,"Action,Comedy,Horror",4.3,2016,0,88.0,15349,226193
+IB 71,"Action,Thriller",7.2,2023,0,117.0,10161,226382
+The Teacher,"Drama,Thriller",6.6,2022,0,121.0,14140,226471
+The Good Liar,"Crime,Drama,Mystery",6.7,2019,0,109.0,46704,227043
+The Tax Collector,"Action,Crime,Drama",4.8,2020,0,95.0,15195,227188
+The Cost of Deception,"Action,Crime,Drama",1.5,2021,0,125.0,39740,227807
+Shivaay,"Action,Adventure,Crime",6.1,2016,0,153.0,11166,228601
+Raw,"Drama,Horror",7.0,2016,0,99.0,87951,228658
+The Last Full Measure,"Drama,War",6.8,2019,0,116.0,13878,229054
+The Autopsy of Jane Doe,"Horror,Mystery,Thriller",6.8,2016,0,86.0,136184,229360
+Thappad,Drama,7.0,2020,0,142.0,26608,229401
+Midnight Sun,"Drama,Romance",6.6,2018,0,91.0,35488,230740
+The Thinning,"Action,Drama,Horror",5.4,2016,0,81.0,10402,230764
+Turnabout,"Drama,Mystery,Thriller",4.9,2016,0,90.0,13291,230832
+Free Fire,"Action,Comedy,Crime",6.3,2016,0,91.0,50184,230854
+The Sleepover,"Action,Adventure,Comedy",5.7,2020,0,100.0,11888,231170
+Rescued by Ruby,"Biography,Drama,Family",7.2,2022,0,90.0,10550,231557
+White Boy Rick,"Crime,Drama",6.5,2018,0,111.0,42008,231707
+Guntur Kaaram,"Action,Drama,Family",6.2,2024,0,159.0,17123,231797
+Godzilla vs. Kong,"Action,Sci-Fi,Thriller",6.3,2021,0,113.0,233462,232321
+Strange World,"Action,Adventure,Animation",5.7,2022,0,102.0,44880,232474
+Morgan,"Action,Horror,Sci-Fi",5.8,2016,0,92.0,45848,232959
+Me Before You,"Drama,Romance",7.4,2016,0,110.0,282450,233642
+65,"Action,Adventure,Drama",5.4,2023,0,93.0,84951,233936
+Eurovision Song Contest: The Story of Fire Saga,"Comedy,Music",6.5,2020,0,123.0,101338,235965
