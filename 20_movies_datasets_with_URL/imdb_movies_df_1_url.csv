@@ -1,3 +1,51 @@
-Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,Random,User Reviews URL
-Phone Bhoot,"Comedy,Horror",5.2,2022,0,136.0,10841,73,https://www.imdb.com/title/tt12740760/reviews/?ref_=tt_ql_2
-Office Christmas Party,Comedy,5.9,2016,0,105.0,87808,253,https://www.imdb.com/title/tt1711525/reviews/?ref_=tt_ql_2
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes,User Reviews URL
+Phone Bhoot,"Comedy,Horror",5.2,2022,0,136.0,10841,https://www.imdb.com/title/tt12740760/reviews/?ref_=tt_ql_2
+Office Christmas Party,Comedy,5.9,2016,0,105.0,87808,https://www.imdb.com/title/tt1711525/reviews/?ref_=tt_ql_2
+The Boogeyman,"Horror,Mystery,Thriller",5.9,2023,0,98.0,41911,https://www.imdb.com/title/tt3427252/reviews/?ref_=tt_ql_2
+The Woman King,"Action,Drama,History",6.9,2022,0,135.0,71193,https://www.imdb.com/title/tt8093700/reviews/?ref_=tt_ql_2
+A Shaun the Sheep Movie: Farmageddon,"Adventure,Animation,Comedy",6.8,2019,0,86.0,15422,https://www.imdb.com/title/tt6193408/reviews/?ref_=tt_ql_2
+Gemini Man,"Action,Sci-Fi,Thriller",5.7,2019,0,117.0,120953,https://www.imdb.com/title/tt1025100/reviews/?ref_=tt_ql_2
+Doctor Strange,"Action,Adventure,Fantasy",7.5,2016,0,115.0,795835,https://www.imdb.com/title/tt1211837/reviews/?ref_=tt_ql_2
+Sully,"Biography,Drama",7.4,2016,0,96.0,294926,https://www.imdb.com/title/tt3263904/reviews/?ref_=tt_ql_2
+The Irishman,"Biography,Crime,Drama",7.8,2019,0,209.0,425536,https://www.imdb.com/title/tt1302006/reviews/?ref_=tt_ql_2
+777 Charlie,"Adventure,Comedy,Drama",8.8,2022,0,164.0,38956,https://www.imdb.com/title/tt7466810/reviews/?ref_=tt_ql_2
+Goosebumps 2: Haunted Halloween,"Adventure,Comedy,Fantasy",5.6,2018,0,90.0,23506,https://www.imdb.com/title/tt5664636/reviews/?ref_=tt_ql_2
+Troop Zero,"Comedy,Drama,Family",6.9,2019,0,94.0,12028,https://www.imdb.com/title/tt2404465/reviews/?ref_=tt_ql_2
+Role Play,"Action,Comedy,Romance",5.5,2023,0,100.0,11270,
+Climax,"Drama,Horror,Music",6.9,2018,0,97.0,78090,https://www.imdb.com/title/tt8359848/reviews/?ref_=tt_ql_2
+Popstar: Never Stop Never Stopping,"Comedy,Drama,Music",6.7,2016,0,87.0,67605,https://www.imdb.com/title/tt3960412/reviews/?ref_=tt_ql_2
+Gifted,Drama,7.6,2017,0,101.0,128611,https://www.imdb.com/title/tt4481414/reviews/?ref_=tt_ql_2
+Journal 64,"Crime,Mystery,Thriller",7.4,2018,0,119.0,18945,https://www.imdb.com/title/tt6916362/reviews/?ref_=tt_ql_2
+The Night House,"Horror,Mystery,Thriller",6.5,2020,0,107.0,65645,https://www.imdb.com/title/tt9731534/reviews/?ref_=tt_ql_2
+You Won't Be Alone,"Drama,Fantasy,Horror",6.4,2022,0,108.0,10661,https://www.imdb.com/title/tt8296030/reviews/?ref_=tt_ql_2
+Recep Ivedik 5,Comedy,3.4,2017,0,114.0,17709,https://www.imdb.com/title/tt6439558/reviews/?ref_=tt_ql_2
+The Love Witch,"Comedy,Horror,Romance",6.2,2016,0,120.0,19501,https://www.imdb.com/title/tt3908142/reviews/?ref_=tt_ql_2
+Split,"Horror,Thriller",7.3,2016,0,117.0,542899,https://www.imdb.com/title/tt4972582/reviews/?ref_=tt_ql_2
+Gran Turismo,"Action,Adventure,Drama",7.2,2023,0,134.0,83184,https://www.imdb.com/title/tt4495098/reviews/?ref_=tt_ql_2
+Respect,"Biography,Drama,Music",6.6,2021,0,145.0,17608,https://www.imdb.com/title/tt2452150/reviews/?ref_=tt_ql_2
+Welcome to Marwen,"Biography,Comedy,Drama",6.2,2018,0,116.0,25719,https://www.imdb.com/title/tt3289724/reviews/?ref_=tt_ql_2
+Loving Adults,"Crime,Drama,Thriller",6.5,2022,0,104.0,13086,https://www.imdb.com/title/tt14592948/reviews/?ref_=tt_ql_2
+Soul,"Adventure,Animation,Comedy",8.0,2020,0,100.0,372297,https://www.imdb.com/title/tt2948372/reviews/?ref_=tt_ql_2
+Tomb Raider,"Action,Adventure,Fantasy",6.3,2018,0,119.0,225349,https://www.imdb.com/title/tt1365519/reviews/?ref_=tt_ql_2
+Irreplaceable You,"Comedy,Drama,Romance",6.4,2018,0,96.0,10324,https://www.imdb.com/title/tt6119856/reviews/?ref_=tt_ql_2
+The Craft: Legacy,"Drama,Fantasy,Horror",4.6,2020,0,97.0,16188,https://www.imdb.com/title/tt4685762/reviews/?ref_=tt_ql_2
+A Vigilante,"Crime,Drama,Mystery",5.7,2018,0,91.0,10339,https://www.imdb.com/title/tt6211976/reviews/?ref_=tt_ql_2
+"Juliet, Naked","Comedy,Drama,Music",6.6,2018,0,97.0,24408,https://www.imdb.com/title/tt5607096/reviews/?ref_=tt_ql_2
+True Memoirs of an International Assassin,"Action,Comedy,Crime",5.9,2016,0,98.0,24253,https://www.imdb.com/title/tt1542768/reviews/?ref_=tt_ql_2
+How to Train Your Dragon: The Hidden World,"Action,Adventure,Animation",7.4,2019,0,104.0,147662,https://www.imdb.com/title/tt2386490/reviews/?ref_=tt_ql_2
+Cargo,"Drama,Horror,Sci-Fi",6.3,2017,0,105.0,47626,https://www.imdb.com/title/tt3860916/reviews/?ref_=tt_ql_2
+Falling Inn Love,"Comedy,Romance",5.7,2019,0,98.0,22023,https://www.imdb.com/title/tt9860728/reviews/?ref_=tt_ql_2
+Don't Let Go,"Drama,Horror,Mystery",6.4,2019,0,103.0,12667,https://www.imdb.com/title/tt6803212/reviews/?ref_=tt_ql_2
+Cosmic Sin,"Action,Sci-Fi",2.5,2021,0,88.0,14951,https://www.imdb.com/title/tt11762434/reviews/?ref_=tt_ql_2
+Bright,"Action,Fantasy,Thriller",6.3,2017,0,117.0,200289,https://www.imdb.com/title/tt5519340/reviews/?ref_=tt_ql_2
+Final Score,"Action,Adventure,Drama",5.8,2018,0,104.0,14044,https://www.imdb.com/title/tt5254610/reviews/?ref_=tt_ql_2
+Silent Night,"Comedy,Drama",5.7,2021,0,92.0,19320,https://www.imdb.com/title/tt11628854/reviews/?ref_=tt_ql_2
+Capernaum,Drama,8.4,2018,0,126.0,103003,https://www.imdb.com/title/tt8267604/reviews/?ref_=tt_ql_2
+Oxygen,"Drama,Fantasy,Sci-Fi",6.5,2021,0,100.0,43709,https://www.imdb.com/title/tt6341832/reviews/?ref_=tt_ql_2
+The Fanatic,"Crime,Drama,Horror",4.1,2019,0,88.0,12191,https://www.imdb.com/title/tt7869070/reviews/?ref_=tt_ql_2
+Beanpole,"Drama,War",7.2,2019,0,130.0,12135,https://www.imdb.com/title/tt10199640/reviews/?ref_=tt_ql_2
+American Murder: The Family Next Door,"Crime,Documentary",7.2,2020,0,83.0,32038,https://www.imdb.com/title/tt12987894/reviews/?ref_=tt_ql_2
+Mr. Harrigan's Phone,"Drama,Horror,Mystery",6.0,2022,0,104.0,37477,https://www.imdb.com/title/tt12908110/reviews/?ref_=tt_ql_2
+Brad's Status,"Comedy,Drama,Music",6.5,2017,0,102.0,18998,https://www.imdb.com/title/tt5884230/reviews/?ref_=tt_ql_2
+Silent Night,"Action,Thriller",5.3,2023,0,104.0,15978,
+Noelle,"Comedy,Family,Fantasy",6.3,2019,0,100.0,26878,
