@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-Prey,"Action,Adventure,Drama",7.1,2022,0,100.0,222499
-The Bye Bye Man,"Drama,Fantasy,Horror",4.3,2017,0,96.0,25774
-Fyre,"Crime,Documentary,Music",7.2,2019,0,97.0,51546
-Escape Room,"Action,Adventure,Horror",6.4,2019,0,99.0,139759
-Salaar,"Action,Crime,Drama",6.5,2023,0,175.0,57702
-The Dark Tower,"Action,Adventure,Fantasy",5.6,2017,0,95.0,144906
-Don't Knock Twice,"Drama,Fantasy,Horror",5.1,2016,0,93.0,14807
-Life Itself,"Drama,Romance",6.9,2018,0,117.0,24322
-The House,"Comedy,Crime",5.6,2017,0,88.0,46697
-Sick,"Horror,Thriller",6.0,2022,0,83.0,19059
-Outside the Wire,"Action,Adventure,Fantasy",5.4,2021,0,114.0,45140
-May December,"Comedy,Drama",6.9,2023,0,117.0,40629
-The Grinch,"Animation,Comedy,Family",6.4,2018,0,85.0,90083
-Etharkkum Thunindhavan,"Action,Crime,Drama",6.5,2022,0,151.0,13387
-The Lost Daughter,Drama,6.7,2021,0,121.0,73852
-John Wick: Chapter 3 - Parabellum,"Action,Crime,Thriller",7.4,2019,0,130.0,419504
-Senior Year,"Comedy,Drama",5.5,2022,0,111.0,43050
-Mine,"Drama,Fantasy,Thriller",5.8,2016,0,106.0,21089
-The 9th Life of Louis Drax,"Drama,Mystery,Thriller",6.3,2016,0,108.0,15121
-Shut In,"Drama,Horror,Mystery",4.8,2016,0,91.0,14645
-The Kitchen,"Action,Crime,Drama",5.6,2019,0,102.0,22778
-Isn't It Romantic,"Comedy,Fantasy,Musical",5.9,2019,0,89.0,73297
+Little Evil,"Comedy,Fantasy,Horror",5.7,2017,0,94.0,23101
+Everybody Wants Some!!,Comedy,6.9,2016,0,117.0,58109
+Zootopia,"Adventure,Animation,Comedy",8.0,2016,0,108.0,538993
+Soul,"Adventure,Animation,Comedy",8.0,2020,0,100.0,372297
+Encanto,"Animation,Comedy,Family",7.2,2021,0,102.0,256533
+Batman v Superman: Dawn of Justice,"Action,Adventure,Sci-Fi",6.5,2016,0,151.0,747962
+A Hologram for the King,"Comedy,Drama,Romance",6.1,2016,0,98.0,47208
+Carrie Pilby,"Comedy,Drama",6.7,2016,0,98.0,13591
+The Christmas Chronicles,"Adventure,Comedy,Family",7.0,2018,0,104.0,83098
+Hangman,"Crime,Drama,Horror",5.2,2017,0,98.0,18810
+The Lego Ninjago Movie,"Action,Adventure,Animation",6.0,2017,0,101.0,29531
 Criminal,"Action,Sci-Fi,Thriller",6.3,2016,0,113.0,69858
-The Royal Treatment,"Comedy,Family,Romance",5.2,2022,0,96.0,11254
-Waiting for the Barbarians,"Drama,History",5.9,2019,0,112.0,14384
-Captain Underpants: The First Epic Movie,"Action,Adventure,Animation",6.2,2017,0,89.0,31912
-Overboard,"Comedy,Romance",6.0,2018,0,112.0,40921
+Lady Ballers,"Comedy,Sport",6.0,2023,0,112.0,10462
+Iron Sky: The Coming Race,"Action,Adventure,Comedy",5.0,2019,0,93.0,11623
+The Jungle Book,"Action,Adventure,Animation",7.4,2016,0,106.0,290201
+Day of the Dead: Bloodline,"Action,Drama,Horror",3.4,2017,0,90.0,12296
+Inferno,"Action,Adventure,Crime",6.2,2016,0,121.0,188169
+The Conjuring 2,"Horror,Mystery,Thriller",7.3,2016,0,134.0,296905
+Love & Friendship,"Comedy,Drama,Romance",6.4,2016,0,90.0,26264
+Kickboxer: Vengeance,"Action,Crime,Drama",4.9,2016,0,90.0,12077
+Artemis Fowl,"Adventure,Family,Fantasy",4.3,2020,0,95.0,30227
+Monster Trucks,"Action,Adventure,Comedy",5.7,2016,0,104.0,18613
+Manhattan Night,"Crime,Drama,Mystery",6.2,2016,0,113.0,13678
+Crazy Rich Asians,"Comedy,Drama,Romance",6.9,2018,0,120.0,187795
+Pimp,"Crime,Drama,Romance",6.1,2018,0,86.0,17421
+The Tender Bar,"Biography,Drama",6.7,2021,0,106.0,33200
+Now You See Me 2,"Action,Adventure,Comedy",6.4,2016,0,129.0,317064
+Lost Girls,"Crime,Drama,Mystery",6.2,2020,0,95.0,24553
+Sierra Burgess Is a Loser,"Comedy,Drama,Romance",5.8,2018,0,105.0,40946
+The Bookshop,Drama,6.5,2017,0,113.0,17290
+David Brent: Life on the Road,"Comedy,Music",6.3,2016,0,96.0,21976
+Scoob!,"Adventure,Animation,Comedy",5.6,2020,0,93.0,29680
+Luther: The Fallen Sun,"Crime,Drama,Mystery",6.4,2023,0,129.0,62342
+Win It All,Comedy,6.2,2017,0,88.0,10157
+iBoy,"Action,Crime,Sci-Fi",5.9,2017,0,90.0,24232
+Hacker,"Crime,Drama,Thriller",6.1,2016,0,95.0,11134
+Before I Wake,"Drama,Fantasy,Horror",6.2,2016,0,97.0,51297
+Fantastic Beasts and Where to Find Them,"Adventure,Family,Fantasy",7.2,2016,0,132.0,503496
+Extinction,"Action,Drama,Sci-Fi",5.8,2018,0,95.0,57009
+Bad Samaritan,"Crime,Horror,Thriller",6.4,2018,0,110.0,25787
+Black '47,"Action,Drama,History",6.8,2018,0,100.0,13019
+I Am Wrath,"Action,Thriller",5.4,2016,0,92.0,15925
+Those Who Wish Me Dead,"Action,Drama,Thriller",6.0,2021,0,100.0,71267
+Incarnate,"Horror,Thriller",5.3,2016,0,87.0,14088
+A Beautiful Day in the Neighborhood,"Biography,Drama",7.2,2019,0,109.0,87519
+Cruella,"Adventure,Comedy,Crime",7.3,2021,0,134.0,261403
+Risen,"Action,Drama,History",6.3,2016,0,107.0,30300
+El Camino Christmas,"Comedy,Crime,Western",5.7,2017,0,89.0,10742
+IO,"Adventure,Drama,Sci-Fi",4.8,2019,0,96.0,36137
 Loving Vincent,"Animation,Drama,Mystery",7.8,2017,0,94.0,62791
-Gretel & Hansel,"Fantasy,Horror,Mystery",5.5,2020,0,87.0,33645
-Sand Castle,"Action,Drama,War",6.3,2017,0,113.0,26841
-Song to Song,"Drama,Music,Romance",5.6,2017,0,129.0,22322
-Swiped,"Comedy,Romance",2.8,2018,0,93.0,12757
-The Night Eats the World,"Drama,Horror,Thriller",6.0,2018,0,93.0,15560
-Tag,"Action,Comedy",6.5,2018,0,100.0,145266
+Sully,"Biography,Drama",7.4,2016,0,96.0,294926
+Trial by Fire,"Biography,Drama",7.1,2018,0,127.0,12255
+November Criminals,"Crime,Drama,Mystery",5.3,2017,0,86.0,10125
+Reminiscence,"Mystery,Romance,Sci-Fi",5.9,2021,0,116.0,64396
+Cult of Chucky,"Horror,Thriller",5.3,2017,0,91.0,29329
+Little Women,"Drama,Romance",7.8,2019,0,135.0,239333
+Welcome to Marwen,"Biography,Comedy,Drama",6.2,2018,0,116.0,25719
+The Autopsy of Jane Doe,"Horror,Mystery,Thriller",6.8,2016,0,86.0,136184
 Expend4bles,"Action,Adventure,Thriller",4.8,2023,0,103.0,32322
-The Wife,Drama,7.2,2017,0,99.0,42631
-Pet Sematary: Bloodlines,"Fantasy,Horror",4.6,2023,0,87.0,10077
-Uruttu Tech,Comedy,9.5,2023,0,66.0,10544
-Malignant,"Crime,Horror,Mystery",6.2,2021,0,111.0,107125
-Barbarian,"Horror,Mystery,Thriller",7.0,2022,0,102.0,174375
-The Unbearable Weight of Massive Talent,"Action,Comedy,Crime",7.0,2022,0,107.0,145507
+The Man with the Iron Heart,"Action,Biography,Thriller",6.4,2017,0,120.0,18235
+London Has Fallen,"Action,Thriller",5.9,2016,0,99.0,168203
+The 12th Man,"Drama,History,Thriller",7.3,2017,0,135.0,28844
 Logan,"Action,Drama,Sci-Fi",8.1,2017,0,137.0,819954
-Denial,"Biography,Drama",6.8,2016,0,109.0,23304
-Bliss,"Drama,Romance,Sci-Fi",5.4,2021,0,103.0,19883
-Jujutsu Kaisen 0,"Action,Animation,Fantasy",7.8,2021,0,105.0,34926
-After Ever Happy,"Drama,Romance",4.6,2022,0,95.0,10548
-A Family Man,Drama,6.5,2016,0,108.0,13433
-Kimi,"Crime,Drama,Mystery",6.3,2022,0,89.0,38247
-The Snowman,"Crime,Drama,Mystery",5.2,2017,0,119.0,71032
-Suburbicon,"Comedy,Crime,Drama",5.8,2017,0,105.0,46933
+"Game Over, Man!","Action,Comedy",5.4,2018,0,101.0,32958
+XX,Horror,4.6,2017,0,80.0,12342
+Berlin Syndrome,"Drama,Horror,Mystery",6.3,2017,0,116.0,27354

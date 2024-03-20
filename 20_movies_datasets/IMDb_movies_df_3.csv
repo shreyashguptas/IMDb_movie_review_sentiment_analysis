@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-Jason Bourne,"Action,Thriller",6.6,2016,0,123.0,240099
-Fire of Love,"Biography,Documentary",7.6,2022,0,98.0,13935
-The Silence,"Drama,Horror,Sci-Fi",5.3,2019,0,90.0,50185
-The Angel,"Action,Biography,Drama",6.7,2018,0,114.0,15375
-The Eyes of Tammy Faye,"Biography,Drama,Romance",6.6,2021,0,126.0,38365
-13th,"Crime,Documentary,History",8.2,2016,0,100.0,37407
-Kodachrome,Drama,6.8,2017,0,105.0,19532
-The Disaster Artist,"Biography,Comedy,Drama",7.3,2017,0,104.0,162951
-Desperados,"Comedy,Romance",5.2,2020,0,105.0,11138
-The Sadness,Horror,6.4,2021,0,99.0,18255
-Honest Thief,"Action,Thriller",6.0,2020,0,99.0,56963
-Bandit,"Crime,Drama,Thriller",6.4,2022,0,126.0,12560
-The Nun,"Horror,Mystery,Thriller",5.3,2018,0,96.0,168153
-Serenity,"Drama,Mystery,Thriller",5.4,2019,0,106.0,44722
-The Wolf of Snow Hollow,"Comedy,Horror,Mystery",6.2,2020,0,85.0,24045
-Little,"Comedy,Fantasy,Romance",5.5,2019,0,109.0,14504
-"Batman: The Long Halloween, Part One","Action,Animation,Crime",7.2,2021,0,85.0,19578
-Cam,"Drama,Horror,Mystery",5.9,2018,0,94.0,35707
-Hacksaw Ridge,"Biography,Drama,History",8.1,2016,0,139.0,584184
-Mirror Game,"Crime,Mystery,Thriller",9.0,2016,0,147.0,29401
-Before the Flood,"Documentary,News",8.2,2016,0,96.0,28734
-Palmer,Drama,7.3,2021,0,110.0,42818
-The Dawn Wall,"Biography,Documentary,Sport",8.1,2017,0,100.0,21082
+Black Christmas,"Horror,Mystery,Thriller",3.5,2019,0,92.0,18944
+Ma Rainey's Black Bottom,"Drama,Music",6.9,2020,0,94.0,57406
+The Blue Elephant 2,"Crime,Drama,Horror",8.0,2019,0,130.0,10873
+Lootcase,"Comedy,Crime",7.5,2020,0,132.0,18353
+Paranormal Activity: Next of Kin,"Horror,Mystery,Thriller",5.3,2021,0,98.0,16194
+The Invisible Man,"Drama,Horror,Mystery",7.1,2020,0,124.0,251457
+The Forgotten Battle,"Drama,War",7.1,2020,0,124.0,36448
+Nightbooks,"Family,Fantasy,Horror",5.8,2021,0,103.0,10385
+The Call,"Crime,Horror,Mystery",7.1,2020,0,112.0,42370
+#Home,"Drama,Family",8.8,2021,0,158.0,14849
+The Midnight Sky,"Adventure,Drama,Sci-Fi",5.7,2020,0,118.0,88588
+The Hunger Games: The Ballad of Songbirds & Snakes,"Action,Adventure,Drama",6.8,2023,0,157.0,94191
+Dara of Jasenovac,"Drama,War",8.1,2020,0,130.0,81762
+Master,"Action,Crime,Thriller",7.4,2021,0,179.0,82872
+Dhaakad,"Action,Thriller",3.9,2022,0,135.0,12055
 We Can Be Heroes,"Action,Comedy,Drama",4.7,2020,0,100.0,16901
-Host,"Horror,Mystery",6.5,2020,0,57.0,38566
-Lights Out,"Horror,Mystery",6.3,2016,0,81.0,140920
-Ayyappanum Koshiyum,"Action,Drama,Thriller",8.0,2020,0,177.0,10365
-Jaane Jaan,"Crime,Drama,Mystery",7.0,2023,0,139.0,12898
-I Still See You,"Fantasy,Horror,Mystery",5.8,2018,0,98.0,11321
-Resident Evil: Vendetta,"Action,Adventure,Animation",6.2,2017,0,97.0,15294
-Queen & Slim,"Crime,Drama,Romance",7.1,2019,0,132.0,34361
-Alita: Battle Angel,"Action,Adventure,Sci-Fi",7.3,2019,0,122.0,290565
-Finch,"Adventure,Drama,Sci-Fi",6.9,2021,0,115.0,95163
-Nowhere,"Drama,Thriller",6.3,2023,0,109.0,32636
-Shyam Singha Roy,"Drama,Romance",7.6,2021,0,155.0,14976
-The Siege of Jadotville,"Action,Drama,History",7.2,2016,0,108.0,43847
-Against the Ice,"Adventure,Drama,History",6.5,2022,0,102.0,27891
-Cobweb,"Horror,Thriller",6.0,2023,0,88.0,27899
-Slaughterhouse Rulez,"Action,Comedy,Fantasy",5.3,2018,0,104.0,16178
-The Burial,Drama,7.1,2023,0,126.0,30281
-Jug Jugg Jeeyo,"Comedy,Drama,Family",6.1,2022,0,148.0,38843
-Bad Boys for Life,"Action,Comedy,Crime",6.5,2020,0,124.0,173168
-Fifty Shades Darker,"Drama,Mystery,Romance",4.6,2017,0,118.0,110134
-Evil Dead Rise,Horror,6.5,2023,0,96.0,131848
-Tejas,"Action,Drama,Thriller",4.8,2023,0,112.0,22612
-Balloon,"Drama,History,Thriller",7.5,2018,0,125.0,13170
-Bairavaa,"Action,Thriller",5.8,2017,0,169.0,11491
-Certain Women,Drama,6.4,2016,0,107.0,15225
-The Open House,"Horror,Thriller",3.3,2018,0,94.0,36812
-Wine Country,"Adventure,Comedy,Drama",5.5,2019,0,103.0,22763
+One Night in Miami...,Drama,7.1,2020,0,114.0,34014
+Mank,"Biography,Comedy,Drama",6.8,2020,0,131.0,81914
+#Alive,"Action,Drama,Horror",6.3,2020,0,98.0,46871
+The Life Ahead,Drama,6.8,2020,0,94.0,15390
+Minari,Drama,7.4,2020,0,115.0,94803
+Talk to Me,"Horror,Thriller",7.1,2022,0,95.0,128498
+Babylon,"Comedy,Drama,History",7.1,2022,0,189.0,161383
+Dhokha,"Crime,Drama,Thriller",6.2,2022,0,122.0,12106
+Thor: Love and Thunder,"Action,Adventure,Comedy",6.2,2022,0,118.0,393192
+Chernobyl: Abyss,"Drama,History",5.2,2021,0,136.0,10392
+Jagame Thandhiram,"Action,Crime,Drama",5.8,2021,0,158.0,12382
+Halloween Kills,"Action,Horror,Thriller",5.5,2021,0,105.0,97255
+Halloween Ends,"Drama,Horror,Mystery",5.0,2022,0,111.0,70060
+To All the Boys: Always and Forever,"Comedy,Drama,Romance",6.3,2021,0,109.0,32409
+The Marvels,"Action,Adventure,Fantasy",5.6,2023,0,105.0,86613
+Hubie Halloween,"Comedy,Horror,Mystery",5.2,2020,0,103.0,57918
+Entergalactic,"Animation,Comedy,Music",7.4,2022,0,93.0,14912
+The Electrical Life of Louis Wain,"Biography,Drama,History",6.8,2021,0,111.0,19842
+Aftermath,"Drama,Horror,Mystery",5.3,2021,0,114.0,18577
+The Harder They Fall,"Action,Drama,Western",6.6,2021,0,139.0,70405
+Stillwater,"Crime,Drama,Mystery",6.6,2021,0,139.0,56046
+Wolf,"Drama,Mystery,Thriller",5.1,2021,0,99.0,12540
+K.G.F: Chapter 2,"Action,Crime,Drama",8.3,2022,0,166.0,148827
+Bachchhan Paandey,"Action,Comedy,Crime",5.1,2022,0,147.0,36507
+Ponniyin Selvan: Part I,"Action,Adventure,Drama",7.6,2022,0,167.0,36178
+Collective,"Crime,Documentary",8.1,2019,0,109.0,13283
+The Trial of the Chicago 7,"Drama,History,Thriller",7.7,2020,0,129.0,191313
+Don,"Comedy,Drama,Romance",6.8,2022,0,165.0,10858
+Feel the Beat,"Comedy,Drama,Family",6.3,2020,0,109.0,12971
+Winchester,"Biography,Drama,Fantasy",5.4,2018,0,99.0,36476
+Don't Worry Darling,"Drama,Mystery,Thriller",6.3,2022,0,123.0,140332
+Sweet Girl,"Action,Drama,Thriller",5.5,2021,0,110.0,34949
+Gehraiyaan,"Drama,Romance",5.8,2022,0,148.0,44304
+Satyameva Jayate 2,"Action,Crime,Drama",4.1,2021,0,138.0,16066
+Sherni,"Action,Adventure,Drama",6.8,2021,0,131.0,11510
+Love Hard,"Comedy,Romance",6.3,2021,0,104.0,61048
+Night Teeth,"Action,Crime,Drama",5.7,2021,0,107.0,21119
+Next Goal Wins,"Comedy,Drama,Sport",6.5,2023,0,104.0,11111
+Sam Bahadur,"Biography,Drama,War",7.9,2023,0,150.0,11754
+Valimai,"Action,Crime,Thriller",6.1,2022,0,178.0,20524
+Let Them All Talk,"Comedy,Drama",6.1,2020,0,113.0,12769
+The Kashmir Files,Drama,8.6,2022,0,170.0,572790
+The Belko Experiment,"Horror,Thriller",6.2,2016,0,89.0,57589
+The Matrix Resurrections,"Action,Sci-Fi",5.7,2021,0,148.0,275509
+Missing,"Drama,Mystery,Thriller",7.1,2023,0,111.0,56523
+Bill & Ted Face the Music,"Adventure,Comedy,Music",5.9,2020,0,91.0,52517
+Spider-Man: No Way Home,"Action,Adventure,Fantasy",8.2,2021,0,148.0,861619
+Khaali Peeli,"Action,Comedy,Romance",2.5,2020,0,119.0,10070
+365 Days,"Drama,Romance",3.3,2020,0,114.0,97285
+Radhe,"Action,Crime,Thriller",1.9,2021,0,109.0,179735

@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-Otherhood,Comedy,6.1,2019,0,100.0,12328
-Cinderella,"Comedy,Family,Fantasy",4.4,2021,0,112.0,45981
-Atomic Blonde,"Action,Thriller",6.7,2017,0,115.0,204937
-I Still Believe,"Biography,Drama,Music",6.5,2020,0,116.0,13422
-"Good Luck to You, Leo Grande","Comedy,Drama",7.2,2022,0,97.0,35955
-Fisherman's Friends,"Comedy,Drama,Music",7.0,2019,0,112.0,11193
-The Dry,"Crime,Drama,Mystery",6.9,2020,0,117.0,31978
-"Roman J. Israel, Esq.","Crime,Drama,Thriller",6.5,2017,0,122.0,42723
-The Beasts,"Drama,Thriller",7.5,2022,0,137.0,16844
-The Occupant,"Drama,Thriller",6.4,2020,0,103.0,19597
-The Ice Age Adventures of Buck Wild,"Adventure,Animation,Comedy",4.3,2022,0,82.0,16175
-The Magnificent Seven,"Action,Adventure,Drama",6.9,2016,0,132.0,226327
-Boston Strangler,"Crime,Drama,History",6.5,2023,0,112.0,31791
-The Bombardment,"Drama,History,War",7.3,2021,0,107.0,16285
-Lean on Pete,"Adventure,Drama,Sport",7.1,2017,0,121.0,13742
-White Girl,"Crime,Drama",5.7,2016,0,88.0,11641
-Gold,"Action,Adventure,Thriller",5.4,2022,0,97.0,12183
-The Guardians,"Action,Adventure,Comedy",4.0,2017,0,89.0,14443
-Misconduct,"Crime,Drama,Mystery",5.3,2016,0,106.0,17636
-The Duke,"Biography,Comedy,Crime",6.9,2020,0,95.0,12885
-The Starling,"Comedy,Drama",6.4,2021,0,102.0,15064
-War Machine,"Comedy,Drama,War",6.0,2017,0,122.0,49734
-The Hustle,"Comedy,Crime",5.4,2019,0,93.0,64771
-The Electrical Life of Louis Wain,"Biography,Drama,History",6.8,2021,0,111.0,19842
-Better Watch Out,"Comedy,Horror,Thriller",6.5,2016,0,89.0,45800
-Yoga Hosers,"Action,Comedy,Horror",4.3,2016,0,88.0,15349
-IB 71,"Action,Thriller",7.2,2023,0,117.0,10161
-The Teacher,"Drama,Thriller",6.6,2022,0,121.0,14140
-The Good Liar,"Crime,Drama,Mystery",6.7,2019,0,109.0,46704
-The Tax Collector,"Action,Crime,Drama",4.8,2020,0,95.0,15195
-The Cost of Deception,"Action,Crime,Drama",1.5,2021,0,125.0,39740
-Shivaay,"Action,Adventure,Crime",6.1,2016,0,153.0,11166
-Raw,"Drama,Horror",7.0,2016,0,99.0,87951
-The Last Full Measure,"Drama,War",6.8,2019,0,116.0,13878
-The Autopsy of Jane Doe,"Horror,Mystery,Thriller",6.8,2016,0,86.0,136184
-Thappad,Drama,7.0,2020,0,142.0,26608
-Midnight Sun,"Drama,Romance",6.6,2018,0,91.0,35488
-The Thinning,"Action,Drama,Horror",5.4,2016,0,81.0,10402
-Turnabout,"Drama,Mystery,Thriller",4.9,2016,0,90.0,13291
-Free Fire,"Action,Comedy,Crime",6.3,2016,0,91.0,50184
-The Sleepover,"Action,Adventure,Comedy",5.7,2020,0,100.0,11888
-Rescued by Ruby,"Biography,Drama,Family",7.2,2022,0,90.0,10550
-White Boy Rick,"Crime,Drama",6.5,2018,0,111.0,42008
-Guntur Kaaram,"Action,Drama,Family",6.2,2024,0,159.0,17123
-Godzilla vs. Kong,"Action,Sci-Fi,Thriller",6.3,2021,0,113.0,233462
-Strange World,"Action,Adventure,Animation",5.7,2022,0,102.0,44880
-Morgan,"Action,Horror,Sci-Fi",5.8,2016,0,92.0,45848
-Me Before You,"Drama,Romance",7.4,2016,0,110.0,282450
-65,"Action,Adventure,Drama",5.4,2023,0,93.0,84951
-Eurovision Song Contest: The Story of Fire Saga,"Comedy,Music",6.5,2020,0,123.0,101338
+Pamela: A Love Story,"Biography,Documentary",7.2,2023,0,112.0,12539
+Honest Thief,"Action,Thriller",6.0,2020,0,99.0,56963
+Old Dads,Comedy,6.2,2023,0,104.0,37286
+Tiger 3,"Action,Adventure,Thriller",5.8,2023,0,155.0,51609
+Hunter Killer,"Action,Thriller",6.6,2018,0,121.0,72202
+Holy Spider,"Crime,Drama,Thriller",7.3,2022,0,118.0,24077
+Blade Runner 2049,"Action,Drama,Mystery",8.0,2017,0,164.0,646642
+Kaun Pravin Tambe?,"Biography,Drama,Sport",8.3,2022,0,134.0,11087
+Dirty Grandpa,Comedy,5.9,2016,0,102.0,132086
+The Highwaymen,"Biography,Crime,Drama",6.9,2019,0,132.0,101797
+Deepwater Horizon,"Action,Drama,History",7.1,2016,0,107.0,180171
+BTS Permission to Dance on Stage - Seoul: Live Viewing,Documentary,8.0,2022,0,195.0,17373
+Crooked House,"Crime,Drama,Mystery",6.3,2017,0,115.0,27169
+The Batman,"Action,Crime,Drama",7.8,2022,0,176.0,767892
+The Darkness,"Horror,Thriller",4.5,2016,0,92.0,17036
+The Edge of Seventeen,"Comedy,Drama",7.3,2016,0,104.0,138865
+Operation Mincemeat,"Drama,War",6.6,2021,0,128.0,34088
+Kodachrome,Drama,6.8,2017,0,105.0,19532
+Sick of Myself,"Drama,Horror",7.1,2022,0,97.0,13429
+Pearl,"Drama,Horror,Thriller",7.0,2022,0,103.0,89475
+The Last Letter from Your Lover,"Drama,Romance",6.7,2021,0,110.0,21672
+Brimstone,"Drama,Mystery,Thriller",7.0,2016,0,148.0,44708
+Incantation,"Horror,Mystery",6.2,2022,0,110.0,19940
+Dark Crimes,"Crime,Drama,Mystery",4.6,2016,0,92.0,19773
+2067,"Mystery,Sci-Fi",4.9,2020,0,114.0,11537
+Cry Macho,Drama,5.7,2021,0,104.0,32535
+Overdrive,"Action,Adventure,Crime",5.4,2017,0,93.0,16274
+Miss Peregrine's Home for Peculiar Children,"Adventure,Drama,Family",6.7,2016,0,127.0,186466
+Amityville: The Awakening,"Horror,Thriller",4.8,2017,0,87.0,15355
+Nimona,"Action,Adventure,Animation",7.5,2023,0,101.0,40369
+Ford v Ferrari,"Action,Biography,Drama",8.1,2019,0,152.0,455571
+Let It Snow,"Comedy,Romance",5.8,2019,0,92.0,24803
+The Hitman's Bodyguard,"Action,Comedy,Crime",6.9,2017,0,118.0,245003
+American Assassin,"Action,Thriller",6.2,2017,0,111.0,88389
+Winnie-the-Pooh: Blood and Honey,Horror,2.9,2023,0,84.0,26286
+EO,Drama,6.7,2022,0,88.0,13841
+Interreflections,"Fantasy,Sci-Fi",6.0,2020,0,165.0,10416
+Leila's Brothers,Drama,7.9,2022,0,165.0,13145
+Father Figures,"Comedy,Drama",5.5,2017,0,113.0,21106
+Our Father,"Crime,Documentary",6.6,2022,0,97.0,14267
+King Arthur: Legend of the Sword,"Action,Adventure,Drama",6.7,2017,0,126.0,230367
+The Neon Demon,"Horror,Thriller",6.1,2016,0,117.0,103125
+Rules Don't Apply,"Comedy,Drama,Romance",5.7,2016,0,127.0,11598
+Bawaal,"Action,Drama,Romance",6.6,2023,0,137.0,15656
+Aftersun,Drama,7.6,2022,0,102.0,86157
+Toy Story 4,"Adventure,Animation,Comedy",7.7,2019,0,100.0,276279
+Geostorm,"Action,Sci-Fi,Thriller",5.3,2017,0,109.0,116985
+Still: A Michael J. Fox Movie,"Biography,Documentary",8.1,2023,0,95.0,14252
+The Angry Birds Movie,"Action,Adventure,Animation",6.3,2016,0,97.0,102374
+The Upside,"Comedy,Drama",7.0,2017,0,126.0,62684
+Our Kind of Traitor,"Action,Crime,Drama",6.2,2016,0,108.0,23608
+Hell Fest,"Horror,Thriller",5.5,2018,0,89.0,19218
+War Dogs,"Biography,Comedy,Crime",7.1,2016,0,114.0,249247
+The Outsider,"Action,Crime,Drama",6.2,2018,0,120.0,28961
+Vesper,"Adventure,Drama,Sci-Fi",6.0,2022,0,114.0,21617
+What Is a Woman?,Documentary,8.2,2022,0,95.0,41609
+The Finest Hours,"Action,Drama,History",6.7,2016,0,117.0,70302
+USS Indianapolis: Men of Courage,"Action,Drama,History",5.3,2016,0,128.0,14166
+The Great Wall,"Action,Adventure,Fantasy",5.9,2016,0,103.0,144896
+Flatliners,"Drama,Horror,Mystery",5.2,2017,0,109.0,50548
+Song to Song,"Drama,Music,Romance",5.6,2017,0,129.0,22322
+Rocketman,"Biography,Drama,Music",7.3,2019,0,121.0,192116
+Sleepless,"Action,Thriller",5.6,2017,0,95.0,34022
+Ip Man 4: The Finale,"Action,Biography,Drama",7.0,2019,0,107.0,36222
+Chaos Walking,"Action,Adventure,Fantasy",5.7,2021,0,109.0,55355
+Sita Ramam,"Action,Drama,Mystery",8.6,2022,0,163.0,66755

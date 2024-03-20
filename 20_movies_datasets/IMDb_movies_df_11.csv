@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-The Platform,"Horror,Sci-Fi,Thriller",7.0,2019,0,94.0,265775
-Pirates of the Caribbean: Dead Men Tell No Tales,"Action,Adventure,Fantasy",6.5,2017,0,129.0,340687
-Downsizing,"Drama,Fantasy,Sci-Fi",5.8,2017,0,135.0,122084
-Candyman,"Horror,Thriller",5.9,2021,0,91.0,74825
-The Guilty,"Crime,Drama,Thriller",7.5,2018,0,85.0,63771
-Holmes & Watson,"Comedy,Crime,Mystery",3.9,2018,0,90.0,38965
-Three Thousand Years of Longing,"Drama,Fantasy,Romance",6.7,2022,0,108.0,58577
-Empire of Light,"Drama,Romance",6.6,2022,0,115.0,23303
-The Munsters,"Comedy,Family,Fantasy",4.5,2022,0,109.0,11310
-Three Identical Strangers,"Biography,Documentary,Drama",7.6,2018,0,96.0,38656
-The Nightingale,"Adventure,Drama,Thriller",7.3,2018,0,136.0,34910
-Borg vs. McEnroe,"Biography,Drama,Sport",6.9,2017,0,107.0,34165
-Escape Room: Tournament of Champions,"Action,Adventure,Horror",5.7,2021,0,88.0,58378
-Cold Pursuit,"Action,Comedy,Crime",6.2,2019,0,119.0,77232
-The High Note,"Drama,Music,Romance",6.4,2020,0,113.0,13241
-Spree,"Comedy,Crime,Horror",5.9,2020,0,93.0,16334
-Extraction,"Action,Thriller",6.8,2020,0,116.0,258872
-Patti Cake$,"Drama,Music",6.8,2017,0,109.0,10502
-Cuck,"Crime,Drama,Thriller",4.7,2019,0,115.0,13557
-Angel Has Fallen,"Action,Thriller",6.4,2019,0,121.0,108830
-Tell Me Who I Am,"Documentary,Drama,Mystery",7.6,2019,0,86.0,16381
-Psycho Raman,"Crime,Drama,Thriller",7.3,2016,0,133.0,15816
-Papillon,"Adventure,Biography,Crime",7.2,2017,0,133.0,84332
-A Quiet Place Part II,"Drama,Horror,Sci-Fi",7.2,2020,0,97.0,267137
-Graduation,"Crime,Drama",7.3,2016,0,128.0,14631
-Miracles from Heaven,"Biography,Drama,Family",7.1,2016,0,109.0,28021
-The Banker,"Biography,Drama",7.3,2020,0,120.0,34543
-Reign of the Supermen,"Action,Adventure,Animation",6.8,2019,0,87.0,18027
-The Tashkent Files,"Drama,Mystery,Thriller",8.1,2019,0,134.0,35819
-iBoy,"Action,Crime,Sci-Fi",5.9,2017,0,90.0,24232
-Dune: Part One,"Action,Adventure,Drama",8.0,2021,0,155.0,753681
-Film Stars Don't Die in Liverpool,"Biography,Drama,Romance",6.7,2017,0,105.0,10636
-The Bar,"Horror,Thriller",6.3,2017,0,102.0,28734
-Dark Waters,"Biography,Drama,History",7.6,2019,0,126.0,99388
-The Domestics,"Action,Horror,Sci-Fi",5.7,2018,0,95.0,10552
-Ash Is Purest White,"Crime,Drama,Romance",7.0,2018,0,136.0,10486
-Marighella,"Action,Drama,History",7.1,2019,0,155.0,55939
-Malevolent,"Horror,Mystery,Thriller",4.8,2018,0,89.0,16805
-Tom & Jerry,"Adventure,Animation,Comedy",5.3,2021,0,101.0,39269
-Dasvi,"Comedy,Drama",7.4,2022,0,125.0,56453
-The Black Phone,"Horror,Mystery,Thriller",6.9,2021,0,103.0,187130
-Red Dot,"Drama,Horror,Thriller",5.5,2021,0,86.0,14614
-How to Be a Latin Lover,"Comedy,Drama",6.0,2017,0,115.0,17365
-Peranbu,"Drama,Family",8.7,2018,0,147.0,16558
-Triple 9,"Action,Crime,Drama",6.3,2016,0,115.0,76415
-I'm Your Man,"Comedy,Drama,Romance",7.0,2021,0,108.0,12246
-No Exit,"Drama,Mystery,Thriller",6.1,2022,0,95.0,31701
-Lost Bullet,"Action,Crime,Thriller",6.3,2020,0,92.0,13984
-Game Night,"Action,Adventure,Comedy",6.9,2018,0,100.0,253189
-Leatherface,"Crime,Horror,Thriller",5.0,2017,0,90.0,27459
+Fall,"Action,Thriller",6.4,2022,0,107.0,99595
+Ghosted,"Action,Adventure,Comedy",5.8,2023,0,116.0,59719
+Kantara,"Action,Adventure,Drama",8.2,2022,0,148.0,101948
+Marcel the Shell with Shoes On,"Animation,Comedy,Drama",7.7,2021,0,90.0,25144
+Champions,"Comedy,Drama,Sport",6.8,2023,0,124.0,24312
+Significant Other,"Drama,Mystery,Sci-Fi",5.7,2022,0,84.0,12796
+Jawan,"Action,Thriller",7.0,2023,0,169.0,90975
+What Happened to Monday,"Action,Crime,Fantasy",6.8,2017,0,123.0,132811
+Kranti,"Action,Drama",5.5,2023,0,163.0,10564
+Studio 666,"Comedy,Horror,Music",5.7,2022,0,106.0,13631
+Merry Christmas,"Drama,Thriller",7.8,2024,0,144.0,19012
+Oppenheimer,"Biography,Drama,History",8.4,2023,0,180.0,625832
+Blair Witch,"Horror,Mystery,Thriller",5.0,2016,0,89.0,49152
+True Memoirs of an International Assassin,"Action,Comedy,Crime",5.9,2016,0,98.0,24253
+Dunki,"Comedy,Drama",7.2,2023,0,160.0,62137
+Hanu Man,"Action,Adventure,Fantasy",8.5,2024,0,158.0,16369
+Kho Gaye Hum Kahan,"Comedy,Drama,Romance",7.6,2023,0,135.0,27401
+Dasara,"Action,Adventure,Drama",6.6,2023,0,156.0,10476
+Gadar 2,"Action,Adventure,Drama",5.2,2023,0,170.0,21972
+Athena,"Action,Drama,Thriller",6.8,2022,0,99.0,21881
+Voice from the Stone,"Drama,Mystery,Thriller",5.2,2017,0,94.0,12101
+Desperados,"Comedy,Romance",5.2,2020,0,105.0,11138
+Love in the Villa,"Comedy,Romance",5.4,2022,0,114.0,12916
+Smile,"Horror,Mystery,Thriller",6.5,2022,0,115.0,152330
+Teen Wolf: The Movie,"Action,Drama,Fantasy",5.5,2023,0,140.0,13866
+Drishyam 2,"Crime,Drama,Mystery",8.2,2022,0,140.0,43470
+Happiness for Beginners,"Comedy,Drama,Romance",6.1,2023,0,103.0,17156
+Chhatriwali,"Comedy,Drama",6.7,2023,0,116.0,10840
+Selfiee,"Action,Comedy,Drama",5.7,2023,0,148.0,13166
+The Last Days of American Crime,"Action,Crime,Drama",3.8,2020,0,148.0,12366
+An Action Hero,"Action,Comedy,Crime",7.0,2022,0,130.0,31918
+Zombieland: Double Tap,"Action,Comedy,Horror",6.7,2019,0,99.0,199129
+Overboard,"Comedy,Romance",6.0,2018,0,112.0,40921
+Fallen,"Drama,Fantasy,Romance",5.2,2016,0,91.0,15827
+Chup,"Crime,Drama,Mystery",7.5,2022,0,135.0,24840
+Leo,"Action,Crime,Drama",7.2,2023,0,164.0,56192
+No Hard Feelings,"Comedy,Romance",6.4,2023,0,103.0,143923
+Knock at the Cabin,"Horror,Mystery,Thriller",6.1,2023,0,100.0,111402
+Bheed,"Drama,History",6.6,2023,0,124.0,11628
+Yashoda,"Action,Crime,Sci-Fi",6.6,2022,0,135.0,11766
+Mortal Engines,"Action,Adventure,Fantasy",6.1,2018,0,128.0,137824
+OMG 2,"Comedy,Drama",7.6,2023,0,156.0,39054
+Freelance,"Action,Comedy",5.5,2023,0,108.0,11718
+Jaane Jaan,"Crime,Drama,Mystery",7.0,2023,0,139.0,12898
+The Last Kingdom: Seven Kings Must Die,"Action,Drama,History",6.9,2023,0,111.0,34391
+You Hurt My Feelings,"Comedy,Drama",6.6,2023,0,93.0,10515
+Elemental,"Adventure,Animation,Comedy",7.0,2023,0,101.0,115569
+Nowhere,"Drama,Thriller",6.3,2023,0,109.0,32636
+Barbarian,"Horror,Mystery,Thriller",7.0,2022,0,102.0,174375
+Silent Night,"Action,Thriller",5.3,2023,0,104.0,15978
+I Used to Be Famous,"Comedy,Drama,Music",6.6,2022,0,104.0,10716
+The Roundup,"Action,Crime,Thriller",7.0,2022,0,106.0,10101
+The Late Bloomer,"Comedy,Drama,Romance",5.2,2016,0,90.0,10540
+Rye Lane,"Comedy,Drama,Romance",7.2,2023,0,82.0,11630
+The Commuter,"Action,Mystery,Thriller",6.3,2018,0,104.0,124397
+Norm of the North,"Adventure,Animation,Comedy",3.4,2016,0,88.0,10110
+Disenchanted,"Adventure,Animation,Comedy",5.6,2022,0,119.0,25865
+The Archies,"Comedy,Drama,Musical",5.1,2023,0,141.0,50032
+Govinda Naam Mera,"Comedy,Crime,Drama",6.5,2022,0,131.0,10298
+Zoolander 2,"Action,Adventure,Comedy",4.7,2016,0,101.0,74981
+The Foreigner,"Action,Thriller",7.0,2017,0,113.0,122354
+One Piece Film: Red,"Action,Adventure,Animation",6.7,2022,0,115.0,18612
+Murder Mystery,"Action,Comedy,Crime",6.0,2019,0,97.0,165664
+Jackie,"Biography,Drama",6.7,2016,0,100.0,83058
+A Wrinkle in Time,"Adventure,Drama,Family",4.3,2018,0,109.0,47511
+Bleed for This,"Biography,Drama,Sport",6.8,2016,0,117.0,29428

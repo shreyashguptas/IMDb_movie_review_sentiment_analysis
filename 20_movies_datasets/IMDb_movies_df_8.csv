@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-The Guilty,"Crime,Drama,Thriller",6.3,2021,0,90.0,145621
-The Curse of La Llorona,"Horror,Mystery,Thriller",5.3,2019,0,93.0,57004
-Ben Is Back,Drama,6.7,2018,0,103.0,23976
-No One Gets Out Alive,"Drama,Horror,Mystery",5.4,2021,0,87.0,20394
-Satyaprem Ki Katha,"Comedy,Drama,Musical",6.8,2023,0,146.0,29485
-Blue Bayou,Drama,7.1,2021,0,117.0,10123
-Dear Zindagi,"Drama,Romance",7.4,2016,0,151.0,43225
-Revolt,"Action,Adventure,Sci-Fi",5.3,2017,0,87.0,10087
-Ferdinand,"Adventure,Animation,Comedy",6.7,2017,0,108.0,62823
-Monster,"Drama,Thriller",7.9,2023,0,127.0,12814
-Girl in the Picture,"Crime,Documentary,Mystery",7.2,2022,0,101.0,21036
-The Red Sea Diving Resort,"Drama,History,Thriller",6.6,2019,0,129.0,32284
-The Hero,"Drama,Romance",6.5,2017,0,96.0,10372
-Sirf Ek Bandaa Kaafi Hai,"Crime,Drama,Thriller",7.9,2023,0,132.0,27806
-Maudie,"Biography,Drama,Romance",7.6,2016,0,115.0,20994
-Hereditary,"Drama,Horror,Mystery",7.3,2018,0,127.0,369891
-She Said,"Drama,History",7.3,2022,0,129.0,38060
-The Finest Hours,"Action,Drama,History",6.7,2016,0,117.0,70302
-Last the Night,"Horror,Thriller",4.7,2022,0,88.0,10842
-The Christmas Chronicles: Part Two,"Adventure,Comedy,Family",6.0,2020,0,112.0,35469
-Spiral,"Crime,Horror,Mystery",5.2,2021,0,93.0,67096
-Saint Maud,"Drama,Horror,Mystery",6.7,2019,0,84.0,45705
-Fences,Drama,7.2,2016,0,139.0,116835
-Destination Wedding,"Comedy,Drama,Romance",6.0,2018,0,87.0,33051
-The Insult,"Crime,Drama,Thriller",7.6,2017,0,113.0,17948
-Assassination Nation,"Action,Comedy,Crime",6.0,2018,0,108.0,21477
-The Hummingbird Project,"Drama,Thriller",6.2,2018,0,111.0,16119
-Ip Man 4: The Finale,"Action,Biography,Drama",7.0,2019,0,107.0,36222
-Gold,"Biography,Crime,Drama",6.7,2016,0,120.0,68620
-A Dark Song,"Drama,Fantasy,Horror",6.2,2016,0,100.0,20909
-Jagga Jasoos,"Action,Adventure,Comedy",6.4,2017,0,161.0,11468
-Fauci,"Biography,Documentary,History",6.5,2021,0,104.0,12758
-Good Newwz,"Comedy,Drama",6.8,2019,0,134.0,21815
-Togo,"Adventure,Biography,Drama",7.9,2019,0,113.0,55046
-The Cloverfield Paradox,"Action,Horror,Sci-Fi",5.5,2018,0,102.0,112083
-The Hunger Games: The Ballad of Songbirds & Snakes,"Action,Adventure,Drama",6.8,2023,0,157.0,94191
-Elemental,"Adventure,Animation,Comedy",7.0,2023,0,101.0,115569
-The Guernsey Literary and Potato Peel Pie Society,"Drama,Romance,War",7.3,2018,0,124.0,51877
-Lust Stories 2,"Drama,Romance",6.0,2023,0,132.0,51110
-Buster's Mal Heart,"Crime,Drama,Mystery",6.1,2016,0,96.0,11579
-Minamata,Drama,7.2,2020,0,115.0,22662
-Perfect Days,Drama,7.9,2023,0,123.0,10439
-A Whisker Away,"Adventure,Animation,Drama",6.7,2020,0,104.0,13430
-The Willoughbys,"Adventure,Animation,Comedy",6.4,2020,0,90.0,21288
-Let It Snow,"Comedy,Romance",5.8,2019,0,92.0,24803
-Umma,"Drama,Horror,Mystery",4.7,2022,0,83.0,10289
-Angel of Mine,"Drama,Mystery,Thriller",6.3,2019,0,98.0,12071
-Brahms: The Boy II,"Drama,Horror,Mystery",4.7,2020,0,86.0,20254
-The Girl on the Train,"Crime,Drama,Mystery",6.5,2016,0,112.0,197818
-The Banshees of Inisherin,"Comedy,Drama",7.7,2022,0,114.0,245171
+Father of the Bride,"Comedy,Drama,Romance",5.9,2022,0,117.0,12754
+Girl in the Basement,"Crime,Thriller",6.3,2021,0,88.0,12839
+Reptile,"Crime,Drama,Mystery",6.8,2023,0,134.0,81235
+Napoleon,"Action,Adventure,Biography",6.4,2023,0,158.0,104855
+Influencer,"Horror,Mystery,Thriller",6.2,2022,0,92.0,12581
+Day Shift,"Action,Comedy,Fantasy",6.1,2022,0,113.0,88552
+The Lost City,"Action,Adventure,Comedy",6.1,2022,0,112.0,153832
+Slumberland,"Adventure,Comedy,Drama",6.7,2022,0,117.0,32437
+American Sicario,"Action,Crime,Drama",4.3,2021,0,101.0,10843
+Do Revenge,"Comedy,Romance,Thriller",6.3,2022,0,118.0,48785
+Evil Dead Rise,Horror,6.5,2023,0,96.0,131848
+Shyam Singha Roy,"Drama,Romance",7.6,2021,0,155.0,14976
+"Good Luck to You, Leo Grande","Comedy,Drama",7.2,2022,0,97.0,35955
+Love Hostel,"Action,Crime,Romance",5.9,2022,0,100.0,11239
+The Pope's Exorcist,"Horror,Thriller",6.1,2023,0,103.0,79699
+Jana Gana Mana,"Crime,Drama,Thriller",8.3,2022,0,162.0,16485
+Fresh,"Horror,Thriller",6.7,2022,0,114.0,71945
+Insidious: The Red Door,"Horror,Mystery,Thriller",5.5,2023,0,107.0,47531
+Quiz Lady,Comedy,6.7,2023,0,99.0,17397
+The Princess,"Action,Drama,Fantasy",5.7,2022,0,94.0,15296
+321 Action,Drama,1.0,2020,0,100.0,10122
+In the Earth,"Horror,Mystery,Thriller",5.1,2021,0,107.0,11407
+The Medium,Horror,6.5,2021,0,130.0,12471
+Jug Jugg Jeeyo,"Comedy,Drama,Family",6.1,2022,0,148.0,38843
+Red Rocket,"Comedy,Drama",7.1,2021,0,130.0,31554
+Persuasion,"Drama,Romance",5.8,2022,0,108.0,34575
+Antim: The Final Truth,"Action,Crime,Drama",6.6,2021,0,138.0,42090
+72 Hoorain,"Crime,Drama,Thriller",7.2,2019,0,80.0,16108
+Dhamaka,"Action,Crime,Drama",7.0,2021,0,103.0,42406
+Beau Is Afraid,"Comedy,Drama,Horror",6.7,2023,0,179.0,55092
+Meenakshi Sundareshwar,"Comedy,Romance",6.9,2021,0,140.0,18261
+The Wandering Earth II,"Action,Adventure,Drama",6.8,2023,0,173.0,12825
+The Infiltrator,"Biography,Crime,Drama",7.0,2016,0,127.0,78105
+Passengers,"Drama,Romance,Sci-Fi",7.0,2016,0,116.0,440443
+X,"Horror,Mystery,Thriller",6.5,2022,0,105.0,164028
+Back to the Outback,"Adventure,Animation,Comedy",6.5,2021,0,95.0,10231
+MobKing,"Drama,Thriller",6.8,2023,0,,11469
+Heart of Stone,"Action,Crime,Thriller",5.7,2023,0,122.0,57052
+The Bubble,Comedy,4.7,2022,0,126.0,28303
+Tom & Jerry,"Adventure,Animation,Comedy",5.3,2021,0,101.0,39269
+The Ice Age Adventures of Buck Wild,"Adventure,Animation,Comedy",4.3,2022,0,82.0,16175
+See How They Run,"Comedy,Crime,Mystery",6.5,2022,0,98.0,62902
+Belle,"Adventure,Animation,Drama",7.1,2021,0,121.0,16585
+May December,"Comedy,Drama",6.9,2023,0,117.0,40629
+Tomb Raider,"Action,Adventure,Fantasy",6.3,2018,0,119.0,225349
+Karthikeya 2,"Action,Adventure,Fantasy",7.9,2022,0,150.0,64171
+Women Talking,Drama,6.9,2022,0,104.0,40428
+Nitram,"Crime,Drama,Thriller",7.1,2021,0,112.0,10001
+Pride and Prejudice and Zombies,"Action,Comedy,Fantasy",5.8,2016,0,108.0,59889
+Animal,"Action,Crime,Drama",6.4,2023,0,204.0,76973
+Jaadugar,"Comedy,Drama,Fantasy",6.8,2022,0,167.0,11431
+Thank God,"Comedy,Fantasy",5.6,2022,0,121.0,12210
+Fighter,"Action,Adventure,Thriller",7.5,2024,0,166.0,33892
+The Whale,Drama,7.7,2022,0,117.0,201995
+Men,"Drama,Fantasy,Horror",6.1,2022,0,100.0,58991
+Shimmer Lake,"Action,Comedy,Crime",6.3,2017,0,86.0,16498
+Suicide Squad,"Action,Adventure,Fantasy",5.9,2016,0,123.0,717467
+The Sadness,Horror,6.4,2021,0,99.0,18255
+Against the Ice,"Adventure,Drama,History",6.5,2022,0,102.0,27891
+Happening,Drama,7.4,2021,0,100.0,11131
+Downsizing,"Drama,Fantasy,Sci-Fi",5.8,2017,0,135.0,122084
+Sanak,"Action,Thriller",6.7,2021,0,116.0,10855
+Anek,"Action,Drama,Sport",6.4,2022,0,147.0,22451
+Salaar,"Action,Crime,Drama",6.5,2023,0,175.0,57702
+Dumb Money,"Biography,Comedy,Drama",6.9,2023,0,105.0,31941
+It,Horror,7.3,2017,0,135.0,597798

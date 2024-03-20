@@ -1,0 +1,67 @@
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+Detroit,"Crime,Drama,History",7.3,2017,0,143.0,55639
+Anon,"Crime,Mystery,Sci-Fi",6.1,2018,0,100.0,48269
+The Comeback Trail,"Comedy,Crime",5.7,2020,0,104.0,10871
+Official Secrets,"Biography,Crime,Drama",7.3,2019,0,112.0,53700
+Diego Maradona,"Biography,Documentary,Sport",7.7,2019,0,130.0,18143
+F9: The Fast Saga,"Action,Crime,Thriller",5.2,2021,0,143.0,159796
+Fast X,"Action,Adventure,Crime",5.8,2023,0,141.0,113584
+Colette,"Biography,Drama,History",6.7,2018,0,111.0,26188
+Logan Lucky,"Action,Comedy,Crime",7.0,2017,0,118.0,160863
+Zola,"Comedy,Crime,Drama",6.5,2020,0,86.0,17029
+Theri,"Action,Crime,Thriller",7.3,2016,0,157.0,22796
+Life,"Horror,Sci-Fi,Thriller",6.6,2017,0,104.0,249551
+24 Hours to Live,"Action,Sci-Fi,Thriller",5.8,2017,0,93.0,15968
+Zero Days,Documentary,7.7,2016,0,116.0,10345
+Judwaa 2,"Action,Comedy",3.6,2017,0,145.0,11525
+Kaabil,"Action,Crime,Drama",7.1,2017,0,139.0,29084
+Life and a Day,Drama,8.2,2016,0,112.0,17241
+Ideal Home,"Comedy,Drama",6.4,2018,0,91.0,11536
+Hotel Mumbai,"Action,Drama,History",7.6,2018,0,123.0,69754
+Mom and Dad,"Comedy,Horror,Thriller",5.6,2017,0,86.0,27094
+The Big Sick,"Comedy,Drama,Romance",7.5,2017,0,120.0,142574
+Deadpool 2,"Action,Adventure,Comedy",7.6,2018,0,119.0,634386
+7 Days in Entebbe,"Action,Drama,History",5.9,2018,0,107.0,17142
+Hostiles,"Drama,Western",7.2,2017,0,134.0,94388
+Horizon Line,"Action,Adventure,Drama",4.8,2020,0,92.0,11264
+Samaritan,"Action,Drama,Fantasy",5.7,2022,0,102.0,54322
+Border,"Crime,Drama,Fantasy",7.0,2018,0,110.0,33810
+Hustlers,"Comedy,Crime,Drama",6.3,2019,0,110.0,106698
+Ghost Stories,"Drama,Horror",6.4,2017,0,98.0,36593
+Bright,"Action,Fantasy,Thriller",6.3,2017,0,117.0,200289
+The Nutcracker and the Four Realms,"Adventure,Family,Fantasy",5.6,2018,0,99.0,37148
+Lamborghini: The Man Behind the Legend,"Biography,Drama,Sport",5.4,2022,0,97.0,11351
+Maestro,"Biography,Drama,History",6.6,2023,0,129.0,44614
+Private Life,"Comedy,Drama",7.2,2018,0,123.0,21826
+The Meyerowitz Stories,"Comedy,Drama",6.9,2017,0,112.0,53677
+Killers of the Flower Moon,"Crime,Drama,History",7.7,2023,0,206.0,193169
+The Polka King,"Biography,Comedy,Drama",6.0,2017,0,95.0,11828
+You Get Me,"Crime,Drama,Mystery",4.7,2017,0,89.0,14266
+To the Bone,Drama,6.8,2017,0,107.0,54275
+What the Health,Documentary,7.2,2017,0,97.0,30405
+The African Doctor,"Biography,Comedy,Drama",7.0,2016,0,96.0,11973
+Wish Dragon,"Adventure,Animation,Comedy",7.2,2021,0,98.0,32748
+Intrusion,"Action,Drama,Mystery",5.3,2021,0,92.0,20711
+The Good Liar,"Crime,Drama,Mystery",6.7,2019,0,109.0,46704
+A Futile and Stupid Gesture,"Biography,Comedy",6.7,2018,0,101.0,17767
+Pink,"Crime,Drama,Thriller",8.1,2016,0,136.0,47906
+"I, Tonya","Biography,Comedy,Drama",7.5,2017,0,119.0,239558
+The Hate U Give,"Crime,Drama",7.5,2018,0,133.0,39658
+The Shape of Water,"Drama,Fantasy,Romance",7.3,2017,0,123.0,443781
+The Domestics,"Action,Horror,Sci-Fi",5.7,2018,0,95.0,10552
+The Beguiled,"Drama,History,Thriller",6.3,2017,0,93.0,61237
+Errementari,"Fantasy,Horror",6.4,2017,0,98.0,13346
+Kingsglaive: Final Fantasy XV,"Action,Adventure,Animation",6.7,2016,0,110.0,22971
+Faces Places,Documentary,7.8,2017,0,94.0,13458
+Polaroid,"Drama,Horror,Mystery",5.1,2019,0,88.0,16159
+Doctor Sleep,"Drama,Fantasy,Horror",7.3,2019,0,152.0,215587
+Fullmetal Alchemist,"Action,Adventure,Fantasy",5.3,2017,0,135.0,21064
+"Juliet, Naked","Comedy,Drama,Music",6.6,2018,0,97.0,24408
+On Body and Soul,"Drama,Fantasy,Mystery",7.5,2017,0,116.0,29596
+Tully,"Comedy,Drama,Mystery",6.9,2018,0,95.0,62651
+Mid90s,"Comedy,Drama",7.3,2018,0,85.0,76477
+Spinning Man,"Drama,Mystery,Thriller",5.7,2018,0,100.0,12645
+Life of the Party,Comedy,5.6,2018,0,105.0,39338
+Beast,"Crime,Drama,Mystery",6.8,2017,0,107.0,15220
+Peter Pan & Wendy,"Action,Adventure,Comedy",4.4,2023,0,106.0,27414
+God's Own Country,"Drama,Romance",7.6,2017,0,104.0,34968

@@ -1,0 +1,67 @@
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+Escape Room,"Horror,Thriller",4.2,2017,0,81.0,13725
+In Darkness,"Mystery,Thriller",5.8,2018,0,100.0,14200
+Ocean's Eight,"Action,Comedy,Crime",6.3,2018,0,110.0,239010
+"Love, Simon","Comedy,Drama",7.5,2018,0,110.0,123926
+The Starling,"Comedy,Drama",6.4,2021,0,102.0,15064
+Rustom,"Crime,Drama,Thriller",7.0,2016,0,148.0,28315
+"I, Daniel Blake",Drama,7.8,2016,0,100.0,64194
+Buster's Mal Heart,"Crime,Drama,Mystery",6.1,2016,0,96.0,11579
+Mark Felt: The Man Who Brought Down the White House,"Biography,Drama,History",6.4,2017,0,103.0,14564
+The Girl in the Spider's Web,"Action,Adventure,Crime",6.1,2018,0,115.0,51283
+Billionaire Boys Club,"Biography,Drama,Thriller",5.6,2018,0,108.0,14542
+Wendell & Wild,"Adventure,Animation,Comedy",6.4,2022,0,105.0,12557
+The Salesman,"Drama,Thriller",7.7,2016,0,124.0,64151
+Wakefield,Drama,6.3,2016,0,106.0,17904
+Wolfwalkers,"Action,Adventure,Animation",8.0,2020,0,103.0,37845
+The Willoughbys,"Adventure,Animation,Comedy",6.4,2020,0,90.0,21288
+South Wind,"Crime,Drama,Thriller",7.9,2018,0,130.0,12495
+Wonderstruck,"Adventure,Drama,Mystery",6.2,2017,0,116.0,10982
+Operation Finale,"Biography,Drama,History",6.6,2018,0,122.0,48130
+Oasis: Supersonic,"Biography,Documentary,Music",7.8,2016,0,122.0,12307
+A.I. Rising,"Drama,Romance,Sci-Fi",4.9,2018,0,85.0,11236
+The Wailing,"Drama,Horror,Mystery",7.4,2016,0,156.0,80078
+Hotel Transylvania 3: Summer Vacation,"Adventure,Animation,Comedy",6.3,2018,0,97.0,83837
+Aquarius,Drama,7.4,2016,0,146.0,20656
+The Other Me,"Crime,Drama,Mystery",7.9,2016,0,101.0,12483
+The Other Side of Hope,"Comedy,Drama",7.2,2017,0,100.0,13387
+The Eyes of My Mother,"Drama,Horror,Thriller",6.2,2016,0,76.0,14293
+61 Days,"Comedy,Drama",7.3,2016,0,115.0,15426
+How It Ends,"Action,Drama,Horror",5.1,2018,0,113.0,57939
+Paterson,"Comedy,Drama,Romance",7.3,2016,0,118.0,88077
+Final Score,"Action,Adventure,Drama",5.8,2018,0,104.0,14044
+The Thinning,"Action,Drama,Horror",5.4,2016,0,81.0,10402
+Sanam Teri Kasam,"Drama,Musical,Romance",7.6,2016,0,154.0,15894
+See You Up There,"Comedy,Crime,Drama",7.4,2017,0,117.0,10867
+Tesla,"Biography,Drama",5.1,2020,0,102.0,10261
+Chappaquiddick,"Biography,Drama,History",6.4,2017,0,106.0,14446
+Lo and Behold: Reveries of the Connected World,Documentary,7.0,2016,0,98.0,13360
+O.J.: Made in America,"Biography,Crime,Documentary",8.9,2016,0,467.0,21183
+Tickled,"Crime,Documentary,Mystery",7.5,2016,0,92.0,20383
+Weiner,Documentary,7.6,2016,0,96.0,10495
+Neerja,"Biography,Drama,Thriller",7.6,2016,0,122.0,23651
+Quo vado?,Comedy,6.6,2016,0,86.0,12387
+Eli,"Drama,Horror,Mystery",5.8,2019,0,98.0,40355
+All the Money in the World,"Crime,Drama,History",6.8,2017,0,132.0,90301
+After the Storm,"Comedy,Drama",7.4,2016,0,118.0,12563
+Marshall,"Biography,Crime,Drama",7.3,2017,0,118.0,26394
+Jersey,"Drama,Sport",7.3,2022,0,170.0,14293
+Nyad,"Biography,Drama,Sport",7.1,2023,0,121.0,23809
+Happy End,Drama,6.6,2017,0,107.0,16755
+Set It Up,"Comedy,Romance",6.5,2018,0,105.0,62697
+Happy Death Day,"Comedy,Horror,Mystery",6.6,2017,0,96.0,160240
+Irudhi Suttru,"Action,Drama,Sport",7.6,2016,0,109.0,12468
+Your Name.,"Animation,Drama,Fantasy",8.4,2016,0,106.0,312156
+Never Look Away,"Biography,Drama,Romance",7.7,2018,0,189.0,24885
+Sairat,"Drama,Romance",8.3,2016,0,174.0,14693
+Lou,"Action,Adventure,Crime",6.1,2022,0,107.0,32776
+Senior Year,"Comedy,Drama",5.5,2022,0,111.0,43050
+Close,"Action,Drama,Thriller",5.7,2019,0,94.0,26899
+Wish Upon,"Drama,Fantasy,Horror",5.1,2017,0,90.0,22685
+A Silent Voice: The Movie,"Animation,Drama",8.1,2016,0,130.0,98308
+Lean on Pete,"Adventure,Drama,Sport",7.1,2017,0,121.0,13742
+Mirror Game,"Crime,Mystery,Thriller",9.0,2016,0,147.0,29401
+The Hurricane Heist,"Action,Adventure,Crime",5.1,2018,0,103.0,22172
+Mary Magdalene,"Biography,Drama,History",5.9,2018,0,120.0,11332
+Wind River,"Crime,Drama,Mystery",7.7,2017,0,107.0,277291
+Sound of Metal,"Drama,Music",7.7,2019,0,120.0,147644

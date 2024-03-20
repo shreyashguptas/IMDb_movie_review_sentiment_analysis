@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-Gantz: O,"Action,Animation,Drama",7.1,2016,0,95.0,16542
-Nerve,"Action,Adventure,Crime",6.5,2016,0,96.0,139274
-Mid90s,"Comedy,Drama",7.3,2018,0,85.0,76477
-Mortal World,"Action,Comedy,Crime",7.6,2018,0,107.0,30742
-Superintelligence,"Action,Comedy,Romance",5.4,2020,0,106.0,13092
-The Suicide Squad,"Action,Adventure,Comedy",7.2,2021,0,132.0,401472
-Shaft,"Action,Comedy,Crime",6.4,2019,0,111.0,58204
-Lamb,"Drama,Fantasy,Horror",6.3,2021,0,106.0,37086
-Playing with Fire,"Comedy,Family",5.1,2019,0,96.0,16031
-Happening,Drama,7.4,2021,0,100.0,11131
-The Laundromat,"Comedy,Crime,Drama",6.3,2019,0,96.0,54500
-A Monster Calls,"Adventure,Drama,Family",7.4,2016,0,108.0,93125
-Marauders,"Action,Crime,Thriller",5.5,2016,0,107.0,23690
-Khaali Peeli,"Action,Comedy,Romance",2.5,2020,0,119.0,10070
-Nitram,"Crime,Drama,Thriller",7.1,2021,0,112.0,10001
-Truth or Dare,"Horror,Thriller",5.2,2018,0,100.0,62514
-"Everything, Everything","Drama,Romance",6.3,2017,0,96.0,42097
-Perfect Strangers,"Comedy,Drama",7.7,2016,0,96.0,70618
-Vox Lux,"Drama,Music",5.8,2018,0,114.0,19471
-Rust Creek,"Action,Crime,Drama",5.9,2018,0,108.0,12760
-The Man Who Killed Don Quixote,"Adventure,Comedy,Drama",6.3,2018,0,132.0,21927
-Mandy,"Action,Fantasy,Horror",6.5,2018,0,121.0,88126
-Collective,"Crime,Documentary",8.1,2019,0,109.0,13283
-Halloween Ends,"Drama,Horror,Mystery",5.0,2022,0,111.0,70060
-The Farewell,"Comedy,Drama",7.5,2019,0,100.0,70107
-"tick, tick... BOOM!","Biography,Comedy,Drama",7.5,2021,0,115.0,118073
-Kickboxer: Vengeance,"Action,Crime,Drama",4.9,2016,0,90.0,12077
-Vivegam,"Action,Thriller",5.2,2017,0,149.0,12836
-Slumberland,"Adventure,Comedy,Drama",6.7,2022,0,117.0,32437
-All the Old Knives,"Mystery,Thriller",6.1,2022,0,101.0,28108
-The Clovehitch Killer,"Crime,Drama,Mystery",6.5,2018,0,109.0,33341
-Time Trap,"Action,Adventure,Mystery",6.2,2017,0,87.0,42621
-A Castle for Christmas,"Adventure,Comedy,Drama",5.6,2021,0,98.0,15343
-Murder on the Orient Express,"Crime,Drama,Mystery",6.5,2017,0,114.0,291918
-Prisoners of the Ghostland,"Fantasy,Horror,Thriller",4.2,2021,0,103.0,13782
-Rurouni Kenshin: Final Chapter Part I - The Final,"Action,Adventure,Drama",7.2,2021,0,138.0,10454
-Rim of the World,"Action,Adventure,Comedy",5.2,2019,0,98.0,25113
-The Witches,"Adventure,Comedy,Family",5.4,2020,0,106.0,46054
-Our Souls at Night,"Drama,Romance",6.9,2017,0,103.0,14791
-Vacation Friends,"Adventure,Comedy",6.3,2021,0,103.0,28927
-Race,"Biography,Drama,Sport",7.1,2016,0,134.0,40545
-Vampires vs. the Bronx,"Comedy,Horror",5.7,2020,0,85.0,11030
-Kubo and the Two Strings,"Action,Adventure,Animation",7.7,2016,0,101.0,137519
-Till,"Biography,Crime,Drama",7.2,2022,0,130.0,14703
-Vivo,"Adventure,Animation,Comedy",6.7,2021,0,95.0,21355
-Hidden Figures,"Biography,Drama,History",7.8,2016,0,127.0,251864
-Wildling,"Drama,Fantasy,Horror",5.5,2018,0,92.0,14253
-Hypnotic,"Action,Drama,Mystery",5.5,2023,0,93.0,31130
-Golmaal Again,"Action,Comedy,Fantasy",5.0,2017,0,140.0,10423
-The Worst Person in the World,"Comedy,Drama,Romance",7.7,2021,0,128.0,93596
+Boston Strangler,"Crime,Drama,History",6.5,2023,0,112.0,31791
+Alice Through the Looking Glass,"Adventure,Family,Fantasy",6.2,2016,0,113.0,120652
+Going in Style,"Comedy,Crime",6.6,2017,0,96.0,90854
+Sweet Virginia,"Action,Drama,Thriller",6.2,2017,0,93.0,11563
+Shut In,"Drama,Horror,Mystery",4.8,2016,0,91.0,14645
+Sand Castle,"Action,Drama,War",6.3,2017,0,113.0,26841
+Hell or High Water,"Crime,Drama,Thriller",7.6,2016,0,102.0,249517
+Flower,"Comedy,Drama",6.0,2017,0,90.0,10304
+Jojo Rabbit,"Comedy,Drama,War",7.9,2019,0,108.0,434035
+Resident Evil: The Final Chapter,"Action,Horror,Sci-Fi",5.5,2016,0,107.0,100063
+Anyone But You,"Comedy,Romance",6.7,2023,0,103.0,17521
+Leatherface,"Crime,Horror,Thriller",5.0,2017,0,90.0,27459
+Ballerina,"Action,Thriller",6.2,2023,0,92.0,10884
+Ben-Hur,"Action,Adventure,Drama",5.7,2016,0,123.0,46432
+Greta,"Drama,Mystery,Thriller",6.0,2018,0,98.0,37564
+Fukrey 3,"Comedy,Crime,Drama",5.6,2023,0,147.0,23985
+Midnight Special,"Drama,Mystery,Sci-Fi",6.6,2016,0,112.0,83653
+"Crouching Tiger, Hidden Dragon: Sword of Destiny","Action,Adventure,Drama",6.1,2016,0,96.0,20770
+Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,"Action,Adventure,Animation",7.5,2023,0,110.0,10386
+The Conference,"Comedy,Horror,Mystery",5.7,2023,0,100.0,10607
+Star Trek Beyond,"Action,Adventure,Sci-Fi",7.0,2016,0,122.0,256923
+Kill Command,"Action,Horror,Sci-Fi",5.7,2016,0,99.0,14935
+Bro,"Comedy,Drama,Family",6.7,2023,0,134.0,10326
+Fences,Drama,7.2,2016,0,139.0,116835
+The Hunter's Prayer,"Action,Thriller",5.6,2017,0,91.0,10296
+Me Before You,"Drama,Romance",7.4,2016,0,110.0,282450
+Churchill,"Biography,Drama,History",6.0,2017,0,105.0,15703
+City of Lies,"Biography,Crime,Drama",6.5,2018,0,112.0,18626
+I.T.,"Crime,Drama,Mystery",5.5,2016,0,95.0,16849
+Gaslight,"Crime,Horror,Mystery",5.9,2023,0,111.0,24879
+The Boss,Comedy,5.4,2016,0,99.0,48422
+Game Night,"Action,Adventure,Comedy",6.9,2018,0,100.0,253189
+The Grinch,"Animation,Comedy,Family",6.4,2018,0,85.0,90083
+The Secret Life of Pets,"Adventure,Animation,Comedy",6.5,2016,0,87.0,215290
+Sea Fever,"Drama,Horror,Mystery",5.8,2019,0,95.0,13807
+AKA,"Action,Crime,Thriller",6.6,2023,0,122.0,12777
+Bird Box,"Horror,Mystery,Sci-Fi",6.6,2018,0,124.0,380633
+Bloody Daddy,"Action,Crime,Drama",6.6,2023,0,121.0,21985
+Perfect Days,Drama,7.9,2023,0,123.0,10439
+Bacurau,"Action,Adventure,Drama",7.3,2019,0,131.0,30314
+T2 Trainspotting,"Comedy,Crime,Drama",7.2,2017,0,117.0,131841
+Beauty and the Beast,"Adventure,Family,Fantasy",7.1,2017,0,129.0,331404
+Kaiva,"Action,Drama,Romance",7.3,2023,0,138.0,39088
+Thank You for Your Service,"Biography,Drama,War",6.6,2017,0,109.0,15468
+Pete's Dragon,"Action,Adventure,Comedy",6.7,2016,0,102.0,61319
+Lust Stories 2,"Drama,Romance",6.0,2023,0,132.0,51110
+Annihilation,"Adventure,Drama,Horror",6.8,2018,0,115.0,355969
+Uruttu Tech,Comedy,9.5,2023,0,66.0,10544
+Surongo,"Crime,Drama,Mystery",6.7,2023,0,150.0,28288
+Priyotoma,"Action,Drama,Romance",5.5,2023,0,155.0,21356
+Mike and Dave Need Wedding Dates,"Comedy,Romance",6.0,2016,0,98.0,94578
+Sly,"Biography,Documentary",7.0,2023,0,95.0,10213
+Checkmate,"Action,Comedy",7.9,2023,0,112.0,24294
+The Old Man & the Gun,"Biography,Comedy,Crime",6.7,2018,0,93.0,49283
+The Croods: A New Age,"Adventure,Animation,Comedy",6.9,2020,0,95.0,52034
+Tag,"Action,Comedy",6.5,2018,0,100.0,145266
+Naga,"Drama,Thriller",5.8,2023,0,111.0,14117
+Ratchet & Clank,"Action,Adventure,Animation",5.5,2016,0,94.0,11713
+Ride Along 2,"Action,Comedy,Crime",5.9,2016,0,102.0,62552
+The Shack,"Drama,Fantasy",6.3,2017,0,132.0,38828
+Red Sparrow,"Action,Drama,Thriller",6.6,2018,0,140.0,199794
+Taylor Swift: The Eras Tour,"Documentary,Music",8.2,2023,0,169.0,16784
+Dungeons & Dragons: Honor Among Thieves,"Action,Adventure,Comedy",7.3,2023,0,134.0,216673
+47 Meters Down,"Horror,Mystery,Thriller",5.6,2017,0,89.0,60441
+Ad Astra,"Adventure,Drama,Mystery",6.5,2019,0,123.0,257819
+The School for Good and Evil,"Action,Comedy,Drama",5.9,2022,0,147.0,35071

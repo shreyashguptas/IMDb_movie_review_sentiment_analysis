@@ -1,0 +1,67 @@
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+Everybody Knows,"Crime,Drama,Mystery",6.9,2018,0,133.0,37753
+The Sisters Brothers,"Drama,Western",6.9,2018,0,122.0,69837
+Don't Think Twice,"Comedy,Drama",6.7,2016,0,92.0,18154
+Split,"Horror,Thriller",7.3,2016,0,117.0,542899
+Moonlight,Drama,7.4,2016,0,111.0,328272
+24,"Action,Comedy,Drama",7.9,2016,0,164.0,23785
+Maanaadu,"Action,Adventure,Sci-Fi",8.2,2021,0,147.0,25143
+The Titan,"Drama,Mystery,Romance",4.8,2018,0,97.0,33233
+Rebel in the Rye,"Biography,Drama,Romance",6.7,2017,0,106.0,10703
+Being the Ricardos,"Biography,Drama",6.5,2021,0,131.0,44327
+The Red Sea Diving Resort,"Drama,History,Thriller",6.6,2019,0,129.0,32284
+The Square,"Comedy,Drama",7.1,2017,0,151.0,76342
+Ambulance,"Action,Crime,Drama",6.1,2022,0,136.0,94256
+"Everything, Everything","Drama,Romance",6.3,2017,0,96.0,42097
+Braven,"Action,Thriller",5.9,2018,0,94.0,41797
+Injustice,"Action,Adventure,Animation",6.4,2021,0,78.0,15750
+Dunkirk,"Action,Drama,History",7.8,2017,0,106.0,728433
+Gully,"Crime,Drama",2.6,2019,0,84.0,22931
+Handsome Devil,"Comedy,Drama,Sport",7.0,2016,0,95.0,16760
+Hush,"Horror,Thriller",6.6,2016,0,82.0,151927
+"Three Billboards Outside Ebbing, Missouri","Comedy,Crime,Drama",8.1,2017,0,115.0,548266
+Mary Poppins Returns,"Adventure,Comedy,Family",6.7,2018,0,130.0,94440
+Frantz,"Drama,History,Romance",7.5,2016,0,113.0,17263
+Charlie's Angels,"Action,Adventure,Comedy",5.0,2019,0,118.0,78849
+Our Souls at Night,"Drama,Romance",6.9,2017,0,103.0,14791
+Godzilla vs. Kong,"Action,Sci-Fi,Thriller",6.3,2021,0,113.0,233462
+Get Out,"Horror,Mystery,Thriller",7.8,2017,0,104.0,683595
+Sicario: Day of the Soldado,"Action,Crime,Drama",7.1,2018,0,122.0,164183
+Hold the Dark,"Action,Crime,Drama",5.6,2018,0,125.0,40069
+I Am the Pretty Thing That Lives in the House,"Drama,Horror,Mystery",4.6,2016,0,89.0,15773
+Kabali,"Action,Crime,Drama",6.1,2016,0,153.0,14096
+Below Her Mouth,"Drama,Romance",5.5,2016,0,94.0,14084
+Color Out of Space,"Horror,Mystery,Sci-Fi",6.2,2019,0,111.0,55288
+Dangal,"Action,Biography,Drama",8.3,2016,0,161.0,207734
+The Isle,"Fantasy,Mystery,Thriller",4.9,2018,0,96.0,11463
+Two Is a Family,"Comedy,Drama",7.3,2016,0,118.0,28400
+2.0,"Action,Sci-Fi,Thriller",6.0,2018,0,148.0,26843
+The Favourite,"Biography,Comedy,Drama",7.5,2018,0,119.0,223516
+Blade of the Immortal,"Action,Drama,Fantasy",6.7,2017,0,140.0,19312
+Wildling,"Drama,Fantasy,Horror",5.5,2018,0,92.0,14253
+Transformers: Rise of the Beasts,"Action,Adventure,Sci-Fi",6.0,2023,0,127.0,98747
+Papillon,"Adventure,Biography,Crime",7.2,2017,0,133.0,84332
+Ant-Man and the Wasp,"Action,Adventure,Comedy",7.0,2018,0,118.0,444366
+Love Wedding Repeat,"Comedy,Romance",5.6,2020,0,100.0,22037
+Noelle,"Comedy,Family,Fantasy",6.3,2019,0,100.0,26878
+To Father with Love,"Action,Drama,Thriller",7.5,2016,0,168.0,10960
+Isle of Dogs,"Adventure,Animation,Comedy",7.8,2018,0,101.0,188534
+Morbius,"Action,Adventure,Horror",5.2,2022,0,104.0,149079
+Raya and the Last Dragon,"Action,Adventure,Animation",7.3,2021,0,107.0,168934
+Mother!,"Drama,Horror,Mystery",6.6,2017,0,121.0,246827
+Super Dark Times,"Crime,Drama,Horror",6.6,2017,0,103.0,25429
+The Secret Life of Pets 2,"Adventure,Animation,Comedy",6.4,2019,0,86.0,68071
+Minions: The Rise of Gru,"Adventure,Animation,Comedy",6.5,2022,0,87.0,82911
+Togo,"Adventure,Biography,Drama",7.9,2019,0,113.0,55046
+Wild Rose,"Drama,Music",7.1,2018,0,101.0,15111
+Peter Rabbit,"Adventure,Animation,Comedy",6.6,2018,0,95.0,47368
+Pyewacket,"Drama,Horror,Mystery",5.8,2017,0,88.0,11085
+The Bar,"Horror,Thriller",6.3,2017,0,102.0,28734
+The Pirates of Somalia,"Biography,Drama",6.7,2017,0,116.0,11046
+At the End of the Tunnel,"Crime,Drama,Thriller",7.0,2016,0,120.0,15508
+Annabelle: Creation,"Horror,Mystery,Thriller",6.5,2017,0,109.0,149254
+12 Feet Deep,"Horror,Thriller",5.2,2017,0,85.0,16862
+The Dry,"Crime,Drama,Mystery",6.9,2020,0,117.0,31978
+Headshot,"Action,Drama,Thriller",6.3,2016,0,118.0,16000
+Mrs. Harris Goes to Paris,"Comedy,Drama",7.1,2022,0,115.0,25225
+The Discovery,"Drama,Romance,Sci-Fi",6.2,2017,0,102.0,37097

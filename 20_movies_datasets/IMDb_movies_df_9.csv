@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-War,"Action,Adventure,Thriller",6.5,2019,0,151.0,32566
-Manikarnika: The Queen of Jhansi,"Action,Biography,Drama",6.4,2019,0,148.0,16158
-Dear Evan Hansen,"Drama,Musical",6.1,2021,0,137.0,18178
-Annabelle: Creation,"Horror,Mystery,Thriller",6.5,2017,0,109.0,149254
-The African Doctor,"Biography,Comedy,Drama",7.0,2016,0,96.0,11973
-Dora and the Lost City of Gold,"Action,Adventure,Comedy",6.1,2019,0,102.0,34126
-Ant-Man and the Wasp,"Action,Adventure,Comedy",7.0,2018,0,118.0,444366
-Happy End,Drama,6.6,2017,0,107.0,16755
-Power Rangers,"Action,Adventure,Fantasy",5.9,2017,0,124.0,113257
-Lust Stories,"Drama,Romance",6.4,2018,0,120.0,13074
-Girl,Drama,7.2,2018,0,105.0,16876
-Mardaani 2,"Action,Crime,Drama",7.3,2019,0,103.0,10234
-The Wonder,"Drama,Mystery,Thriller",6.6,2022,0,108.0,43073
-Karthikeya 2,"Action,Adventure,Fantasy",7.9,2022,0,150.0,64171
-Warcraft,"Action,Adventure,Fantasy",6.7,2016,0,123.0,276592
-Gerald's Game,"Drama,Horror,Thriller",6.5,2017,0,103.0,125427
-Pet Sematary,"Horror,Mystery,Thriller",5.7,2019,0,100.0,97773
-Maze Runner: The Death Cure,"Action,Adventure,Sci-Fi",6.2,2018,0,143.0,159348
-The Handmaiden,"Drama,Romance,Thriller",8.1,2016,0,145.0,169126
-The Hole in the Ground,"Drama,Horror,Mystery",5.6,2019,0,90.0,22007
-Hunter Killer,"Action,Thriller",6.6,2018,0,121.0,72202
-7500,"Action,Drama,Thriller",6.3,2019,0,93.0,32420
-Star Wars: Episode IX - The Rise of Skywalker,"Action,Adventure,Fantasy",6.4,2019,0,141.0,487234
-"I, Tonya","Biography,Comedy,Drama",7.5,2017,0,119.0,239558
-96,"Drama,Romance",8.5,2018,0,158.0,36342
-Checkmate,"Action,Comedy",7.9,2023,0,112.0,24294
-Amsterdam,"Comedy,Drama,History",6.1,2022,0,134.0,90769
-Black '47,"Action,Drama,History",6.8,2018,0,100.0,13019
-The Assistant,Drama,6.4,2019,0,87.0,25723
-Big Time Adolescence,"Comedy,Drama",6.9,2019,0,91.0,15683
-Gods of Egypt,"Action,Adventure,Drama",5.4,2016,0,127.0,124575
-Ava,"Action,Drama,Thriller",5.5,2020,0,96.0,61902
-Our Friend,"Drama,Romance",7.3,2019,0,124.0,14969
-The Good Neighbor,"Crime,Drama,Horror",6.3,2016,0,98.0,18087
-Mad God,"Animation,Fantasy,Horror",6.8,2021,0,83.0,14042
-Old,"Drama,Horror,Mystery",5.8,2021,0,108.0,157451
-Sonchiriya,"Action,Crime,Drama",7.9,2019,0,143.0,12924
-Kill Command,"Action,Horror,Sci-Fi",5.7,2016,0,99.0,14935
-Clean,"Action,Crime,Drama",5.6,2021,0,94.0,10928
-Come True,"Horror,Sci-Fi",6.0,2020,0,105.0,10860
-Fantastic Beasts: The Crimes of Grindelwald,"Adventure,Family,Fantasy",6.5,2018,0,134.0,305529
-Rogue Agent,"Action,Adventure,Drama",6.4,2022,0,115.0,11782
-Swallow,"Drama,Thriller",6.5,2019,0,94.0,27784
-American Renegades,"Action,Adventure,Crime",5.5,2017,0,106.0,10806
-Under the Silver Lake,"Crime,Drama,Mystery",6.5,2018,0,139.0,50089
-Smile,"Horror,Mystery,Thriller",6.5,2022,0,115.0,152330
-Emily the Criminal,"Crime,Drama,Mystery",6.7,2022,0,97.0,51440
-The Archies,"Comedy,Drama,Musical",5.1,2023,0,141.0,50032
-Pinocchio,"Drama,Family,Fantasy",6.3,2019,0,125.0,14545
-Sanak,"Action,Thriller",6.7,2021,0,116.0,10855
+Brazen,"Crime,Drama,Mystery",4.2,2022,0,94.0,13600
+Fauci,"Biography,Documentary,History",6.5,2021,0,104.0,12758
+The Royal Treatment,"Comedy,Family,Romance",5.2,2022,0,96.0,11254
+Bheeshma Parvam,"Action,Crime,Drama",7.6,2022,0,144.0,12772
+Bad Luck Banging or Loony Porn,"Comedy,Drama",6.5,2021,0,106.0,10270
+Drive My Car,Drama,7.5,2021,0,179.0,63545
+Dobaaraa,"Drama,Fantasy,Mystery",4.8,2022,0,132.0,20838
+Blacklight,"Action,Drama,Thriller",4.8,2022,0,104.0,23757
+14 Peaks: Nothing Is Impossible,"Adventure,Documentary,Sport",7.7,2021,0,101.0,29975
+Bhediya,"Comedy,Fantasy,Horror",6.8,2022,0,156.0,24395
+Dasvi,"Comedy,Drama",7.4,2022,0,125.0,56453
+Ticket to Paradise,"Comedy,Romance",6.1,2022,0,104.0,62355
+The Outfit,"Crime,Drama,Mystery",7.2,2022,0,105.0,62433
+Jeepers Creepers: Reborn,"Horror,Mystery,Thriller",2.6,2022,0,88.0,14035
+Table 19,"Comedy,Drama,Romance",5.8,2017,0,87.0,30797
+Kimi,"Crime,Drama,Mystery",6.3,2022,0,89.0,38247
+12 Strong,"Action,Drama,History",6.5,2018,0,130.0,90910
+The Pale Blue Eye,"Crime,Horror,Mystery",6.6,2022,0,128.0,121615
+Beavis and Butt-Head Do the Universe,"Animation,Comedy,Sci-Fi",7.0,2022,0,87.0,13035
+Pet Sematary: Bloodlines,"Fantasy,Horror",4.6,2023,0,87.0,10077
+Darlings,"Comedy,Drama,Thriller",6.6,2022,0,133.0,20964
+Seaspiracy,"Adventure,Documentary",8.1,2021,0,89.0,33795
+A Good Person,Drama,7.1,2023,0,128.0,20211
+Interceptor,"Action,Adventure,Drama",4.7,2022,0,99.0,27113
+Bardo: False Chronicle of a Handful of Truths,"Comedy,Drama",6.7,2022,0,159.0,14713
+The Fabelmans,Drama,7.5,2022,0,151.0,113231
+Cocaine Bear,"Comedy,Thriller",5.9,2023,0,95.0,104080
+Ferry,"Action,Crime,Drama",7.0,2021,0,106.0,12905
+Family Switch,"Comedy,Family",5.6,2023,0,106.0,23961
+Asteroid City,"Comedy,Drama,Romance",6.5,2023,0,105.0,103040
+Poor Things,"Comedy,Drama,Romance",8.4,2023,0,141.0,72718
+Speak No Evil,"Drama,Horror,Thriller",6.6,2022,0,97.0,35497
+Last the Night,"Horror,Thriller",4.7,2022,0,88.0,10842
+Look Both Ways,"Comedy,Drama,Romance",6.3,2022,0,110.0,23601
+Bank of Dave,"Biography,Comedy,Drama",7.1,2023,0,107.0,11057
+Me Time,Comedy,5.1,2022,0,101.0,39849
+Deadpool,"Action,Comedy",8.0,2016,0,108.0,1110080
+Single All the Way,"Comedy,Drama,Romance",6.2,2021,0,99.0,19478
+"Batman: The Long Halloween, Part One","Action,Animation,Crime",7.2,2021,0,85.0,19578
+Jujutsu Kaisen 0,"Action,Animation,Fantasy",7.8,2021,0,105.0,34926
+The Good Neighbor,"Crime,Horror,Mystery",6.0,2022,0,106.0,12376
+Trolls Band Together,"Adventure,Animation,Comedy",6.0,2023,0,91.0,10647
+Lady Chatterley's Lover,"Drama,Romance",6.6,2022,0,126.0,22249
+Lift,"Action,Comedy,Crime",5.5,2024,0,107.0,29685
+Cha Cha Real Smooth,"Comedy,Drama",7.3,2022,0,107.0,25745
+Bird Box: Barcelona,"Horror,Mystery,Sci-Fi",5.3,2023,0,112.0,22925
+Empire of Light,"Drama,Romance",6.6,2022,0,115.0,23303
+"Batman: The Long Halloween, Part Two","Action,Animation,Crime",7.2,2021,0,87.0,16437
+Father Stu,"Biography,Drama",6.5,2022,0,124.0,28846
+Tár,"Drama,Music",7.4,2022,0,158.0,90804
+About Fate,"Comedy,Romance",6.4,2022,0,103.0,11613
+The Son,Drama,6.4,2022,0,123.0,14996
+Through My Window,"Comedy,Drama,Romance",5.5,2022,0,116.0,16677
+Thanksgiving,"Horror,Mystery,Thriller",6.4,2023,0,106.0,33803
+They/Them,"Horror,Mystery,Thriller",3.9,2022,0,104.0,10863
+No One Will Save You,"Horror,Sci-Fi,Thriller",6.3,2023,0,93.0,61087
+Nefarious,"Horror,Thriller",6.4,2023,0,97.0,24291
+Crimes of the Future,"Drama,Horror,Sci-Fi",5.8,2022,0,107.0,39667
+Guntur Kaaram,"Action,Drama,Family",6.2,2024,0,159.0,17123
+Kidnap,"Action,Crime,Thriller",5.9,2017,0,95.0,38883
+Home Team,"Comedy,Sport",6.0,2022,0,95.0,21738
+Loving Adults,"Crime,Drama,Thriller",6.5,2022,0,104.0,13086
+Dragon Ball Super: Super Hero,"Action,Adventure,Animation",7.1,2022,0,100.0,14252
+Indiana Jones and the Dial of Destiny,"Action,Adventure,Sci-Fi",6.6,2023,0,154.0,187195
+The Eight Mountains,Drama,7.7,2022,0,147.0,13628
+Enola Holmes 2,"Action,Adventure,Crime",6.8,2022,0,129.0,97388

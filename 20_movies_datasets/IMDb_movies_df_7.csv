@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-The Tragedy of Macbeth,"Drama,Mystery,Thriller",7.1,2021,0,105.0,38998
-Renfield,"Comedy,Fantasy,Horror",6.4,2023,0,93.0,91081
-Dark Crimes,"Crime,Drama,Mystery",4.6,2016,0,92.0,19773
-Annaatthe,"Action,Comedy,Drama",4.0,2021,0,163.0,10604
-Black Widow,"Action,Adventure,Sci-Fi",6.7,2021,0,134.0,419506
-Darkest Hour,"Drama,War",7.4,2017,0,125.0,217972
-Greta,"Drama,Mystery,Thriller",6.0,2018,0,98.0,37564
-Leo,"Animation,Comedy,Family",7.0,2023,0,102.0,30272
-Sink or Swim,"Comedy,Drama,Sport",6.9,2018,0,121.0,11815
-Jai Bhim,"Crime,Drama,Mystery",8.7,2021,0,164.0,215495
-A Perfect Pairing,"Comedy,Romance",6.1,2022,0,101.0,16403
-Jumanji: Welcome to the Jungle,"Action,Adventure,Comedy",6.9,2017,0,119.0,417215
-Medieval,"Action,Drama,History",5.9,2022,0,125.0,12148
-Winnie-the-Pooh: Blood and Honey,Horror,2.9,2023,0,84.0,26286
-The One and Only Ivan,"Adventure,Comedy,Drama",6.6,2020,0,95.0,13325
-Swiss Army Man,"Comedy,Drama,Fantasy",6.9,2016,0,97.0,132383
-Justice League vs the Fatal Five,"Action,Animation,Fantasy",6.5,2019,0,77.0,10432
-Atrangi Re,"Comedy,Drama,Fantasy",6.5,2021,0,138.0,27787
-Sultan,"Action,Drama,Romance",7.0,2016,0,170.0,51499
-A.I. Rising,"Drama,Romance,Sci-Fi",4.9,2018,0,85.0,11236
-The Cursed,"Fantasy,Horror,Mystery",6.2,2021,0,111.0,15443
-Love & Friendship,"Comedy,Drama,Romance",6.4,2016,0,90.0,26264
-Seaspiracy,"Adventure,Documentary",8.1,2021,0,89.0,33795
-Finding 'Ohana,"Action,Adventure,Comedy",6.1,2021,0,123.0,11492
-Beach Rats,Drama,6.4,2017,0,98.0,16254
-Vikram,"Action,Crime,Thriller",8.3,2022,0,175.0,73188
-Midway,"Action,Drama,History",6.7,2019,0,138.0,93385
-Toy Story 4,"Adventure,Animation,Comedy",7.7,2019,0,100.0,276279
-I Lost My Body,"Animation,Drama,Fantasy",7.5,2019,0,81.0,36187
-Vivarium,"Horror,Mystery,Sci-Fi",5.9,2019,0,97.0,72253
-Artemis Fowl,"Adventure,Family,Fantasy",4.3,2020,0,95.0,30227
-Arrival,"Drama,Mystery,Sci-Fi",7.9,2016,0,116.0,754140
-Kabir Singh,"Action,Drama,Romance",7.0,2019,0,173.0,39594
-Leap!,"Adventure,Animation,Comedy",6.7,2016,0,89.0,24106
-The Man with the Iron Heart,"Action,Biography,Thriller",6.4,2017,0,120.0,18235
-Bheeshma Parvam,"Action,Crime,Drama",7.6,2022,0,144.0,12772
-You People,"Comedy,Romance",5.5,2023,0,117.0,61858
-Influencer,"Horror,Mystery,Thriller",6.2,2022,0,92.0,12581
-Next Goal Wins,"Comedy,Drama,Sport",6.5,2023,0,104.0,11111
-Holidate,"Comedy,Romance",6.1,2020,0,104.0,77973
+Leave the World Behind,"Drama,Mystery,Thriller",6.5,2023,0,138.0,174972
+Host,"Horror,Mystery",6.5,2020,0,57.0,38566
+Tetris,"Biography,Drama,History",7.4,2023,0,118.0,79765
+The Kissing Booth 3,"Comedy,Romance",4.8,2021,0,112.0,21302
+Deadstream,"Comedy,Horror",6.4,2022,0,87.0,16728
+Belfast,"Biography,Drama,Romance",7.2,2021,0,98.0,89856
+Encounter,"Drama,Sci-Fi,Thriller",5.9,2021,0,108.0,10874
+Luca,"Adventure,Animation,Comedy",7.4,2021,0,95.0,189023
+Your Place or Mine,"Comedy,Romance",5.7,2023,0,109.0,37869
+Raksha Bandhan,"Comedy,Drama,Family",5.3,2022,0,108.0,26492
+Space Sweepers,"Action,Adventure,Drama",6.5,2021,0,136.0,28359
+Pathaan,"Action,Adventure,Thriller",5.9,2023,0,146.0,155264
+The Strangers: Prey at Night,Horror,5.2,2018,0,85.0,34021
+Chandigarh Kare Aashiqui,"Comedy,Crime,Drama",6.8,2021,0,117.0,15175
+The Invitation,"Horror,Thriller",5.3,2022,0,105.0,30133
+A Classic Horror Story,"Drama,Horror,Mystery",5.7,2021,0,95.0,21597
+My Octopus Teacher,Documentary,8.1,2020,0,85.0,62338
+Cyrano,"Drama,Musical,Romance",6.4,2021,0,123.0,14618
+Ghostbusters,"Action,Comedy,Fantasy",6.8,2016,0,117.0,242794
+The Guernsey Literary and Potato Peel Pie Society,"Drama,Romance,War",7.3,2018,0,124.0,51877
+Mr. Harrigan's Phone,"Drama,Horror,Mystery",6.0,2022,0,104.0,37477
+The Vanishing of Sidney Hall,"Drama,Mystery,Romance",6.8,2017,0,119.0,11677
+Adipurush,"Action,Adventure,Drama",3.2,2023,0,179.0,132276
+The Exorcist: Believer,Horror,4.8,2023,0,111.0,35439
+How to Be Single,"Comedy,Drama,Romance",6.1,2016,0,110.0,93202
+xXx: Return of Xander Cage,"Action,Adventure,Thriller",5.2,2017,0,107.0,96654
+Role Play,"Action,Comedy,Romance",5.5,2023,0,100.0,11270
+The Hustle,"Comedy,Crime",5.4,2019,0,93.0,64771
+American Murder: The Family Next Door,"Crime,Documentary",7.2,2020,0,83.0,32038
+365 Days: This Day,"Drama,Romance",2.7,2022,0,111.0,23743
+The Noel Diary,"Comedy,Drama,Romance",6.1,2022,0,99.0,18847
+The Irishman,"Biography,Crime,Drama",7.8,2019,0,209.0,425536
+Khuda Haafiz: Chapter 2 - Agni Pariksha,"Action,Crime,Drama",7.4,2022,0,144.0,14839
+Army of Thieves,"Action,Comedy,Crime",6.4,2021,0,127.0,87433
+A Thursday,"Drama,Thriller",7.7,2022,0,128.0,25347
+Mother/Android,"Drama,Sci-Fi,Thriller",4.9,2021,0,110.0,20980
+Paper Lives,Drama,6.6,2021,0,96.0,13587
+A California Christmas,"Comedy,Drama,Romance",5.8,2020,0,106.0,11307
+No One Gets Out Alive,"Drama,Horror,Mystery",5.4,2021,0,87.0,20394
+Broker,"Comedy,Crime,Drama",7.1,2022,0,129.0,15922
+Locked Down,"Comedy,Crime,Romance",5.3,2021,0,118.0,13488
+The Good Boss,"Comedy,Drama",7.1,2021,0,116.0,12788
+After We Fell,"Drama,Romance",4.7,2021,0,98.0,19486
+After Ever Happy,"Drama,Romance",4.6,2022,0,95.0,10548
+A Castle for Christmas,"Adventure,Comedy,Drama",5.6,2021,0,98.0,15343
+The Happytime Murders,"Action,Comedy,Crime",5.5,2018,0,91.0,30196
+I'm Your Man,"Comedy,Drama,Romance",7.0,2021,0,108.0,12246
+The Lady of Heaven,"Action,Drama,History",5.8,2021,0,141.0,14598
+The Trip,"Action,Comedy,Horror",6.9,2021,0,113.0,26756
+Hit: The First Case,"Action,Crime,Drama",6.8,2022,0,132.0,16251
+Shehzada,"Action,Comedy,Drama",4.5,2023,0,142.0,30900
+Mission Majnu,"Action,Drama,History",7.0,2023,0,129.0,43857
+Vikram Vedha,"Action,Crime,Drama",7.1,2022,0,160.0,24010
+My Policeman,"Drama,Romance",6.5,2022,0,113.0,21693
+Borat Subsequent Moviefilm,Comedy,6.6,2020,0,95.0,152028
+The Man Who Killed Don Quixote,"Adventure,Comedy,Drama",6.3,2018,0,132.0,21927
+Petite Maman,"Drama,Fantasy",7.4,2021,0,73.0,17124
+Joji,"Crime,Drama",7.8,2021,0,113.0,10629
+Swan Song,"Drama,Romance,Sci-Fi",6.8,2021,0,116.0,16905
+In the Heights,"Drama,Musical,Romance",7.3,2021,0,143.0,51592
 Beast,"Action,Adventure,Drama",5.6,2022,0,93.0,39471
-Smolensk,"Drama,Thriller",1.2,2016,0,120.0,40151
-Bank of Dave,"Biography,Comedy,Drama",7.1,2023,0,107.0,11057
-The Northman,"Action,Adventure,Drama",7.0,2022,0,137.0,247634
-The Space Between Us,"Drama,Romance,Sci-Fi",6.4,2017,0,120.0,55897
-365 Days,"Drama,Romance",3.3,2020,0,114.0,97285
-Big Bug,"Comedy,Sci-Fi",5.5,2022,0,111.0,10257
-The Young Offenders,"Adventure,Comedy,Crime",7.0,2016,0,83.0,13224
-Captain Fantastic,"Comedy,Drama",7.8,2016,0,118.0,232706
-Braven,"Action,Thriller",5.9,2018,0,94.0,41797
+God's Crooked Lines,"Drama,Mystery,Thriller",7.1,2022,0,154.0,21715
+My Son,"Crime,Drama,Mystery",6.0,2021,0,95.0,14300
+Umma,"Drama,Horror,Mystery",4.7,2022,0,83.0,10289
+Operation Christmas Drop,"Comedy,Family,Romance",5.8,2020,0,95.0,12958
+Past Lives,"Drama,Romance",7.9,2023,0,105.0,76822

@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-Phone Bhoot,"Comedy,Horror",5.2,2022,0,136.0,10841
-Office Christmas Party,Comedy,5.9,2016,0,105.0,87808
-The Boogeyman,"Horror,Mystery,Thriller",5.9,2023,0,98.0,41911
-The Woman King,"Action,Drama,History",6.9,2022,0,135.0,71193
-A Shaun the Sheep Movie: Farmageddon,"Adventure,Animation,Comedy",6.8,2019,0,86.0,15422
-Gemini Man,"Action,Sci-Fi,Thriller",5.7,2019,0,117.0,120953
-Doctor Strange,"Action,Adventure,Fantasy",7.5,2016,0,115.0,795835
-Sully,"Biography,Drama",7.4,2016,0,96.0,294926
-The Irishman,"Biography,Crime,Drama",7.8,2019,0,209.0,425536
-777 Charlie,"Adventure,Comedy,Drama",8.8,2022,0,164.0,38956
-Goosebumps 2: Haunted Halloween,"Adventure,Comedy,Fantasy",5.6,2018,0,90.0,23506
-Troop Zero,"Comedy,Drama,Family",6.9,2019,0,94.0,12028
-Role Play,"Action,Comedy,Romance",5.5,2023,0,100.0,11270
-Climax,"Drama,Horror,Music",6.9,2018,0,97.0,78090
-Popstar: Never Stop Never Stopping,"Comedy,Drama,Music",6.7,2016,0,87.0,67605
-Gifted,Drama,7.6,2017,0,101.0,128611
-Journal 64,"Crime,Mystery,Thriller",7.4,2018,0,119.0,18945
-The Night House,"Horror,Mystery,Thriller",6.5,2020,0,107.0,65645
-You Won't Be Alone,"Drama,Fantasy,Horror",6.4,2022,0,108.0,10661
-Recep Ivedik 5,Comedy,3.4,2017,0,114.0,17709
-The Love Witch,"Comedy,Horror,Romance",6.2,2016,0,120.0,19501
-Split,"Horror,Thriller",7.3,2016,0,117.0,542899
-Gran Turismo,"Action,Adventure,Drama",7.2,2023,0,134.0,83184
-Respect,"Biography,Drama,Music",6.6,2021,0,145.0,17608
-Welcome to Marwen,"Biography,Comedy,Drama",6.2,2018,0,116.0,25719
-Loving Adults,"Crime,Drama,Thriller",6.5,2022,0,104.0,13086
-Soul,"Adventure,Animation,Comedy",8.0,2020,0,100.0,372297
-Tomb Raider,"Action,Adventure,Fantasy",6.3,2018,0,119.0,225349
-Irreplaceable You,"Comedy,Drama,Romance",6.4,2018,0,96.0,10324
-The Craft: Legacy,"Drama,Fantasy,Horror",4.6,2020,0,97.0,16188
-A Vigilante,"Crime,Drama,Mystery",5.7,2018,0,91.0,10339
-"Juliet, Naked","Comedy,Drama,Music",6.6,2018,0,97.0,24408
-True Memoirs of an International Assassin,"Action,Comedy,Crime",5.9,2016,0,98.0,24253
-How to Train Your Dragon: The Hidden World,"Action,Adventure,Animation",7.4,2019,0,104.0,147662
-Cargo,"Drama,Horror,Sci-Fi",6.3,2017,0,105.0,47626
-Falling Inn Love,"Comedy,Romance",5.7,2019,0,98.0,22023
-Don't Let Go,"Drama,Horror,Mystery",6.4,2019,0,103.0,12667
-Cosmic Sin,"Action,Sci-Fi",2.5,2021,0,88.0,14951
-Bright,"Action,Fantasy,Thriller",6.3,2017,0,117.0,200289
-Final Score,"Action,Adventure,Drama",5.8,2018,0,104.0,14044
-Silent Night,"Comedy,Drama",5.7,2021,0,92.0,19320
-Capernaum,Drama,8.4,2018,0,126.0,103003
-Oxygen,"Drama,Fantasy,Sci-Fi",6.5,2021,0,100.0,43709
-The Fanatic,"Crime,Drama,Horror",4.1,2019,0,88.0,12191
+Mortal Kombat,"Action,Adventure,Fantasy",6.0,2021,0,110.0,188147
+Wazir,"Action,Crime,Drama",7.1,2016,0,103.0,19816
+Fahrenheit 451,"Drama,Sci-Fi,Thriller",5.0,2018,0,100.0,22392
+American Pastoral,"Crime,Drama,Mystery",6.1,2016,0,108.0,17946
+Motherless Brooklyn,"Crime,Drama,Mystery",6.8,2019,0,144.0,62334
+Alita: Battle Angel,"Action,Adventure,Sci-Fi",7.3,2019,0,122.0,290565
+The Flash,"Action,Adventure,Fantasy",6.7,2023,0,144.0,201276
+Danger Close,"Action,Drama,War",6.8,2019,0,118.0,14990
+Shazam!,"Action,Adventure,Comedy",7.0,2019,0,132.0,380869
+Wonder Woman,"Action,Adventure,Fantasy",7.3,2017,0,141.0,694150
+The Only Living Boy in New York,Drama,6.3,2017,0,89.0,17068
+"Hail, Caesar!","Comedy,Drama,Mystery",6.3,2016,0,106.0,142205
+Silence,"Drama,History",7.2,2016,0,161.0,121613
+Suburbicon,"Comedy,Crime,Drama",5.8,2017,0,105.0,46933
+Tulip Fever,"Drama,History,Romance",6.2,2017,0,105.0,22718
+CHIPS,"Action,Comedy,Crime",6.0,2017,0,100.0,50449
+Rings,"Drama,Horror,Mystery",4.5,2017,0,102.0,42888
+Without Remorse,"Action,Thriller,War",5.8,2021,0,109.0,63832
+Cell,"Action,Adventure,Horror",4.4,2016,0,98.0,30280
+The Last Full Measure,"Drama,War",6.8,2019,0,116.0,13878
+The Dirt,"Biography,Comedy,Drama",7.0,2019,0,107.0,54584
+Warcraft,"Action,Adventure,Fantasy",6.7,2016,0,123.0,276592
+The Witches,"Adventure,Comedy,Family",5.4,2020,0,106.0,46054
+Pet Sematary,"Horror,Mystery,Thriller",5.7,2019,0,100.0,97773
+Super Troopers 2,"Comedy,Crime,Mystery",6.0,2018,0,100.0,28173
+Jungle Cruise,"Action,Adventure,Comedy",6.6,2021,0,127.0,210126
+Hellraiser,"Horror,Mystery,Thriller",5.9,2022,0,121.0,47799
+The Legend of Tarzan,"Action,Adventure,Drama",6.2,2016,0,110.0,187063
+Justice League,"Action,Adventure,Fantasy",6.1,2017,0,120.0,475542
+Fantasy Island,"Fantasy,Horror,Mystery",4.9,2020,0,109.0,57213
+Army of the Dead,"Action,Crime,Drama",5.8,2021,0,148.0,185784
+Pele: Birth of a Legend,"Biography,Drama,Sport",7.1,2016,0,107.0,20781
+The Rental,"Drama,Horror,Mystery",5.7,2020,0,88.0,37424
+The Last Voyage of the Demeter,"Fantasy,Horror",6.1,2023,0,118.0,42401
+The Little Things,"Crime,Drama,Mystery",6.3,2021,0,128.0,122057
+Clean,"Action,Crime,Drama",5.6,2021,0,94.0,10928
+Love Aaj Kal,"Drama,Romance",4.7,2020,0,142.0,10409
+The Humans,Drama,6.1,2021,0,108.0,10562
+Laal Singh Chaddha,"Comedy,Drama,Romance",5.6,2022,0,159.0,177594
+Countdown,"Horror,Thriller",5.4,2019,0,90.0,44562
+Unhinged,"Action,Thriller",6.0,2020,0,90.0,75792
+The Knight Before Christmas,"Adventure,Comedy,Drama",5.6,2019,0,92.0,20250
+Bhuj: The Pride of India,"Action,Drama,History",4.2,2021,0,113.0,24891
+Antebellum,"Drama,Horror,Mystery",5.8,2020,0,105.0,29477
+Gangubai Kathiawadi,"Biography,Crime,Drama",7.8,2022,0,152.0,61187
+Bhoot Police,"Comedy,Horror",6.9,2021,0,129.0,27292
+The Tragedy of Macbeth,"Drama,Mystery,Thriller",7.1,2021,0,105.0,38998
+Roohi,"Comedy,Horror",4.3,2021,0,134.0,10804
+Jesus Revolution,Drama,7.1,2023,0,120.0,13120
+Thunder Force,"Action,Adventure,Comedy",4.5,2021,0,106.0,45117
+Shut In,Thriller,5.8,2022,0,89.0,10700
+Shazam! Fury of the Gods,"Action,Adventure,Comedy",6.0,2023,0,130.0,121030
+Thalaivi,"Biography,Drama",5.9,2021,0,153.0,31243
+Cinderella,"Comedy,Family,Fantasy",4.4,2021,0,112.0,45981
+The Nun II,"Horror,Mystery,Thriller",5.6,2023,0,110.0,54889
+All Quiet on the Western Front,"Action,Drama,War",7.8,2022,0,148.0,237890
+The Prom,"Comedy,Drama,Musical",5.9,2020,0,130.0,29015
+Bones and All,"Drama,Horror,Romance",6.8,2022,0,131.0,55414
+"Red, White & Royal Blue","Comedy,Romance",7.0,2023,0,118.0,45408
+Dangerous Lies,"Crime,Mystery,Thriller",5.3,2020,0,96.0,18472
+A Boy Called Christmas,"Adventure,Drama,Family",6.7,2021,0,106.0,27092
+Soorarai Pottru,"Action,Drama",8.7,2020,0,153.0,123287
+Causeway,Drama,6.6,2022,0,94.0,22112
+Atlantics,"Drama,Fantasy,Mystery",6.7,2019,0,106.0,10384
+Les Misérables,"Crime,Drama,Thriller",7.6,2019,0,104.0,27922
 Beanpole,"Drama,War",7.2,2019,0,130.0,12135
-American Murder: The Family Next Door,"Crime,Documentary",7.2,2020,0,83.0,32038
-Mr. Harrigan's Phone,"Drama,Horror,Mystery",6.0,2022,0,104.0,37477
-Brad's Status,"Comedy,Drama,Music",6.5,2017,0,102.0,18998
-Silent Night,"Action,Thriller",5.3,2023,0,104.0,15978
-Noelle,"Comedy,Family,Fantasy",6.3,2019,0,100.0,26878

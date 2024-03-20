@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-Master,"Action,Crime,Thriller",7.4,2021,0,179.0,82872
-Underwater,"Action,Horror,Sci-Fi",5.9,2020,0,95.0,95440
-A Hidden Life,"Biography,Drama,Romance",7.4,2019,0,174.0,27669
-Women Talking,Drama,6.9,2022,0,104.0,40428
-The Big Sick,"Comedy,Drama,Romance",7.5,2017,0,120.0,142574
+Sick,"Horror,Thriller",6.0,2022,0,83.0,19059
+Uncharted,"Action,Adventure",6.3,2022,0,116.0,251485
+Mute,"Mystery,Sci-Fi,Thriller",5.5,2018,0,126.0,37907
+"Lyle, Lyle, Crocodile","Adventure,Comedy,Family",6.1,2022,0,106.0,14553
+Get a Job,Comedy,5.2,2016,0,83.0,25700
+Baywatch,"Action,Comedy,Crime",5.5,2017,0,116.0,200198
+Poker Face,"Action,Crime,Thriller",5.2,2022,0,94.0,12598
+Falling for Christmas,"Comedy,Romance",5.2,2022,0,93.0,28114
+The Cost of Deception,"Action,Crime,Drama",1.5,2021,0,125.0,39740
+Max Steel,"Action,Adventure,Fantasy",4.6,2016,0,92.0,20470
+Val,"Biography,Documentary",7.6,2021,0,109.0,14181
+Bridget Jones's Baby,"Comedy,Drama,Romance",6.5,2016,0,123.0,81553
+Turnabout,"Drama,Mystery,Thriller",4.9,2016,0,90.0,13291
+Aquaman,"Action,Adventure,Fantasy",6.8,2018,0,143.0,514511
+Inside,"Drama,Thriller",5.5,2023,0,105.0,15627
+The Art of Racing in the Rain,"Comedy,Drama,Romance",7.6,2019,0,109.0,37390
+The Munsters,"Comedy,Family,Fantasy",4.5,2022,0,109.0,11310
+Not Okay,"Comedy,Drama,Thriller",6.1,2022,0,100.0,18437
+The Weekend Away,"Crime,Drama,Mystery",5.7,2022,0,89.0,29214
+On the Line,Thriller,5.4,2022,0,104.0,10846
+You People,"Comedy,Romance",5.5,2023,0,117.0,61858
+Sisu,"Action,War",6.9,2022,0,91.0,70046
+The Holdovers,"Comedy,Drama",8.0,2023,0,133.0,85529
+The Greatest Showman,"Biography,Drama,Musical",7.5,2017,0,105.0,306749
+Burning Days,"Drama,Thriller",7.6,2022,0,129.0,11545
+V/H/S/94,"Horror,Mystery,Thriller",5.5,2021,0,103.0,12542
+15/07: Break of Dawn,"Action,Drama,War",1.2,2021,0,95.0,20614
+Guillermo del Toro's Pinocchio,"Adventure,Animation,Drama",7.6,2022,0,117.0,110476
+Triple Frontier,"Action,Thriller",6.5,2019,0,125.0,143778
+Demon Slayer: Kimetsu no Yaiba - Mt. Natagumo Arc,"Action,Animation,Fantasy",8.8,2020,0,138.0,15708
+Booksmart,Comedy,7.1,2019,0,102.0,129620
+Central Intelligence,"Action,Comedy,Crime",6.3,2016,0,107.0,210545
+Meet Cute,"Comedy,Drama,Fantasy",5.7,2022,0,89.0,11523
+Satyaprem Ki Katha,"Comedy,Drama,Musical",6.8,2023,0,146.0,29485
+The Tinder Swindler,"Crime,Documentary",7.1,2022,0,114.0,72138
+Rocky Aur Rani Kii Prem Kahaani,"Comedy,Drama,Family",6.6,2023,0,168.0,41144
+Rebel Moon: Part One - A Child of Fire,"Action,Adventure,Drama",5.6,2023,0,133.0,95998
+The Beasts,"Drama,Thriller",7.5,2022,0,137.0,16844
+Argylle,"Action,Thriller",6.1,2024,0,139.0,14333
+Bad Boys for Life,"Action,Comedy,Crime",6.5,2020,0,124.0,173168
+Halloween,"Crime,Horror,Thriller",6.5,2018,0,106.0,167691
+Windfall,"Crime,Drama,Thriller",5.7,2022,0,92.0,26409
+IB 71,"Action,Thriller",7.2,2023,0,117.0,10161
+I Came By,Thriller,6.2,2022,0,110.0,32675
+Mad God,"Animation,Fantasy,Horror",6.8,2021,0,83.0,14042
+Jai Bhim,"Crime,Drama,Mystery",8.7,2021,0,164.0,215495
+The Quiet Girl,Drama,7.7,2022,0,95.0,20885
+"Monica, O My Darling","Comedy,Crime,Drama",7.4,2022,0,129.0,20817
+Freddy,"Drama,Mystery,Romance",7.4,2022,0,124.0,33869
+Strays,"Adventure,Comedy",6.3,2023,0,93.0,25125
+Thunivu,"Action,Crime,Thriller",6.1,2023,0,146.0,29207
+Barbie,"Adventure,Comedy,Fantasy",6.9,2023,0,114.0,485827
 A Star Is Born,"Drama,Music,Romance",7.6,2018,0,136.0,414224
-Overdrive,"Action,Adventure,Crime",5.4,2017,0,93.0,16274
-The Batman,"Action,Crime,Drama",7.8,2022,0,176.0,767892
-Joker,"Crime,Drama,Thriller",8.4,2019,0,122.0,1454198
-Let Him Go,"Crime,Drama,Thriller",6.7,2020,0,113.0,34544
-Secret Superstar,"Drama,Music",7.8,2017,0,150.0,29243
-Peter Rabbit 2: The Runaway,"Adventure,Animation,Comedy",6.2,2021,0,93.0,14295
-Don't Listen,"Adventure,Drama,Horror",6.1,2020,0,97.0,16633
-Attraction,"Action,Drama,Romance",5.6,2017,0,132.0,14024
-Pimp,"Crime,Drama,Romance",6.1,2018,0,86.0,17421
-Fear Street: Part Three - 1666,"Horror,Mystery",6.6,2021,0,114.0,62327
-We Summon the Darkness,"Horror,Music,Thriller",5.2,2019,0,91.0,11745
-The Lost City,"Action,Adventure,Comedy",6.1,2022,0,112.0,153832
-Father of the Year,Comedy,5.2,2018,0,94.0,12508
-Pyewacket,"Drama,Horror,Mystery",5.8,2017,0,88.0,11085
-The Coldest Game,"History,Sport,Thriller",6.2,2019,0,102.0,12402
-Cha Cha Real Smooth,"Comedy,Drama",7.3,2022,0,107.0,25745
-Selfiee,"Action,Comedy,Drama",5.7,2023,0,148.0,13166
-Alien: Covenant,"Horror,Sci-Fi,Thriller",6.4,2017,0,122.0,300657
-120 BPM,Drama,7.4,2017,0,143.0,16605
-Berlin Syndrome,"Drama,Horror,Mystery",6.3,2017,0,116.0,27354
-Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,"Action,Adventure,Animation",7.5,2023,0,110.0,10386
-Flamin' Hot,"Biography,Drama,History",6.8,2023,0,99.0,15024
-American Honey,"Adventure,Drama,Romance",7.0,2016,0,163.0,46052
-The Post,"Biography,Drama,History",7.2,2017,0,116.0,160772
-Den of Thieves,"Action,Crime,Drama",7.0,2018,0,140.0,122161
-Jackass Forever,"Action,Comedy,Documentary",6.8,2022,0,96.0,51147
-Leaving Neverland,Documentary,7.0,2019,0,240.0,30918
-The Quake,"Action,Drama,Thriller",6.2,2018,0,106.0,14262
-Dil Bechara,"Comedy,Drama,Romance",8.3,2020,0,101.0,134370
-The Princess Switch,"Comedy,Drama,Family",6.1,2018,0,101.0,31162
-The Devil All the Time,"Crime,Drama,Thriller",7.1,2020,0,138.0,150547
-Whitney Houston: I Wanna Dance with Somebody,"Biography,Drama,Music",6.6,2022,0,144.0,22175
-Stree,"Comedy,Horror",7.5,2018,0,128.0,38042
-Norm of the North,"Adventure,Animation,Comedy",3.4,2016,0,88.0,10110
-DC League of Super-Pets,"Action,Adventure,Animation",7.1,2022,0,105.0,74574
-Choose or Die,"Drama,Horror,Thriller",4.8,2022,0,84.0,25425
-Vakeel Saab,"Action,Crime,Drama",6.9,2021,0,153.0,12308
-Chemical Hearts,"Drama,Romance",6.3,2020,0,93.0,16013
-Life,"Horror,Sci-Fi,Thriller",6.6,2017,0,104.0,249551
-Radius,"Drama,Horror,Mystery",6.3,2017,0,93.0,19285
-Fifty Shades Freed,"Drama,Mystery,Romance",4.5,2018,0,105.0,72805
-Velvet Buzzsaw,"Horror,Mystery,Thriller",5.7,2019,0,113.0,65507
-Tesla,"Biography,Drama",5.1,2020,0,102.0,10261
-A Street Cat Named Bob,"Biography,Drama,Family",7.3,2016,0,103.0,33417
+A Perfect Pairing,"Comedy,Romance",6.1,2022,0,101.0,16403
+Fire Island,"Comedy,Romance",6.7,2022,0,105.0,13285
+Murder Mystery 2,"Action,Comedy,Crime",5.7,2023,0,90.0,66386
+Emily the Criminal,"Crime,Drama,Mystery",6.7,2022,0,97.0,51440
+Pain Hustlers,"Crime,Drama",6.5,2023,0,123.0,38845
+Mili,"Drama,Thriller",6.7,2022,0,127.0,10927
+Joy Ride,Comedy,6.4,2023,0,95.0,20829
+Kuttey,"Action,Comedy,Crime",5.5,2023,0,109.0,10568
+The Curse of Bridge Hollow,"Adventure,Comedy,Family",5.6,2022,0,89.0,11816
+"Argentina, 1985","Biography,Crime,Drama",7.6,2022,0,140.0,30288
+Bholaa,"Action,Adventure,Crime",5.9,2023,0,144.0,22330
+The Beekeeper,"Action,Thriller",6.5,2024,0,105.0,37445
+Cuttputlli,"Crime,Drama,Mystery",5.7,2022,0,120.0,22159

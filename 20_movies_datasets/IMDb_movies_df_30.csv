@@ -1,0 +1,67 @@
+Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
+Free Guy,"Action,Adventure,Comedy",7.1,2021,0,115.0,416972
+Kesari,"Action,Drama,History",7.4,2019,0,150.0,22085
+A Ghost Story,"Drama,Fantasy,Mystery",6.8,2017,0,92.0,78525
+Vice,"Biography,Comedy,Drama",7.2,2018,0,132.0,160465
+The Clovehitch Killer,"Crime,Drama,Mystery",6.5,2018,0,109.0,33341
+The Bride of Badrinath,"Comedy,Drama,Romance",6.1,2017,0,139.0,13317
+Brahmastra Part One: Shiva,"Action,Adventure,Fantasy",5.6,2022,0,167.0,111169
+The Banker,"Biography,Drama",7.3,2020,0,120.0,34543
+"Don't Worry, He Won't Get Far on Foot","Biography,Comedy,Drama",6.8,2018,0,114.0,30178
+Patti Cake$,"Drama,Music",6.8,2017,0,109.0,10502
+Acts of Vengeance,"Action,Drama,Thriller",5.7,2017,0,87.0,13494
+UFO,"Drama,Mystery,Sci-Fi",6.2,2018,0,88.0,11585
+I Am Mother,"Drama,Mystery,Sci-Fi",6.7,2019,0,113.0,98300
+The Post,"Biography,Drama,History",7.2,2017,0,116.0,160772
+The Ghazi Attack,"Action,Thriller,War",7.5,2017,0,116.0,14425
+Beach Rats,Drama,6.4,2017,0,98.0,16254
+Thelma,"Drama,Fantasy,Horror",7.0,2017,0,116.0,36232
+Loveless,Drama,7.6,2017,0,127.0,35268
+Adrift,"Action,Adventure,Biography",6.6,2018,0,96.0,61202
+Ayla: The Daughter of War,"Biography,Drama,History",8.3,2017,0,125.0,43313
+Penguin Bloom,"Biography,Drama",6.8,2020,0,95.0,12053
+Spider-Man: Far from Home,"Action,Adventure,Comedy",7.4,2019,0,129.0,547175
+Abominable,"Adventure,Animation,Comedy",7.0,2019,0,97.0,42037
+Icarus,"Documentary,Sport",7.9,2017,0,120.0,54144
+The Suicide Squad,"Action,Adventure,Comedy",7.2,2021,0,132.0,401472
+Mary and the Witch's Flower,"Adventure,Animation,Family",6.8,2017,0,103.0,15869
+Vivo,"Adventure,Animation,Comedy",6.7,2021,0,95.0,21355
+Oxygen,"Drama,Fantasy,Sci-Fi",6.5,2021,0,100.0,43709
+Creed II,"Action,Drama,Sport",7.1,2018,0,130.0,153641
+Missing Link,"Adventure,Animation,Comedy",6.7,2019,0,93.0,28494
+A Bad Moms Christmas,Comedy,5.6,2017,0,104.0,57356
+Double Lover,"Drama,Romance,Thriller",6.2,2017,0,107.0,13494
+Prisoners of the Ghostland,"Fantasy,Horror,Thriller",4.2,2021,0,103.0,13782
+Villains,"Comedy,Drama,Horror",6.2,2019,0,90.0,17289
+Dhuruvangal Pathinaaru,"Crime,Drama,Mystery",8.2,2016,0,105.0,16778
+Birds of Passage,"Crime,Drama",7.5,2018,0,125.0,13026
+Bombshell,"Biography,Drama",6.8,2019,0,109.0,125571
+Downton Abbey,"Drama,Romance",7.4,2019,0,122.0,62481
+Blood Red Sky,"Action,Drama,Horror",6.1,2021,0,121.0,54073
+Newness,"Drama,Romance",6.3,2017,0,117.0,17855
+The Ballad of Buster Scruggs,"Comedy,Drama,Musical",7.2,2018,0,133.0,165505
+Proud Mary,"Action,Crime,Drama",5.0,2018,0,89.0,10627
+Wonder Park,"Adventure,Animation,Comedy",5.8,2019,0,85.0,12645
+Moxie,"Comedy,Drama,Music",6.7,2021,0,111.0,28389
+Anna and the Apocalypse,"Comedy,Horror,Musical",6.1,2017,0,93.0,15528
+7500,"Action,Drama,Thriller",6.3,2019,0,93.0,32420
+The Personal History of David Copperfield,"Comedy,Drama",6.4,2019,0,119.0,22130
+Recep Ivedik 5,Comedy,3.4,2017,0,114.0,17709
+Mommy Dead and Dearest,"Crime,Documentary",7.4,2017,0,82.0,11640
+Black Adam,"Action,Adventure,Fantasy",6.2,2022,0,125.0,269036
+The Coldest Game,"History,Sport,Thriller",6.2,2019,0,102.0,12402
+I Can Only Imagine,"Biography,Drama,Family",7.3,2018,0,110.0,17939
+Terminator: Dark Fate,"Action,Adventure,Sci-Fi",6.2,2019,0,128.0,191358
+Sanju,"Biography,Comedy,Drama",7.6,2018,0,155.0,60660
+Bhool Bhulaiyaa 2,"Comedy,Drama,Horror",5.7,2022,0,143.0,32831
+I Want You Back,"Comedy,Romance",6.5,2022,0,116.0,23299
+Sing 2,"Adventure,Animation,Comedy",7.4,2021,0,110.0,84732
+Five Feet Apart,"Drama,Romance",7.2,2019,0,116.0,80842
+Clouds,"Biography,Drama,Music",7.5,2020,0,121.0,11478
+Stockholm,"Biography,Comedy,Crime",6.1,2018,0,92.0,14529
+Monster Hunter,"Action,Adventure,Fantasy",5.2,2020,0,103.0,67175
+Serenity,"Drama,Mystery,Thriller",5.4,2019,0,106.0,44722
+Newton,"Comedy,Drama",7.6,2017,0,106.0,21082
+Mersal,"Action,Thriller",7.5,2017,0,172.0,37828
+Dragged Across Concrete,"Action,Crime,Drama",6.9,2018,0,158.0,54280
+Siberia,"Crime,Drama,Romance",4.3,2018,0,104.0,17033

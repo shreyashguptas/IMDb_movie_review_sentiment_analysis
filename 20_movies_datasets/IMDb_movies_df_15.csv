@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-Shirley,"Biography,Drama,Horror",6.1,2020,0,107.0,13099
-The Shack,"Drama,Fantasy",6.3,2017,0,132.0,38828
-The Command,"Action,Adventure,Drama",6.6,2018,0,117.0,21177
-West Side Story,"Crime,Drama,Musical",7.1,2021,0,156.0,94059
-The Boy and the Heron,"Adventure,Animation,Drama",7.6,2023,0,124.0,40569
-Sound of Metal,"Drama,Music",7.7,2019,0,120.0,147644
-Rough Night,Comedy,5.2,2017,0,101.0,55414
-Justice League,"Action,Adventure,Fantasy",6.1,2017,0,120.0,475542
-The Kid Who Would Be King,"Action,Adventure,Family",6.1,2019,0,120.0,18455
-Last Flag Flying,"Comedy,Drama,War",6.9,2017,0,125.0,27923
-Resurrection,"Crime,Drama,Horror",5.9,2022,0,103.0,11411
-Afterlife of the Party,"Comedy,Drama,Fantasy",5.8,2021,0,109.0,10489
-The Unknown Girl,"Crime,Drama,Mystery",6.5,2016,0,113.0,10263
-Run,"Mystery,Thriller",6.7,2020,0,90.0,93919
-Phantom Thread,"Drama,Romance",7.4,2017,0,130.0,143782
+The 5th Wave,"Action,Adventure,Sci-Fi",5.2,2016,0,112.0,116304
+Una,Drama,6.2,2016,0,94.0,11474
+Galveston,"Action,Crime,Drama",6.2,2018,0,93.0,16048
+Alien: Covenant,"Horror,Sci-Fi,Thriller",6.4,2017,0,122.0,300657
+Beautiful Disaster,"Drama,Romance",5.3,2023,0,96.0,10409
+My Life as a Zucchini,"Animation,Comedy,Drama",7.8,2016,0,66.0,28693
+Mary Queen of Scots,"Biography,Drama,History",6.3,2018,0,124.0,54718
+Godzilla Minus One,"Action,Adventure,Drama",8.3,2023,0,124.0,42991
+Rememory,"Drama,Mystery,Sci-Fi",6.1,2017,0,111.0,17681
+Snatched,"Action,Adventure,Comedy",4.7,2017,0,90.0,37387
+Unicorn Store,"Comedy,Drama,Fantasy",5.6,2017,0,92.0,20670
+The Mummy,"Action,Adventure,Fantasy",5.4,2017,0,111.0,204616
+The Vaccine War,"Drama,Thriller",7.2,2023,0,161.0,23890
+American Fiction,"Comedy,Drama",7.8,2023,0,117.0,11597
+Chris Rock: Selective Outrage,"Comedy,Documentary",6.8,2023,0,69.0,11527
+Live by Night,"Action,Crime,Drama",6.4,2016,0,129.0,59532
+The Disappointments Room,"Drama,Horror,Thriller",3.9,2016,0,91.0,10389
 "Where'd You Go, Bernadette","Comedy,Crime,Drama",6.5,2019,0,109.0,24443
-Fan,"Action,Drama,Thriller",6.9,2016,0,138.0,49242
-Occupation,"Action,Drama,Sci-Fi",4.5,2018,0,119.0,17195
-Pad Man,"Comedy,Drama",7.9,2018,0,140.0,28729
-Captive State,"Action,Horror,Sci-Fi",6.0,2019,0,109.0,57098
-Bohemian Rhapsody,"Biography,Drama,Music",7.9,2018,0,134.0,583794
-Please Stand By,"Comedy,Drama",6.7,2017,0,93.0,15062
-Liger,"Action,Drama,Romance",2.7,2022,0,140.0,47219
-Deep Water,"Drama,Mystery,Thriller",5.5,2022,0,115.0,55961
-Christopher Robin,"Adventure,Comedy,Drama",7.2,2018,0,104.0,83821
-Badhaai Ho,"Comedy,Drama",7.9,2018,0,124.0,37762
-Rebel Moon: Part One - A Child of Fire,"Action,Adventure,Drama",5.6,2023,0,133.0,95998
-My Son,"Crime,Drama,Mystery",6.0,2021,0,95.0,14300
-Abducted in Plain Sight,"Crime,Documentary",6.8,2017,0,91.0,21909
-Drishyam 2,"Crime,Drama,Mystery",8.2,2022,0,140.0,43470
-Don't Breathe 2,"Action,Crime,Horror",6.0,2021,0,98.0,70288
-An American Pickle,"Comedy,Fantasy",5.7,2020,0,88.0,26224
-Dhuruvangal Pathinaaru,"Crime,Drama,Mystery",8.2,2016,0,105.0,16778
+A Private War,"Biography,Drama,War",6.7,2018,0,110.0,20832
+The Take,"Action,Adventure,Crime",6.3,2016,0,92.0,50489
+Down a Dark Hall,"Drama,Fantasy,Horror",5.0,2018,0,96.0,14827
+Monster,"Drama,Thriller",7.9,2023,0,127.0,12814
+The Glass Castle,"Biography,Drama",7.1,2017,0,127.0,38028
+Coco,"Adventure,Animation,Drama",8.4,2017,0,105.0,578556
+The Huntsman: Winter's War,"Action,Adventure,Drama",6.1,2016,0,114.0,118283
+No Time to Die,"Action,Adventure,Thriller",7.3,2021,0,163.0,439454
+12th Fail,"Biography,Drama",9.2,2023,0,147.0,94207
+Malevolent,"Horror,Mystery,Thriller",4.8,2018,0,89.0,16805
+How to Train Your Dragon: The Hidden World,"Action,Adventure,Animation",7.4,2019,0,104.0,147662
+Keeping Up with the Joneses,"Action,Comedy",5.9,2016,0,105.0,67684
+Mowgli: Legend of the Jungle,"Adventure,Drama,Fantasy",6.5,2018,0,104.0,65313
+Gully Boy,"Drama,Music,Romance",7.9,2019,0,154.0,43428
+Mudbound,"Drama,War",7.4,2017,0,134.0,53693
+Clifford the Big Red Dog,"Adventure,Comedy,Family",5.9,2021,0,96.0,16792
+An Officer and a Spy,"Drama,History,Thriller",7.2,2019,0,132.0,20788
+Smurfs: The Lost Village,"Adventure,Animation,Comedy",6.0,2017,0,90.0,23864
+Gods of Egypt,"Action,Adventure,Drama",5.4,2016,0,127.0,124575
+The Magnificent Seven,"Action,Adventure,Drama",6.9,2016,0,132.0,226327
+Troop Zero,"Comedy,Drama,Family",6.9,2019,0,94.0,12028
+Atomic Blonde,"Action,Thriller",6.7,2017,0,115.0,204937
+Reality,Drama,6.7,2023,0,83.0,17132
+The Deepest Breath,"Adventure,Documentary,Sport",7.7,2023,0,108.0,13812
+Goon: Last of the Enforcers,"Comedy,Sport",5.8,2017,0,101.0,14797
+The Kerala Story,Drama,7.1,2023,0,138.0,67001
+The Duel,"Drama,Western",5.8,2016,0,110.0,11809
+Sirf Ek Bandaa Kaafi Hai,"Crime,Drama,Thriller",7.9,2023,0,132.0,27806
+The Hatchet Wielding Hitchhiker,"Crime,Documentary",6.2,2023,0,85.0,12195
+Respect,"Biography,Drama,Music",6.6,2021,0,145.0,17608
+Isn't It Romantic,"Comedy,Fantasy,Musical",5.9,2019,0,89.0,73297
+The Fundamentals of Caring,"Comedy,Drama",7.3,2016,0,97.0,78754
+Evangelion: 3.0+1.01 Thrice Upon a Time,"Action,Animation,Drama",8.0,2021,0,154.0,13765
+The Adam Project,"Action,Adventure,Comedy",6.7,2022,0,106.0,227346
+"Extremely Wicked, Shockingly Evil and Vile","Biography,Crime,Drama",6.7,2019,0,110.0,101321
+Point Blank,"Action,Crime,Drama",5.7,2019,0,86.0,15643
+Billy Lynn's Long Halftime Walk,"Action,Drama,Sport",6.2,2016,0,113.0,23898
+Star Wars: Episode VIII - The Last Jedi,"Action,Adventure,Fantasy",6.9,2017,0,152.0,666188
+Star Wars: Episode IX - The Rise of Skywalker,"Action,Adventure,Fantasy",6.4,2019,0,141.0,487234
+The Beatles: Eight Days a Week - The Touring Years,"Documentary,History,Music",7.8,2016,0,106.0,13724
+Blockers,"Comedy,Drama",6.2,2018,0,102.0,84941
+Arrival,"Drama,Mystery,Sci-Fi",7.9,2016,0,116.0,754140
+Hi Nanna,"Drama,Family,Romance",8.2,2023,0,155.0,12360
+Wonder,"Drama,Family",7.9,2017,0,113.0,176562
+Flora and Son,"Comedy,Music,Romance",7.0,2023,0,97.0,11479
 The Light Between Oceans,"Drama,Romance",7.2,2016,0,133.0,59753
-The Flash,"Action,Adventure,Fantasy",6.7,2023,0,144.0,201276
-Nyad,"Biography,Drama,Sport",7.1,2023,0,121.0,23809
-Songbird,"Drama,Sci-Fi,Thriller",4.8,2020,0,84.0,11488
-Cumali Ceber: Allah Seni Alsin,Comedy,1.0,2017,0,100.0,39283
-The Pope's Exorcist,"Horror,Thriller",6.1,2023,0,103.0,79699
-Licorice Pizza,"Comedy,Drama,Romance",7.1,2021,0,133.0,138261
-The Invisible Man,"Drama,Horror,Mystery",7.1,2020,0,124.0,251457
-Logan Lucky,"Action,Comedy,Crime",7.0,2017,0,118.0,160863
-The Killer,"Action,Adventure,Crime",6.7,2023,0,118.0,168861
-Dangerous Lies,"Crime,Mystery,Thriller",5.3,2020,0,96.0,18472
-Aquaman,"Action,Adventure,Fantasy",6.8,2018,0,143.0,514511
-Simmba,"Action,Crime,Drama",5.5,2018,0,158.0,21872
-Kapoor & Sons,"Comedy,Drama,Family",7.7,2016,0,132.0,28242
-Ala Vaikunthapurramuloo,"Action,Comedy,Drama",7.3,2020,0,163.0,23174
-Bottoms,Comedy,6.8,2023,0,91.0,32871
-Ammonite,"Biography,Drama,History",6.5,2020,0,117.0,22622
+The Cloverfield Paradox,"Action,Horror,Sci-Fi",5.5,2018,0,102.0,112083
+Pacific Rim: Uprising,"Action,Adventure,Sci-Fi",5.6,2018,0,111.0,125788

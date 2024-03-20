@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-He's All That,"Comedy,Romance",4.4,2021,0,88.0,28204
-Loving,"Biography,Drama,Romance",7.0,2016,0,123.0,36198
-The Accountant,"Action,Crime,Drama",7.3,2016,0,128.0,315644
-Ghost Stories,"Drama,Horror",6.4,2017,0,98.0,36593
-C'mon C'mon,Drama,7.4,2021,0,109.0,38034
-10 Cloverfield Lane,"Drama,Horror,Mystery",7.2,2016,0,103.0,351123
-Bird Box,"Horror,Mystery,Sci-Fi",6.6,2018,0,124.0,380633
-Breakthrough,"Biography,Drama",6.3,2019,0,116.0,10853
-Run Rabbit Run,"Horror,Thriller",5.0,2023,0,100.0,10462
-Incantation,"Horror,Mystery",6.2,2022,0,110.0,19940
-Crawl,"Action,Adventure,Horror",6.1,2019,0,87.0,92954
-It Comes at Night,"Drama,Horror,Mystery",6.2,2017,0,91.0,101898
-14 Peaks: Nothing Is Impossible,"Adventure,Documentary,Sport",7.7,2021,0,101.0,29975
-Freaks,"Drama,Mystery,Sci-Fi",6.7,2018,0,105.0,39676
-Being the Ricardos,"Biography,Drama",6.5,2021,0,131.0,44327
-Meet the Blacks,"Comedy,Horror",4.8,2016,0,94.0,37762
-Luca,"Adventure,Animation,Comedy",7.4,2021,0,95.0,189023
-Tiger Zinda Hai,"Action,Adventure,Thriller",5.9,2017,0,161.0,33456
-Professor Marston & the Wonder Women,"Biography,Drama,History",7.0,2017,0,108.0,28346
-Ma,"Horror,Mystery,Thriller",5.6,2019,0,99.0,59166
-Boss Level,"Action,Adventure,Comedy",6.8,2020,0,100.0,78023
-Cabin Fever,"Horror,Sci-Fi,Thriller",3.7,2016,0,99.0,11005
-Paddington 2,"Adventure,Comedy,Family",7.8,2017,0,103.0,92288
-Chhichhore,"Comedy,Drama,Romance",8.3,2019,0,143.0,62518
-The Last Black Man in San Francisco,Drama,7.3,2019,0,121.0,21677
-Devotion,"Action,Biography,Drama",6.6,2022,0,139.0,26964
-The Informer,"Action,Crime,Drama",6.6,2019,0,113.0,41569
-Beta Test,"Action,Sci-Fi,Thriller",4.7,2016,0,88.0,21819
-Anna,"Action,Thriller",6.6,2019,0,118.0,91997
-Little Evil,"Comedy,Fantasy,Horror",5.7,2017,0,94.0,23101
-Run Hide Fight,"Action,Crime,Drama",6.3,2020,0,109.0,26826
-Ideal Home,"Comedy,Drama",6.4,2018,0,91.0,11536
-A Silent Voice: The Movie,"Animation,Drama",8.1,2016,0,130.0,98308
-The Man Who Killed Hitler and Then the Bigfoot,"Adventure,Drama,Sci-Fi",5.7,2018,0,98.0,13607
-Still: A Michael J. Fox Movie,"Biography,Documentary",8.1,2023,0,95.0,14252
-The Kissing Booth,"Comedy,Romance",5.9,2018,0,105.0,92145
-Shiddat,Romance,7.6,2021,0,146.0,23793
-The Unforgivable,"Crime,Drama,Mystery",7.1,2021,0,112.0,117917
-Kidnap,"Action,Crime,Thriller",5.9,2017,0,95.0,38883
-Samaritan,"Action,Drama,Fantasy",5.7,2022,0,102.0,54322
-Red Joan,"Biography,Drama,History",6.4,2018,0,101.0,14275
+The Sleepover,"Action,Adventure,Comedy",5.7,2020,0,100.0,11888
+Rashmi Rocket,"Drama,Sport",7.3,2021,0,129.0,12533
+Mimi,"Comedy,Drama",7.8,2021,0,132.0,42844
+Tell Me Who I Am,"Documentary,Drama,Mystery",7.6,2019,0,86.0,16381
+Malik,"Action,Biography,Crime",8.0,2021,0,162.0,13787
+Freaky,"Comedy,Horror,Thriller",6.3,2020,0,102.0,71022
+Shikara,"Drama,History,Romance",3.4,2020,0,118.0,15447
 Titane,"Drama,Horror,Sci-Fi",6.5,2021,0,108.0,54788
-The Vault,"Crime,Horror,Mystery",4.9,2017,0,91.0,13534
-A Boy Called Christmas,"Adventure,Drama,Family",6.7,2021,0,106.0,27092
-The Polka King,"Biography,Comedy,Drama",6.0,2017,0,95.0,11828
-Sherlock Gnomes,"Adventure,Animation,Comedy",5.2,2018,0,86.0,13880
-Another Round,Drama,7.7,2020,0,117.0,190260
-Acts of Vengeance,"Action,Drama,Thriller",5.7,2017,0,87.0,13494
-Why Him?,Comedy,6.2,2016,0,111.0,122568
-Sisu,"Action,War",6.9,2022,0,91.0,70046
+The Heist of the Century,"Action,Biography,Comedy",7.1,2020,0,114.0,10114
+Ant-Man and the Wasp: Quantumania,"Action,Adventure,Comedy",6.1,2023,0,124.0,221041
+Old,"Drama,Horror,Mystery",5.8,2021,0,108.0,157451
+Nope,"Horror,Mystery,Sci-Fi",6.8,2022,0,130.0,258408
+Things Heard & Seen,"Drama,Horror,Mystery",5.3,2021,0,121.0,35663
+Thappad,Drama,7.0,2020,0,142.0,26608
+C'mon C'mon,Drama,7.4,2021,0,109.0,38034
+Miami Bici,"Comedy,Crime",6.1,2020,0,98.0,10774
+Spirited,"Comedy,Family,Musical",6.6,2022,0,127.0,49701
+Pig,"Drama,Mystery",6.9,2021,0,92.0,87717
+Home Sweet Home Alone,"Comedy,Crime,Family",3.6,2021,0,93.0,20180
+The Babysitter: Killer Queen,"Comedy,Horror",5.8,2020,0,101.0,49910
+Haseen Dillruba,"Crime,Drama,Mystery",6.9,2021,0,135.0,29582
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,"Action,Adventure,Animation",8.2,2020,0,117.0,70958
+The Machine,"Action,Comedy",5.8,2023,0,112.0,14715
+Nocturne,"Drama,Horror,Music",5.7,2020,0,90.0,11329
+Toofaan,"Action,Drama,Sport",6.2,2021,0,163.0,51996
+The Christmas Chronicles: Part Two,"Adventure,Comedy,Family",6.0,2020,0,112.0,35469
+The Map of Tiny Perfect Things,"Comedy,Fantasy,Romance",6.8,2021,0,98.0,27158
+Wrath of Man,"Action,Crime,Thriller",7.1,2021,0,119.0,203106
+"Love, Guaranteed","Comedy,Romance",5.6,2020,0,90.0,18845
+Cirkus,"Comedy,Drama",4.5,2022,0,139.0,23390
+Troll,"Action,Adventure,Drama",5.8,2022,0,101.0,48215
+Blue Bayou,Drama,7.1,2021,0,117.0,10123
+The Addams Family 2,"Adventure,Animation,Comedy",5.4,2021,0,93.0,15391
+Boiling Point,"Drama,Thriller",7.5,2021,0,92.0,40582
+The Paramedic,"Crime,Drama,Thriller",5.7,2020,0,94.0,14482
+Clerks III,"Comedy,Drama",6.2,2022,0,100.0,18073
+The Northman,"Action,Adventure,Drama",7.0,2022,0,137.0,247634
+The Wolf of Snow Hollow,"Comedy,Horror,Mystery",6.2,2020,0,85.0,24045
+Pagglait,"Comedy,Drama",6.9,2021,0,114.0,10167
+Creed III,"Drama,Sport",6.7,2023,0,116.0,90071
+Pieces of a Woman,Drama,7.0,2020,0,126.0,55600
+Supernova,"Drama,Romance",6.9,2020,0,95.0,14054
+The Card Counter,"Crime,Drama,Thriller",6.2,2021,0,111.0,42158
+She Said,"Drama,History",7.3,2022,0,129.0,38060
+The Princess Switch: Switched Again,"Comedy,Drama,Family",5.4,2020,0,96.0,13371
+The Duke,"Biography,Comedy,Crime",6.9,2020,0,95.0,12885
+Stuck Apart,"Comedy,Drama",6.0,2021,0,96.0,11341
+House of Gucci,"Biography,Crime,Drama",6.6,2021,0,158.0,157342
+The Unforgivable,"Crime,Drama,Mystery",7.1,2021,0,112.0,117917
+The Voyeurs,"Drama,Mystery,Thriller",6.1,2021,0,116.0,29189
+Free State of Jones,"Action,Biography,Drama",6.9,2016,0,139.0,61858
+Nobody Sleeps in the Woods Tonight,"Fantasy,Horror,Mystery",4.9,2020,0,102.0,13844
+Scream,"Horror,Mystery,Thriller",6.3,2022,0,114.0,155777
+Dog,"Comedy,Drama",6.5,2022,0,101.0,45204
+Psycho Goreman,"Comedy,Horror,Sci-Fi",6.3,2020,0,95.0,14895
+Annaatthe,"Action,Comedy,Drama",4.0,2021,0,163.0,10604
+Bellbottom,"Action,Thriller",6.1,2021,0,123.0,23525
+Licorice Pizza,"Comedy,Drama,Romance",7.1,2021,0,133.0,138261
+The Out-Laws,"Action,Comedy,Crime",5.4,2023,0,95.0,34387
+Rescued by Ruby,"Biography,Drama,Family",7.2,2022,0,90.0,10550
+Cadaver,"Drama,Horror,Thriller",5.2,2020,0,86.0,12116
+Don't Look Up,"Comedy,Drama,Sci-Fi",7.2,2021,0,138.0,589693
+The Unbearable Weight of Massive Talent,"Action,Comedy,Crime",7.0,2022,0,107.0,145507
+Beast,"Action,Comedy,Thriller",5.2,2022,0,155.0,36150
+Wish,"Adventure,Animation,Comedy",5.7,2023,0,95.0,19229
+Red Dot,"Drama,Horror,Thriller",5.5,2021,0,86.0,14614

@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-American Assassin,"Action,Thriller",6.2,2017,0,111.0,88389
-Love Hard,"Comedy,Romance",6.3,2021,0,104.0,61048
-Live by Night,"Action,Crime,Drama",6.4,2016,0,129.0,59532
-Irresistible,"Comedy,Drama",6.3,2020,0,101.0,23230
-The Book of Henry,"Crime,Drama,Thriller",6.6,2017,0,105.0,29245
-Coolie No. 1,"Action,Comedy,Romance",4.2,2020,0,134.0,74137
-The Kissing Booth 3,"Comedy,Romance",4.8,2021,0,112.0,21302
-Private Life,"Comedy,Drama",7.2,2018,0,123.0,21826
-Anyone But You,"Comedy,Romance",6.7,2023,0,103.0,17521
-The Isle,"Fantasy,Mystery,Thriller",4.9,2018,0,96.0,11463
-Champions,"Comedy,Drama,Family",7.2,2018,0,124.0,11684
-Morbius,"Action,Adventure,Horror",5.2,2022,0,104.0,149079
-Ludo,"Action,Comedy,Crime",7.6,2020,0,150.0,43026
-Hidden Strike,"Action,Adventure,Comedy",5.3,2023,0,102.0,17767
-Behind the Curve,Documentary,6.5,2018,0,96.0,10671
-Beavis and Butt-Head Do the Universe,"Animation,Comedy,Sci-Fi",7.0,2022,0,87.0,13035
-Deerskin,"Comedy,Horror",6.6,2019,0,77.0,11424
-Errementari,"Fantasy,Horror",6.4,2017,0,98.0,13346
-Skin,"Biography,Crime,Drama",6.8,2018,0,118.0,18402
-C'est la vie!,"Comedy,Drama,Romance",6.8,2017,0,117.0,11887
-Firebird,"Biography,Drama,Romance",7.1,2021,0,107.0,12395
-Antebellum,"Drama,Horror,Mystery",5.8,2020,0,105.0,29477
-Rye Lane,"Comedy,Drama,Romance",7.2,2023,0,82.0,11630
-Disobedience,Drama,6.6,2017,0,114.0,35443
-The Darkest Minds,"Action,Adventure,Drama",5.7,2018,0,104.0,35762
-Black Bear,"Comedy,Drama",6.5,2020,0,104.0,15748
-Malik,"Action,Biography,Crime",8.0,2021,0,162.0,13787
-The Zookeeper's Wife,"Biography,Drama,History",7.0,2017,0,127.0,46099
-Cold Skin,"Action,Fantasy,Horror",6.0,2017,0,108.0,17815
-Shamshera,"Action,Adventure,Drama",4.7,2022,0,178.0,57140
-To Catch a Killer,"Action,Crime,Drama",6.6,2023,0,119.0,34863
-Pride and Prejudice and Zombies,"Action,Comedy,Fantasy",5.8,2016,0,108.0,59889
-Hustle,"Comedy,Drama,Sport",7.3,2022,0,117.0,141189
-A Man Called Otto,"Comedy,Drama",7.5,2022,0,126.0,151448
-Black Panther,"Action,Adventure,Sci-Fi",7.3,2018,0,134.0,829225
-Metal Lords,"Comedy,Music",6.7,2022,0,97.0,32269
-Going in Style,"Comedy,Crime",6.6,2017,0,96.0,90854
-The Good Neighbor,"Crime,Horror,Mystery",6.0,2022,0,106.0,12376
-Doctor Strange in the Multiverse of Madness,"Action,Adventure,Fantasy",6.9,2022,0,126.0,469253
-The Kashmir Files,Drama,8.6,2022,0,170.0,572790
-Ron's Gone Wrong,"Adventure,Animation,Comedy",7.0,2021,0,107.0,39676
-Ram Setu,"Action,Adventure",5.3,2022,0,140.0,17699
-Ferry,"Action,Crime,Drama",7.0,2021,0,106.0,12905
-Terminal,"Action,Comedy,Crime",5.3,2018,0,95.0,24994
-Animal,"Action,Crime,Drama",6.4,2023,0,204.0,76973
-Veronica,"Horror,Mystery",6.2,2017,0,105.0,46906
-Turning Red,"Adventure,Animation,Comedy",7.0,2022,0,100.0,148574
-Vesper,"Adventure,Drama,Sci-Fi",6.0,2022,0,114.0,21617
-Aniara,"Drama,Sci-Fi",6.3,2018,0,106.0,11248
-Men,"Drama,Fantasy,Horror",6.1,2022,0,100.0,58991
+Misconduct,"Crime,Drama,Mystery",5.3,2016,0,106.0,17636
+The Dig,"Biography,Drama,History",7.1,2021,0,112.0,81660
+The One and Only Ivan,"Adventure,Comedy,Drama",6.6,2020,0,95.0,13325
+The Red Turtle,"Animation,Drama,Family",7.5,2016,0,80.0,38176
+Kisi Ka Bhai Kisi Ki Jaan,"Action,Comedy,Drama",4.2,2023,0,145.0,40617
+Ibiza,"Comedy,Romance",5.2,2018,0,94.0,18771
+The Red Pill,Documentary,8.0,2016,0,108.0,11990
+The BFG,"Adventure,Family,Fantasy",6.3,2016,0,117.0,92442
+The Other Side of the Door,"Horror,Thriller",5.3,2016,0,96.0,19102
+Elvis,"Biography,Drama,Music",7.3,2022,0,159.0,227933
+Brain on Fire,"Biography,Drama",6.6,2016,0,88.0,23892
+All the Old Knives,"Mystery,Thriller",6.1,2022,0,101.0,28108
+Mine,"Drama,Fantasy,Thriller",5.8,2016,0,106.0,21089
+War on Everyone,"Action,Comedy,Crime",5.8,2016,0,98.0,20221
+The Hollars,"Comedy,Drama,Romance",6.6,2016,0,88.0,14284
+Elle,"Crime,Drama,Thriller",7.1,2016,0,130.0,70565
+Underworld: Blood Wars,"Action,Fantasy,Thriller",5.7,2016,0,91.0,80361
+Power Rangers,"Action,Adventure,Fantasy",5.9,2017,0,124.0,113257
+American Honey,"Adventure,Drama,Romance",7.0,2016,0,163.0,46052
+Maudie,"Biography,Drama,Romance",7.6,2016,0,115.0,20994
+Gringo,"Action,Comedy,Crime",6.1,2018,0,111.0,31927
+Revolt,"Action,Adventure,Sci-Fi",5.3,2017,0,87.0,10087
+Kong: Skull Island,"Action,Adventure,Fantasy",6.7,2017,0,118.0,342411
+The Trust,"Action,Crime,Mystery",5.4,2016,0,92.0,20551
+Godzilla: King of the Monsters,"Action,Adventure,Fantasy",6.0,2019,0,132.0,201496
+Lion,"Biography,Drama",8.0,2016,0,118.0,248977
+Gerald's Game,"Drama,Horror,Thriller",6.5,2017,0,103.0,125427
+Blue Mountain State: The Rise of Thadland,"Comedy,Sport",5.7,2016,0,90.0,16549
+Rogue One: A Star Wars Story,"Action,Adventure,Sci-Fi",7.8,2016,0,133.0,679840
+The Wife,Drama,7.2,2017,0,99.0,42631
+Jungle,"Action,Adventure,Biography",6.7,2017,0,115.0,62644
+Ferrari,"Biography,Drama,History",6.6,2023,0,130.0,23516
+The Ice Road,"Action,Adventure,Thriller",5.6,2021,0,109.0,46910
+My Big Fat Greek Wedding 2,"Comedy,Romance",6.0,2016,0,94.0,35174
+The Equalizer 2,"Action,Crime,Thriller",6.7,2018,0,121.0,192613
+Shivaay,"Action,Adventure,Crime",6.1,2016,0,153.0,11166
+Snowden,"Biography,Crime,Drama",7.3,2016,0,134.0,161562
+Solo: A Star Wars Story,"Action,Adventure,Sci-Fi",6.9,2018,0,135.0,375246
+Journey's End,"Drama,War",6.7,2017,0,107.0,11193
+La La Land,"Comedy,Drama,Music",8.0,2016,0,128.0,656219
+Sonic the Hedgehog,"Action,Adventure,Comedy",6.5,2020,0,99.0,156755
+Barb and Star Go to Vista Del Mar,"Comedy,Fantasy",6.3,2021,0,107.0,19780
+The Choice,"Drama,Romance",6.5,2016,0,111.0,45257
+The Kissing Booth,"Comedy,Romance",5.9,2018,0,105.0,92145
+The Nice Guys,"Action,Comedy,Crime",7.4,2016,0,116.0,366625
+Malignant,"Crime,Horror,Mystery",6.2,2021,0,111.0,107125
+Big Time Adolescence,"Comedy,Drama",6.9,2019,0,91.0,15683
+The Predator,"Action,Adventure,Horror",5.3,2018,0,107.0,141989
+Only the Brave,"Action,Biography,Drama",7.6,2017,0,134.0,76246
+Cabin Fever,"Horror,Sci-Fi,Thriller",3.7,2016,0,99.0,11005
+The Outpost,"Action,Drama,History",6.8,2019,0,123.0,39791
+31,"Horror,Thriller",5.1,2016,0,102.0,22764
+Yoga Hosers,"Action,Comedy,Horror",4.3,2016,0,88.0,15349
+Infinity Chamber,"Sci-Fi,Thriller",6.2,2016,0,103.0,11590
+To All the Boys I've Loved Before,"Comedy,Drama,Romance",7.0,2018,0,99.0,121881
+Tragedy Girls,"Comedy,Crime,Horror",6.0,2017,0,98.0,11397
+How to Talk to Girls at Parties,"Comedy,Music,Romance",5.7,2017,0,102.0,12217
+Mohenjo Daro,"Action,Adventure,Drama",5.6,2016,0,155.0,12603
+Cargo,"Drama,Horror,Sci-Fi",6.3,2017,0,105.0,47626
+Dumbo,"Adventure,Family,Fantasy",6.3,2019,0,112.0,81814
+The Goldfinch,"Crime,Drama,Mystery",6.4,2019,0,149.0,26582
+The Boss Baby,"Adventure,Animation,Comedy",6.3,2017,0,97.0,139371
+Stronger,"Biography,Drama",6.9,2017,0,119.0,49069
+The Boy,"Horror,Mystery,Thriller",6.0,2016,0,97.0,101040
+Baby Driver,"Action,Crime,Drama",7.5,2017,0,113.0,599039
+Leave No Trace,"Adventure,Drama",7.1,2018,0,109.0,64628

@@ -1,51 +1,67 @@
 Movie Name,Genre,Rating,Release Date,isAdult,Runtime Minutes,numVotes
-My Policeman,"Drama,Romance",6.5,2022,0,113.0,21693
-Baby Driver,"Action,Crime,Drama",7.5,2017,0,113.0,599039
-Bushwick,"Action,Thriller",5.2,2017,0,94.0,13795
-Retribution,"Action,Thriller",5.3,2023,0,91.0,17057
-Deepwater Horizon,"Action,Drama,History",7.1,2016,0,107.0,180171
-Sherni,"Action,Adventure,Drama",6.8,2021,0,131.0,11510
-The Wolf's Call,"Action,Thriller",6.9,2019,0,115.0,20538
-Along With the Gods: The Two Worlds,"Action,Adventure,Drama",7.2,2017,0,139.0,18848
-My Octopus Teacher,Documentary,8.1,2020,0,85.0,62338
-Val,"Biography,Documentary",7.6,2021,0,109.0,14181
-Finding Dory,"Adventure,Animation,Comedy",7.2,2016,0,97.0,299547
-Ride Along 2,"Action,Comedy,Crime",5.9,2016,0,102.0,62552
-Yashoda,"Action,Crime,Sci-Fi",6.6,2022,0,135.0,11766
-Kung Fu Yoga,"Action,Adventure,Comedy",5.2,2017,0,107.0,11208
-No One Will Save You,"Horror,Sci-Fi,Thriller",6.3,2023,0,93.0,61087
-Mine 9,"Drama,Thriller",6.0,2019,0,83.0,11886
-Hotel Transylvania 4: Transformania,"Adventure,Animation,Comedy",6.0,2022,0,87.0,38064
-Personal Shopper,"Mystery,Thriller",6.1,2016,0,105.0,42840
-Housefull 3,"Action,Comedy,Romance",4.9,2016,0,140.0,10508
-Cruella,"Adventure,Comedy,Crime",7.3,2021,0,134.0,261403
-The Good Nurse,"Biography,Crime,Drama",6.8,2022,0,121.0,77808
-Through My Window,"Comedy,Drama,Romance",5.5,2022,0,116.0,16677
-The Party,"Comedy,Drama",6.5,2017,0,71.0,20626
-The Call,"Crime,Horror,Mystery",7.1,2020,0,112.0,42370
-The 15:17 to Paris,"Biography,Drama,Thriller",5.3,2018,0,94.0,35341
-Society of the Snow,"Adventure,Drama,History",7.9,2023,0,144.0,88844
-The Jungle Book,"Action,Adventure,Animation",7.4,2016,0,106.0,290201
-Fatman,"Action,Adventure,Comedy",5.9,2020,0,100.0,29852
-Boiling Point,"Drama,Thriller",7.5,2021,0,92.0,40582
-Jayeshbhai Jordaar,"Comedy,Drama",6.0,2022,0,121.0,43926
-The Brothers Grimsby,"Action,Adventure,Comedy",6.2,2016,0,83.0,110109
-The Boys in the Band,Drama,6.8,2020,0,121.0,17748
-Dream Girl 2,"Comedy,Drama,Romance",5.2,2023,0,134.0,11057
-The Whale,Drama,7.7,2022,0,117.0,201995
-Jungle Cruise,"Action,Adventure,Comedy",6.6,2021,0,127.0,210126
-Operation Fortune: Ruse de Guerre,"Action,Comedy,Thriller",6.3,2023,0,114.0,81428
-The Mortuary Collection,"Fantasy,Horror",6.4,2019,0,108.0,14385
-Happiest Season,"Comedy,Romance",6.6,2020,0,102.0,46936
-Shadow in the Cloud,"Action,Horror,War",5.0,2020,0,83.0,30206
-Paper Lives,Drama,6.6,2021,0,96.0,13587
-Dragon Ball Super: Super Hero,"Action,Adventure,Animation",7.1,2022,0,100.0,14252
-Jurassic World Dominion,"Action,Adventure,Sci-Fi",5.6,2022,0,147.0,199700
-Klaus,"Adventure,Animation,Comedy",8.2,2019,0,96.0,186243
-The Humans,Drama,6.1,2021,0,108.0,10562
-Lady Bird,"Comedy,Drama",7.4,2017,0,94.0,322530
-The 5th Wave,"Action,Adventure,Sci-Fi",5.2,2016,0,112.0,116304
-A Good Person,Drama,7.1,2023,0,128.0,20211
-The Lady of Heaven,"Action,Drama,History",5.8,2021,0,141.0,14598
-Tenet,"Action,Sci-Fi,Thriller",7.3,2020,0,150.0,579444
-The Heist of the Century,"Action,Biography,Comedy",7.1,2020,0,114.0,10114
+Memory,"Action,Crime,Thriller",5.7,2022,0,114.0,34197
+The Book of Sun,Comedy,7.9,2020,0,120.0,11180
+Pet,"Horror,Thriller",5.7,2016,0,94.0,18666
+The Fallout,Drama,7.0,2021,0,96.0,32554
+Orphan: First Kill,"Crime,Drama,Horror",5.9,2022,0,99.0,45079
+The Creator,"Action,Adventure,Drama",6.8,2023,0,133.0,135254
+Prey,"Action,Adventure,Drama",7.1,2022,0,100.0,222499
+Heropanti 2,"Action,Comedy,Crime",2.4,2022,0,145.0,27425
+Downfall: The Case Against Boeing,Documentary,7.4,2022,0,89.0,13280
+The Stranger,"Crime,Drama,Thriller",6.6,2022,0,117.0,25767
+Athlete A,"Crime,Documentary,Sport",7.6,2020,0,103.0,12251
+Sputnik,"Drama,Horror,Mystery",6.4,2020,0,113.0,26934
+Hocus Pocus 2,"Comedy,Family,Fantasy",6.0,2022,0,103.0,52204
+Badhaai Do,"Comedy,Crime,Drama",7.0,2022,0,147.0,20908
+Ek Villain Returns,"Action,Crime,Romance",4.4,2022,0,129.0,15471
+A Whisker Away,"Adventure,Animation,Drama",6.7,2020,0,104.0,13430
+Vengeance,"Comedy,Music,Mystery",6.8,2022,0,107.0,36265
+David Attenborough: A Life on Our Planet,"Biography,Documentary",8.9,2020,0,83.0,34285
+Rurouni Kenshin: Final Chapter Part II - The Beginning,"Action,Adventure,Drama",7.4,2021,0,137.0,10516
+Varisu,"Action,Drama",6.0,2023,0,169.0,37898
+Violent Night,"Action,Comedy,Thriller",6.7,2022,0,112.0,97145
+Watcher,"Drama,Horror,Thriller",6.3,2022,0,96.0,40239
+Vikrant Rona,"Action,Crime,Drama",7.0,2022,0,148.0,28599
+Rambo: Last Blood,"Action,Crime,Thriller",6.1,2019,0,89.0,108253
+Doctor Strange,"Action,Adventure,Fantasy",7.5,2016,0,115.0,795835
+The Lost City of Z,"Adventure,Biography,Drama",6.6,2016,0,141.0,98542
+First Man,"Biography,Drama,History",7.3,2018,0,141.0,200364
+Anything for Jackson,"Horror,Mystery",6.3,2020,0,97.0,10290
+Metal Lords,"Comedy,Music",6.7,2022,0,97.0,32269
+Whitney Houston: I Wanna Dance with Somebody,"Biography,Drama,Music",6.6,2022,0,144.0,22175
+Ghost in the Shell,"Action,Crime,Drama",6.3,2017,0,107.0,226255
+65,"Action,Adventure,Drama",5.4,2023,0,93.0,84951
+Thirteen Lives,"Action,Adventure,Biography",7.8,2022,0,147.0,66218
+Extraction II,"Action,Crime,Thriller",7.0,2023,0,122.0,142232
+Beautiful Boy,"Biography,Drama",7.4,2018,0,120.0,95954
+Black Box,"Horror,Mystery,Sci-Fi",6.2,2020,0,100.0,16957
+Last Man Down,"Action,Sci-Fi",3.5,2021,0,87.0,13936
+Drishyam 2,"Crime,Drama,Thriller",8.4,2021,0,152.0,40492
+Zack Snyder's Justice League,"Action,Adventure,Fantasy",7.9,2021,0,242.0,433587
+Hypnotic,"Mystery,Thriller",5.3,2021,0,88.0,19420
+Bulbbul,"Drama,Horror,Mystery",6.5,2020,0,94.0,14124
+Sonic the Hedgehog 2,"Action,Adventure,Comedy",6.5,2022,0,122.0,84813
+Death Note,"Crime,Drama,Fantasy",4.6,2017,0,101.0,89873
+Attack on Titan: Chronicle,"Action,Adventure,Animation",8.4,2020,0,122.0,11792
+Sarkaru Vaari Paata,"Action,Drama",5.6,2022,0,162.0,10867
+Mahaan,"Action,Drama,Thriller",7.6,2022,0,163.0,17429
+Decision to Leave,"Crime,Drama,Mystery",7.3,2022,0,139.0,52979
+Hatching,"Drama,Fantasy,Horror",6.2,2022,0,91.0,14538
+Emancipation,"Action,Thriller",6.2,2022,0,132.0,26403
+Spencer,"Biography,Drama",6.6,2021,0,117.0,75796
+Run Rabbit Run,"Horror,Thriller",5.0,2023,0,100.0,10462
+Holmes & Watson,"Comedy,Crime,Mystery",3.9,2018,0,90.0,38965
+Raat Akeli Hai,"Crime,Drama,Mystery",7.2,2020,0,149.0,19521
+Sharper,"Crime,Drama,Thriller",6.7,2023,0,116.0,29167
+Songbird,"Drama,Sci-Fi,Thriller",4.8,2020,0,84.0,11488
+Bullet Train,"Action,Comedy,Thriller",7.3,2022,0,127.0,410134
+Den of Thieves,"Action,Crime,Drama",7.0,2018,0,140.0,122161
+Parallel Mothers,Drama,7.1,2021,0,123.0,35094
+The Three Musketeers - Part I: D'Artagnan,"Action,Adventure,History",6.7,2023,0,121.0,17302
+Malcolm & Marie,"Drama,Romance",6.6,2021,0,106.0,40525
+The Hand of God,Drama,7.3,2021,0,130.0,48656
+Venom,"Action,Adventure,Sci-Fi",6.6,2018,0,112.0,530842
+"Confess, Fletch","Comedy,Crime,Mystery",6.5,2022,0,98.0,18216
+Old Henry,"Action,Drama,Western",7.3,2021,0,99.0,34995
+London Fields,"Crime,Mystery,Thriller",3.9,2018,0,118.0,12053
+Phone Bhoot,"Comedy,Horror",5.2,2022,0,136.0,10841
